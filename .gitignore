@@ -1,0 +1,21 @@
+﻿# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Login/session state - never upload
+unidays_state.json
+studentbeans_state.json
+
+# Local output/debug files
+unidays_outputs/
+studentbeans_outputs/
+screenshots/
+dashboard/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
