@@ -32,10 +32,16 @@ jobs:
           python scripts/studentbeans_monitor.py
           python scripts/build_dashboard.py
 
+      - name: Send Feishu notification
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: |
+          python scripts/notify_feishu.py
+
       - name: Commit updated dashboard
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add docs dashboard unidays_state.json || true
-          git commit -m "update daily dashboard" || echo "No changes to commit"
+          git add docs dashboard screenshots unidays_state.json || true
+          git commit -m "update daily monitor result" || echo "No changes to commit"
           git push
