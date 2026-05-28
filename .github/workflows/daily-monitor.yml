@@ -9,10 +9,15 @@ jobs:
   run:
     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v4
+    permissions:
+      contents: write
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -22,7 +27,15 @@ jobs:
           playwright install chromium
 
       - name: Run crawler
-        env:
-          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: |
-          python scripts/run_daily_monitor.py
+          python scripts/unidays_monitor.py
+          python scripts/studentbeans_monitor.py
+          python scripts/build_dashboard.py
+
+      - name: Commit updated dashboard
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs dashboard unidays_state.json || true
+          git commit -m "update daily dashboard" || echo "No changes to commit"
+          git push
