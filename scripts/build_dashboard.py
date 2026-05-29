@@ -1,23 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Build a static dashboard from UNiDAYS + Student Beans crawler outputs.
-
-Reads latest:
-- unidays_outputs/clean_offers_YYYY-MM-DD.json
-- studentbeans_outputs/clean_offers_YYYY-MM-DD.json
-
-Writes:
-- docs/index.html                 # for GitHub Pages
-- docs/dashboard_YYYY-MM-DD.html  # daily archive
-- dashboard/index.html            # local preview
-
-Run:
-python .\scripts\build_dashboard.py
 """
 
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
@@ -47,6 +36,34 @@ PRODUCT_ORDER = [
 ]
 
 
+def normalize_offer_text(text: str) -> str:
+    if not text:
+        return ""
+
+    text = str(text).lower()
+
+    # 去掉倒计时：3 days / 4 days / 1 day
+    text = re.sub(r"\b\d+\s*days?\b", "", text, flags=re.IGNORECASE)
+
+    # 去掉小时倒计时：24 hours / 1 hour
+    text = re.sub(r"\b\d+\s*hours?\b", "", text, flags=re.IGNORECASE)
+
+    # 去掉分钟倒计时
+    text = re.sub(r"\b\d+\s*mins?\b", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\b\d+\s*minutes?\b", "", text, flags=re.IGNORECASE)
+
+    # 去掉常见倒计时/促销提示词
+    text = re.sub(r"\bends?\s+soon\b", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\blimited[-\s]?time\b", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bexpires?\s+soon\b", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bending\s+soon\b", "", text, flags=re.IGNORECASE)
+
+    # 清理符号和多余空格
+    text = re.sub(r"\s+", " ", text).strip()
+
+    return text
+
+
 def latest_clean_file(folder: Path) -> Path | None:
     files = sorted(folder.glob("clean_offers_*.json"))
     return files[-1] if files else None
@@ -64,10 +81,10 @@ def read_rows(path: Path | None) -> list[dict]:
 
 def row_key(row: dict) -> tuple[str, str, str, str]:
     return (
-        str(row.get("source_type", "")),
-        str(row.get("page", "")),
-        str(row.get("brand", "")),
-        " ".join(str(row.get("offer", "")).lower().split()),
+        str(row.get("source_type", "")).strip().lower(),
+        str(row.get("page", "")).strip().lower(),
+        str(row.get("brand", "")).strip().lower(),
+        normalize_offer_text(row.get("offer", "")),
     )
 
 
@@ -88,8 +105,10 @@ def make_diff(folder: Path, current: Path | None, rows: list[dict]) -> dict:
         }
 
     old_rows = read_rows(prev)
+
     today_set = {row_key(r) for r in rows}
     old_set = {row_key(r) for r in old_rows}
+
     today_map = {row_key(r): r for r in rows}
     old_map = {row_key(r): r for r in old_rows}
 
@@ -170,7 +189,7 @@ def prepare_platform(name: str, folder: Path) -> dict:
         competitor_rows_for_product = [r for r in group if r.get("brand", "").lower() not in OWNED_BRANDS]
         products[product] = {
             "owned": [[r.get("brand", ""), r.get("offer", "")] for r in owned_rows],
-            "trainpal": [r.get("offer", "") for r in owned_rows],  # backward compatibility
+            "trainpal": [r.get("offer", "") for r in owned_rows],
             "competitors": [[r.get("brand", ""), r.get("offer", "")] for r in competitor_rows_for_product],
         }
 
