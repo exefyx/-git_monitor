@@ -42,6 +42,9 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add docs unidays_state.json || true
-          git commit -m "update daily monitor result" || echo "No changes to commit"
+
+          git add docs
+
+          git commit -m "update dashboard $(date +'%Y-%m-%d')" || echo "No changes to commit"
+
           git push
