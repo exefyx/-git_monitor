@@ -28,8 +28,8 @@ jobs:
 
       - name: Run crawler
         run: |
-          python scripts/unidays_monitor.py
-          python scripts/studentbeans_monitor.py
+          python scripts/unidays_monitor.py --run
+          python scripts/studentbeans_monitor.py --run
           python scripts/build_dashboard.py
 
       - name: Send Feishu notification
@@ -43,7 +43,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add docs
+          git add docs unidays_outputs studentbeans_outputs
 
           git commit -m "update dashboard $(date +'%Y-%m-%d')" || echo "No changes to commit"
 
