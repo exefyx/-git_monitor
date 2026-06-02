@@ -31,116 +31,35 @@
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "",
-    "brand": "Emirates",
-    "offer": "Up to 10% off economy and business class with Emirates ✈️ Save 10% in Economy or 5% in Business when you book your next trip. Get now",
-    "product_type": "Flights"
+    "brand": "Ride more",
+    "offer": "drive less this Clean Air Day 🚴 Get 7% off bike upgrades and cycling accessories at Halfords. Get now",
+    "product_type": "Other"
   },
   {
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "",
-    "brand": "Macdonald Hotel & Resorts",
-    "offer": "20% off stays with Macdonald Hotel & Resorts 🌿 From relaxing spa breaks in Bath to vibrant Manchester city stays and Lake District escapes. Get now",
-    "product_type": "Hotels / Accommodation"
+    "brand": "Camp more",
+    "offer": "spend less this summer ⛺ Get 20% off selected camping gear plus 7% off motoring essentials at Halfords. Get now",
+    "product_type": "Other"
   },
   {
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "",
-    "brand": "Save 25% on Day Tickets Plus Pay for a Day",
-    "offer": "Visit FREE for 12 months! Enjoy a whole year of free visits to Twycross Zoo for the price of just one day. Get now",
-    "product_type": "Tours & Tickets"
+    "brand": "Chase forests",
+    "offer": "trails and sunsets this summer 🌲 Save 7% on cycling and motoring essentials for your next countryside escape. Get now",
+    "product_type": "UK & Europe Train Tickets"
   },
   {
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "",
-    "brand": "Omio",
-    "offer": "Save 5% on Flights with Omio ✈️ Get there for less – book your flight now and save 5% with Omio. Get now",
-    "product_type": "Flights"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "",
-    "brand": "Emirates",
-    "offer": "Up to 10% off economy and business class with Emirates ✈️",
-    "product_type": "Flights"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "",
-    "brand": "Macdonald Hotel & Resorts",
-    "offer": "20% off stays with Macdonald Hotel & Resorts 🌿",
-    "product_type": "Hotels / Accommodation"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "",
-    "brand": "Save 25% on Day Tickets Plus Pay for a Day",
-    "offer": "Visit FREE for 12 months!",
-    "product_type": "Tours & Tickets"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "",
-    "brand": "Omio",
-    "offer": "Save 5% on Flights with Omio ✈️",
-    "product_type": "Flights"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "",
-    "brand": "Omio",
-    "offer": "Get there for less – book your flight now and save 5% with Omio.",
-    "product_type": "Flights"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "",
-    "brand": "Emirates",
-    "offer": "Save 10% in Economy or 5% in Business when you book your next trip.",
-    "product_type": "Flights"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "",
-    "brand": "Virgin Atlantic",
-    "offer": "Up to £60 off Virgin Atlantic flights ✈️ Make your next adventure happen without breaking the bank. Get now",
-    "product_type": "Flights"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "",
-    "brand": "Virgin Atlantic",
-    "offer": "Up to £60 off Virgin Atlantic flights ✈️",
-    "product_type": "Flights"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "Holidays & Hotels",
-    "brand": "Flexiroam",
-    "offer": "20% Off Travel Data Plans",
+    "brand": "From Bournemouth to Cornwall",
+    "offer": "get road-trip ready with 7% off Halfords summer savings.",
     "product_type": "Other"
   },
   {
@@ -157,27 +76,9 @@
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "Holidays & Hotels",
-    "brand": "Trip.com",
-    "offer": "15% Off Trains For New Customers",
-    "product_type": "UK & Europe Train Tickets"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "Holidays & Hotels",
-    "brand": "Trip.com",
-    "offer": "15% Off Trains For New Customers 28 days",
-    "product_type": "UK & Europe Train Tickets"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "Holidays & Hotels",
-    "brand": "OYO Hotels",
-    "offer": "Save 40% + Extra 10% When You Stay 3 Nights or More",
-    "product_type": "Hotels / Accommodation"
+    "brand": "Flexiroam",
+    "offer": "20% Off Travel Data Plans",
+    "product_type": "Other"
   },
   {
     "date": "2026-06-02",
@@ -193,6 +94,15 @@
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "Holidays & Hotels",
+    "brand": "OYO Hotels",
+    "offer": "Save 40% + Extra 10% When You Stay 3 Nights or More",
+    "product_type": "Hotels / Accommodation"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "Travel & Entertainment",
+    "section": "Holidays & Hotels",
     "brand": "Opodo",
     "offer": "Save £100s on flights, hotels & car rental",
     "product_type": "Flights"
@@ -201,27 +111,9 @@
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
-    "section": "Transport",
-    "brand": "OMIO",
-    "offer": "7% Off Travel for New Customers",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "Transport",
-    "brand": "National Express",
-    "offer": "Up to 20% Off Coach Bookings",
-    "product_type": "Bus / Coach"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "Transport",
-    "brand": "Omio",
-    "offer": "7% Off Travel for New Customers Exclusive",
+    "section": "Holidays & Hotels",
+    "brand": "Hilton",
+    "offer": "The Hilton Summer Sale",
     "product_type": "Other"
   },
   {
@@ -238,27 +130,36 @@
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "Transport",
-    "brand": "TrainPal",
-    "offer": "15% Off Trains For New Customers",
-    "product_type": "UK & Europe Train Tickets"
+    "brand": "OMIO",
+    "offer": "7% Off Travel for New Customers",
+    "product_type": "Other"
   },
   {
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "Transport",
-    "brand": "TrainPal",
-    "offer": "15% Off Trains For New Customers 37 hours",
-    "product_type": "UK & Europe Train Tickets"
+    "brand": "Omio",
+    "offer": "7% Off Travel for New Customers Exclusive",
+    "product_type": "Other"
   },
   {
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
-    "section": "Days Out",
-    "brand": "Merlin Annual Pass",
-    "offer": "Ultimate annual passport from £99",
-    "product_type": "Tours & Tickets"
+    "section": "Transport",
+    "brand": "National Express",
+    "offer": "Up to 20% Off Coach Bookings",
+    "product_type": "Bus / Coach"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "Travel & Entertainment",
+    "section": "Transport",
+    "brand": "Greyhound Australia",
+    "offer": "15% Discount",
+    "product_type": "Bus / Coach"
   },
   {
     "date": "2026-06-02",
@@ -274,27 +175,36 @@
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "Days Out",
-    "brand": "Love to Visit",
-    "offer": "Extra 5% Off",
-    "product_type": "Other"
+    "brand": "Madame Tussauds",
+    "offer": "+ The Dungeons £35 Ticket Bundle",
+    "product_type": "Tours & Tickets"
   },
   {
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "Days Out",
-    "brand": "Warwick Castle",
-    "offer": "Up to 20% Off short breaks at Warwick Castle!",
-    "product_type": "Other"
+    "brand": "Merlin Annual Pass",
+    "offer": "Ultimate annual passport from £99",
+    "product_type": "Tours & Tickets"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "Travel & Entertainment",
+    "section": "Days Out",
+    "brand": "Cineworld",
+    "offer": "2 Tickets for £13",
+    "product_type": "Tours & Tickets"
   },
   {
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "Events",
-    "brand": "Cineworld",
-    "offer": "2 Tickets for £13",
-    "product_type": "Tours & Tickets"
+    "brand": "Love to Visit",
+    "offer": "Extra 5% Off",
+    "product_type": "Other"
   },
   {
     "date": "2026-06-02",
@@ -319,8 +229,17 @@
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "Streaming Services",
-    "brand": "Prime Video",
-    "offer": "30 Day Free Trial of Prime Video Channels",
+    "brand": "Apple Music",
+    "offer": "Get 1 month free",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "Travel & Entertainment",
+    "section": "Streaming Services",
+    "brand": "Apple Music",
+    "offer": "Only £5.99/month & free access to TV",
     "product_type": "Other"
   },
   {
@@ -330,6 +249,24 @@
     "section": "Streaming Services",
     "brand": "Amazon Audible",
     "offer": "30-day free trial",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "Travel & Entertainment",
+    "section": "Streaming Services",
+    "brand": "Channel 4",
+    "offer": "Your Free Month Trial Of Channel 4+",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "Travel & Entertainment",
+    "section": "Streaming Services",
+    "brand": "Prime Video",
+    "offer": "30 Day Free Trial of Prime Video Channels",
     "product_type": "Other"
   },
   {
@@ -354,33 +291,6 @@
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
-    "section": "Streaming Services",
-    "brand": "Channel 4",
-    "offer": "Your Free Month Trial Of Channel 4+",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "Streaming Services",
-    "brand": "Apple Music",
-    "offer": "Get 1 month free",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
-    "section": "Streaming Services",
-    "brand": "Apple Music",
-    "offer": "Only £5.99/month & free access to TV",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Travel & Entertainment",
     "section": "All Travel & Entertainment",
     "brand": "Junkyard Golf Club",
     "offer": "50% Off Walk Ins At Leeds, Liverpool, Newcastle and Manchester",
@@ -391,9 +301,27 @@
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "All Travel & Entertainment",
+    "brand": "TrainPal",
+    "offer": "15% Off Trains For New Customers",
+    "product_type": "UK & Europe Train Tickets"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "Travel & Entertainment",
+    "section": "All Travel & Entertainment",
     "brand": "Airbnb",
     "offer": "10% Off your first Airbnb stay",
     "product_type": "Hotels / Accommodation"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "Travel & Entertainment",
+    "section": "All Travel & Entertainment",
+    "brand": "TrainPal",
+    "offer": "15% Off Trains For New Customers 37 hours",
+    "product_type": "UK & Europe Train Tickets"
   },
   {
     "date": "2026-06-02",
@@ -436,15 +364,6 @@
     "source_type": "页面",
     "page": "Transport",
     "section": "Transport",
-    "brand": "TrainPal",
-    "offer": "15% Off Trains For New Customers",
-    "product_type": "UK & Europe Train Tickets"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Transport",
-    "section": "Transport",
     "brand": "Uber Rides",
     "offer": "£10 Off your first ride with Uber",
     "product_type": "Other"
@@ -463,15 +382,6 @@
     "source_type": "页面",
     "page": "Transport",
     "section": "Transport",
-    "brand": "TrainPal",
-    "offer": "15% Off Trains For New Customers 37 hours",
-    "product_type": "UK & Europe Train Tickets"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "Transport",
-    "section": "Transport",
     "brand": "Uber Rides",
     "offer": "£5 Off on First Train Ticket with Uber",
     "product_type": "UK & Europe Train Tickets"
@@ -483,6 +393,15 @@
     "section": "Transport",
     "brand": "OMIO",
     "offer": "7% Off Travel for New Customers",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "Transport",
+    "section": "Transport",
+    "brand": "Europcar",
+    "offer": "Flash Summer Sale - Up to 20% off",
     "product_type": "Other"
   },
   {
@@ -671,8 +590,8 @@
     "page": "Trip.com",
     "section": "",
     "brand": "Trip.com",
-    "offer": "15% Off Trains For New Customers",
-    "product_type": "UK & Europe Train Tickets"
+    "offer": "11% Off hotels in China",
+    "product_type": "Hotels / Accommodation"
   },
   {
     "date": "2026-06-02",
@@ -680,8 +599,8 @@
     "page": "Trip.com",
     "section": "",
     "brand": "Trip.com",
-    "offer": "11% Off hotels in China",
-    "product_type": "Hotels / Accommodation"
+    "offer": "15% Off Trains For New Customers",
+    "product_type": "UK & Europe Train Tickets"
   },
   {
     "date": "2026-06-02",
@@ -707,6 +626,15 @@
     "page": "Trip.com",
     "section": "",
     "brand": "Trip.com",
+    "offer": "5% Off coaches for new users",
+    "product_type": "Bus / Coach"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "品牌页",
+    "page": "Trip.com",
+    "section": "",
+    "brand": "Trip.com",
     "offer": "10% off Railcard for existing users",
     "product_type": "Railcard"
   },
@@ -725,44 +653,8 @@
     "page": "Trip.com",
     "section": "",
     "brand": "Trip.com",
-    "offer": "5% Off coaches for new users",
-    "product_type": "Bus / Coach"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "品牌页",
-    "page": "Trip.com",
-    "section": "",
-    "brand": "Trip.com",
     "offer": "2% Off UK trains for existing users",
     "product_type": "UK & Europe Train Tickets"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "品牌页",
-    "page": "Trip.com",
-    "section": "",
-    "brand": "Trip.com",
-    "offer": "20% Off Railcards for new users",
-    "product_type": "Railcard"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "品牌页",
-    "page": "Trip.com",
-    "section": "",
-    "brand": "Trip.com",
-    "offer": "£4 Off your first UK train ticket In-App",
-    "product_type": "UK & Europe Train Tickets"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "品牌页",
-    "page": "Trip.com",
-    "section": "",
-    "brand": "Trip.com",
-    "offer": "Up to £50 Off Hotels",
-    "product_type": "Hotels / Accommodation"
   },
   {
     "date": "2026-06-02",
@@ -779,8 +671,17 @@
     "page": "Trip.com",
     "section": "",
     "brand": "Trip.com",
-    "offer": "10% Off eSIM",
-    "product_type": "eSIM / SIM"
+    "offer": "20% Off Railcards for new users",
+    "product_type": "Railcard"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "品牌页",
+    "page": "Trip.com",
+    "section": "",
+    "brand": "Trip.com",
+    "offer": "5% Off Tours and Tickets",
+    "product_type": "Tours & Tickets"
   },
   {
     "date": "2026-06-02",
@@ -797,8 +698,26 @@
     "page": "Trip.com",
     "section": "",
     "brand": "Trip.com",
-    "offer": "5% Off Tours and Tickets",
-    "product_type": "Tours & Tickets"
+    "offer": "Up to £50 Off Hotels",
+    "product_type": "Hotels / Accommodation"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "品牌页",
+    "page": "Trip.com",
+    "section": "",
+    "brand": "Trip.com",
+    "offer": "10% Off eSIM",
+    "product_type": "eSIM / SIM"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "品牌页",
+    "page": "Trip.com",
+    "section": "",
+    "brand": "Trip.com",
+    "offer": "£4 Off your first UK train ticket In-App",
+    "product_type": "UK & Europe Train Tickets"
   },
   {
     "date": "2026-06-02",
@@ -833,8 +752,8 @@
     "page": "TrainPal",
     "section": "",
     "brand": "TrainPal",
-    "offer": "20% Off UK Railcards",
-    "product_type": "Railcard"
+    "offer": "Up to 5% off train tickets for the UK and the EU",
+    "product_type": "UK & Europe Train Tickets"
   },
   {
     "date": "2026-06-02",
@@ -851,17 +770,8 @@
     "page": "TrainPal",
     "section": "",
     "brand": "TrainPal",
-    "offer": "Up to 5% off train tickets for the UK and the EU",
-    "product_type": "UK & Europe Train Tickets"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "品牌页",
-    "page": "TrainPal",
-    "section": "",
-    "brand": "TrainPal",
-    "offer": "15% Off Trains For New Customers",
-    "product_type": "UK & Europe Train Tickets"
+    "offer": "20% Off UK Railcards",
+    "product_type": "Railcard"
   },
   {
     "date": "2026-06-02",
@@ -880,15 +790,6 @@
     "brand": "Omio",
     "offer": "7% Off Travel for New Customers",
     "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "品牌页",
-    "page": "Omio",
-    "section": "",
-    "brand": "Omio",
-    "offer": "5% Off Trains",
-    "product_type": "UK & Europe Train Tickets"
   },
   {
     "date": "2026-06-02",
@@ -916,6 +817,15 @@
     "brand": "Omio",
     "offer": "5% Off Buses",
     "product_type": "Bus / Coach"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "品牌页",
+    "page": "Omio",
+    "section": "",
+    "brand": "Omio",
+    "offer": "5% Off Trains",
+    "product_type": "UK & Europe Train Tickets"
   },
   {
     "date": "2026-06-02",

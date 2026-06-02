@@ -67,9 +67,9 @@ Online
 
 Travel
 
-Up to 10% off train fares
+£10 Student Discount on your first ride
 
-TrainPal
+Uber
 
 For students only
 
@@ -77,9 +77,9 @@ Online
 
 Travel
 
-Up to £550 off selected holidays + £50 Student Discount
+Up to 10% off train fares
 
-loveholidays
+TrainPal
 
 For students only
 
@@ -107,19 +107,9 @@ Online
 
 Travel
 
-£10 Student Discount on your first ride
+Up to £550 off selected holidays + £50 Student Discount
 
-Uber
-
-For students only
-
-Online
-
-Travel
-
-£50 Student Discount
-
-Jet2holidays
+loveholidays
 
 For students only
 
@@ -127,15 +117,25 @@ Online
 
 Travel
 
-15% Student Discount
+10% Student Discount
 
-Veygo
+Hostelworld
 
 For students only
 
 Online
 
-Car Insurance
+Hotels & Hostels
+
+Up to 30% Student Discount
+
+Purple Parking
+
+For students only
+
+Online
+
+Travel
 
 £25 Student Discount
 
@@ -147,9 +147,9 @@ Online
 
 Travel
 
-10% off Hotels
+Up to £20 OFF Flights
 
-Expedia
+Trip.com
 
 For students only
 
