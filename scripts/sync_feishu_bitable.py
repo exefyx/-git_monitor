@@ -35,7 +35,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DASHBOARD_URL = "https://exefyx.github.io/-git_monitor/"
 FEISHU_API_BASE = os.getenv(
     "FEISHU_API_BASE",
-    "https://open.larksuite.com/open-apis",
+    "https://open.larkenterprise.com/open-apis",
 ).rstrip("/")
 BATCH_SIZE = 1000
 

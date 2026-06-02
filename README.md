@@ -44,8 +44,8 @@ FEISHU_OFFER_TABLE_ID
 FEISHU_RUN_TABLE_ID
 ```
 
-This repository defaults to the Lark OpenAPI host because the current Bitable
-URL is under `larkenterprise.com`. For a `feishu.cn` tenant, add
+This repository defaults to the Lark Enterprise OpenAPI host because the
+current Bitable URL is under `larkenterprise.com`. For a `feishu.cn` tenant, add
 `FEISHU_API_BASE=https://open.feishu.cn/open-apis`.
 
 Local dry run:
