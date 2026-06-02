@@ -32,22 +32,6 @@ jobs:
           python scripts/studentbeans_monitor.py --run
           python scripts/build_dashboard.py
 
-      - name: Sync Feishu Bitable archive
-        env:
-          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
-          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
-          FEISHU_BITABLE_APP_TOKEN: ${{ secrets.FEISHU_BITABLE_APP_TOKEN }}
-          FEISHU_OFFER_TABLE_ID: ${{ secrets.FEISHU_OFFER_TABLE_ID }}
-          FEISHU_RUN_TABLE_ID: ${{ secrets.FEISHU_RUN_TABLE_ID }}
-        run: |
-          python scripts/sync_feishu_bitable.py
-
-      - name: Send Feishu notification
-        env:
-          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
-        run: |
-          python scripts/notify_feishu.py
-
       - name: Commit updated dashboard
         run: |
           git config user.name "github-actions"
@@ -59,3 +43,19 @@ jobs:
           git commit -m "update dashboard $(date +'%Y-%m-%d')" || echo "No changes to commit"
 
           git push
+
+      - name: Send Feishu notification
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: |
+          python scripts/notify_feishu.py
+
+      - name: Sync Feishu Bitable archive
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_BITABLE_APP_TOKEN: ${{ secrets.FEISHU_BITABLE_APP_TOKEN }}
+          FEISHU_OFFER_TABLE_ID: ${{ secrets.FEISHU_OFFER_TABLE_ID }}
+          FEISHU_RUN_TABLE_ID: ${{ secrets.FEISHU_RUN_TABLE_ID }}
+        run: |
+          python scripts/sync_feishu_bitable.py
