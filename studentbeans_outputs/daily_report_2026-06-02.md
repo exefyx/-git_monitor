@@ -4,11 +4,8 @@
 
 1. 页面offer
 - 首页
-  Amazon：10% off orders over £30 + Free shipping Amazon Haul
-  Emirates：10% Student Discount on Emirates Economy Class fares Emirates
-  Emirates：10% Student Discount on Emirates Economy Class fares
   ASOS：10% Student Discount
-  New Balance：Extra 10% Student Discount on Sale
+  monitors and projectors LG：15% off selected laptops,
   JD Sports：10% Student Discount
   FlixBus：Ends in 5 days Was 20% Student Discount 25% Student Discount
   spend Deliveroo：Ends in 5 days £15 off £20
@@ -24,14 +21,18 @@
   selected LOOKFANTASTIC：Ends tomorrow Up to 30% off + Extra 7% off
   Hollister：10% Student Discount
   Sephora：15% Student Discount
-  ongoing Skin + Me：Your first three Daily Dosers will be £9.99 each, then £24.99
-  shipping Amazon Haul：10% off orders over £30 + Free
-  lenses Glasses Direct：Only on 50% off £49+ frames*+ 25% off
-  months NordVPN：Up to 75% off NordVPN 2-year plans + 15% student discount + 3 free
   Broadband Packages Virgin Media：Only on Ends in 8 days Free £15 Gift Card with
-  Bluebella：15% Student Discount
+  Under Armour：Ends tomorrow 20% Student Discount
+  Viator, A Tripadvisor Company：Ends in 5 days 12% Student Discount
+  lenses Glasses Direct：Only on 50% off £49+ frames*+ 25% off
+  ongoing Skin + Me：Your first three Daily Dosers will be £9.99 each, then £24.99
+  Osprey：20% Student Discount
   P.Louise：Ends in 6 days Was 15% Student Discount 20% Student Discount
+  shipping Amazon Haul：10% off orders over £30 + Free
+  Bluebella：15% Student Discount
+  Oliver Bonas：10% Student Discount
   award-winning hair tools ghd：Ends in 28 days Was 15% off award-winning hair tools 20% off
+  Surfshark：Up to 85% + 15% Student Discount
   Princess Polly：Ends in 5 days Was 15% Student Discount 21% Student Discount
   on Road Running HOKA：12% Student Discount
   Teva：Ends in 12 days 15% Student Discount
@@ -42,7 +43,6 @@
   for New Users Sephora：Ends in 5 days 21% Student Discount
   Shokz：Ends in 28 days OpenDots ONE Now £149 + Extra 20% Off
   Doxzoo：15% Student Discount
-  Viator, A Tripadvisor Company：Ends in 5 days 12% Student Discount
   for all students OddBalls：10% discount
   New Balance：Ends in 5 days 15% Student Discount
   Everything Else Cult Beauty：Ends in 28 days 20% Off Skincare + 15% Off
@@ -128,7 +128,7 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 - Railcard
   TrainPal：Student Exclusive: 23% OFF Railcard；23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；20% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard
-  竞品重点：Trip.com：20% off Railcard for new users；Trainline：15% off the 16-25 Railcard；Trainline：15% off the 16-17 Saver；Trainline：15% off the 26-30 Railcard；Trip.com：10% off Railcard for existing users
+  竞品重点：Trip.com：20% off Railcard for new users；Trainline：15% off the 16-25 Railcard；Trainline：15% off the 26-30 Railcard；Trainline：15% off the 16-17 Saver；Trip.com：10% off Railcard for existing users
   关注点：已覆盖 TrainPal 对应产品，需持续跟踪竞品折扣变化。
 - UK & Europe Train Tickets
   TrainPal：Up to 10% off train fares；5% Off Trains for New Customer & 2% Off for Existing Customer；£4 off for New Customers & 2% off for Existing Customers on UK Train Tickets
@@ -164,7 +164,7 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：AliExpress：Ends in 9 days £2 off on orders over £12；Amazon：10% off orders over £30 + Free shipping Amazon Haul；BURGA：Ends in 5 days 20% off Summer Sale + Extra 5% off Student Discount；Bluebella：15% Student Discount；Brick：Only on Ends in 5 days Was 20% Student Discount 21% Student Discount；Broadband Packages Virgin Media：Only on Ends in 8 days Free £15 Gift Card with；Charles Tyrwhitt：Ends in 5 days 21% Student Discount；Emirates：10% Student Discount on Emirates Economy Class fares；Emirates：10% Student Discount on Emirates Economy Class fares Emirates；Everything Else Cult Beauty：Ends in 28 days 20% Off Skincare + 15% Off
+• 新增 Offer：AliExpress：Ends in 9 days £2 off on orders over £12；BURGA：Ends in 5 days 20% off Summer Sale + Extra 5% off Student Discount；Bluebella：15% Student Discount；Brick：Only on Ends in 5 days Was 20% Student Discount 21% Student Discount；Broadband Packages Virgin Media：Only on Ends in 8 days Free £15 Gift Card with；Charles Tyrwhitt：Ends in 5 days 21% Student Discount；Everything Else Cult Beauty：Ends in 28 days 20% Off Skincare + 15% Off；FlixBus：Ends in 5 days Was 20% Student Discount 25% Student Discount；Huel：Ends in 5 days 33% Student Discount；Lulus：Only on Ends in 5 days 21% Student Discount
 • 下线 Offer：AliExpress：Ends in 10 days £2 off on orders over £12；BURGA：Ends in 6 days 20% off Summer Sale + Extra 5% off Student Discount；Brick：Only on Ends in 6 days Was 20% Student Discount 21% Student Discount；Broadband Packages Virgin Media：Only on Ends in 9 days Free £15 Gift Card with；Charles Tyrwhitt：Ends in 6 days 21% Student Discount；Everything Else Cult Beauty：Ends in 29 days 20% Off Skincare + 15% Off；FlixBus：25% Student Discount FlixBus；FlixBus：Ends in 6 days Was 20% Student Discount 25% Student Discount；Huel：Ends in 6 days 33% Student Discount；Lulus：Only on Ends in 6 days 21% Student Discount
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
@@ -189,8 +189,8 @@
   5% Off UK trains for new users
 - Trainline
   15% off the 16-25 Railcard
-  15% off the 16-17 Saver
   15% off the 26-30 Railcard
+  15% off the 16-17 Saver
 - TrainPal
   Up to 10% off train fares
   5% Off Trains for New Customer & 2% Off for Existing Customer

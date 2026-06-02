@@ -4,18 +4,22 @@
 
 1. 页面offer
 - 首页
+  EVERYDAY UPGRADES 🛒 Myprotein：Up to 80% off + Extra 20% off for New Customers 💪
+  Myprotein：Up to 80% off + Extra 20% off for New Customers 💪
   Download on the App Store：Get the free app!
 - Travel & Entertainment
   Emirates：Up to 10% off economy and business class with Emirates ✈️ Save 10% in Economy or 5% in Business when you book your next trip. Get now
-  Omio：Save 5% on Flights with Omio ✈️ Get there for less – book your flight now and save 5% with Omio. Get now
   Macdonald Hotel & Resorts：20% off stays with Macdonald Hotel & Resorts 🌿 From relaxing spa breaks in Bath to vibrant Manchester city stays and Lake District escapes. Get now
+  Save 25% on Day Tickets Plus Pay for a Day：Visit FREE for 12 months! Enjoy a whole year of free visits to Twycross Zoo for the price of just one day. Get now
+  Omio：Save 5% on Flights with Omio ✈️ Get there for less – book your flight now and save 5% with Omio. Get now
   Emirates：Up to 10% off economy and business class with Emirates ✈️
-  Omio：Save 5% on Flights with Omio ✈️
   Macdonald Hotel & Resorts：20% off stays with Macdonald Hotel & Resorts 🌿
+  Save 25% on Day Tickets Plus Pay for a Day：Visit FREE for 12 months!
+  Omio：Save 5% on Flights with Omio ✈️
   Omio：Get there for less – book your flight now and save 5% with Omio.
   Emirates：Save 10% in Economy or 5% in Business when you book your next trip.
-  Save 25% on Day Tickets Plus Pay for a Day：Visit FREE for 12 months! Enjoy a whole year of free visits to Twycross Zoo for the price of just one day. Get now
-  Save 25% on Day Tickets Plus Pay for a Day：Visit FREE for 12 months!
+  Virgin Atlantic：Up to £60 off Virgin Atlantic flights ✈️ Make your next adventure happen without breaking the bank. Get now
+  Virgin Atlantic：Up to £60 off Virgin Atlantic flights ✈️
   Flexiroam：20% Off Travel Data Plans
   Klook：Up to 15% Off Travel Deals
   Trip.com：15% Off Trains For New Customers
@@ -28,7 +32,7 @@
   Omio：7% Off Travel for New Customers Exclusive
   Swapfiets：£25 off your bike subscription
   TrainPal：15% Off Trains For New Customers
-  TrainPal：15% Off Trains For New Customers 38 hours
+  TrainPal：15% Off Trains For New Customers 37 hours
   Merlin Annual Pass：Ultimate annual passport from £99
   The Dungeons：+ Madame Tussauds £35 Ticket Bundle
   Love to Visit：Extra 5% Off
@@ -53,7 +57,7 @@
   TrainPal：15% Off Trains For New Customers
   Uber Rides：£10 Off your first ride with Uber
   Uber Rides：£5 Off your first UberXL trip
-  TrainPal：15% Off Trains For New Customers 38 hours
+  TrainPal：15% Off Trains For New Customers 37 hours
   Uber Rides：£5 Off on First Train Ticket with Uber
   OMIO：7% Off Travel for New Customers
   P&O Ferries：Day Trips to France from £60
@@ -122,8 +126,8 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：TrainPal：15% Off Trains For New Customers 38 hours；Trip.com：10% Off eSIM；Trip.com：15% Off Trains For New Customers 28 days；TrainPal：15% Off Trains For New Customers 38 hours；Trip.com：15% Off Trains For New Customers；Trip.com：15% Off Trains For New Customers 28 days；Warwick Castle：Up to 20% Off short breaks at Warwick Castle!
-• 下线 Offer：Trip.com：Up to 25% Off Trains For New Customers；Europcar：Flash Summer Sale - Up to 20% off；TrainPal：15% Off Trains For New Customers 48 hours；Trip.com：15% Off Trains For New Customers 29 days；Every Playoffs moment：ad-free with Premium；Greyhound Australia：15% Discount；Hilton：The Hilton Summer Sale；Madame Tussauds：+ The Dungeons £35 Ticket Bundle；TrainPal：15% Off Trains For New Customers 48 hours；Virgin Atlantic：Up to £60 off Virgin Atlantic flights ✈️
+• 新增 Offer：TrainPal：15% Off Trains For New Customers 37 hours；Trip.com：10% Off eSIM；Trip.com：15% Off Trains For New Customers 28 days；TrainPal：15% Off Trains For New Customers 37 hours；Trip.com：15% Off Trains For New Customers；Trip.com：15% Off Trains For New Customers 28 days；Warwick Castle：Up to 20% Off short breaks at Warwick Castle!
+• 下线 Offer：Trip.com：Up to 25% Off Trains For New Customers；Europcar：Flash Summer Sale - Up to 20% off；TrainPal：15% Off Trains For New Customers 48 hours；Trip.com：15% Off Trains For New Customers 29 days；Every Playoffs moment：ad-free with Premium；Greyhound Australia：15% Discount；Hilton：The Hilton Summer Sale；Madame Tussauds：+ The Dungeons £35 Ticket Bundle；TrainPal：15% Off Trains For New Customers 48 hours
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 

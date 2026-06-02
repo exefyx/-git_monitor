@@ -4,6 +4,24 @@
     "source_type": "页面",
     "page": "首页",
     "section": "THE SUMMER EDIT ☀️",
+    "brand": "EVERYDAY UPGRADES 🛒 Myprotein",
+    "offer": "Up to 80% off + Extra 20% off for New Customers 💪",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "EVERYDAY UPGRADES 🛒",
+    "brand": "Myprotein",
+    "offer": "Up to 80% off + Extra 20% off for New Customers 💪",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "EVERYDAY UPGRADES 🛒",
     "brand": "Download on the App Store",
     "offer": "Get the free app!",
     "product_type": "Other"
@@ -22,18 +40,27 @@
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "",
-    "brand": "Omio",
-    "offer": "Save 5% on Flights with Omio ✈️ Get there for less – book your flight now and save 5% with Omio. Get now",
-    "product_type": "Flights"
+    "brand": "Macdonald Hotel & Resorts",
+    "offer": "20% off stays with Macdonald Hotel & Resorts 🌿 From relaxing spa breaks in Bath to vibrant Manchester city stays and Lake District escapes. Get now",
+    "product_type": "Hotels / Accommodation"
   },
   {
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "",
-    "brand": "Macdonald Hotel & Resorts",
-    "offer": "20% off stays with Macdonald Hotel & Resorts 🌿 From relaxing spa breaks in Bath to vibrant Manchester city stays and Lake District escapes. Get now",
-    "product_type": "Hotels / Accommodation"
+    "brand": "Save 25% on Day Tickets Plus Pay for a Day",
+    "offer": "Visit FREE for 12 months! Enjoy a whole year of free visits to Twycross Zoo for the price of just one day. Get now",
+    "product_type": "Tours & Tickets"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "Travel & Entertainment",
+    "section": "",
+    "brand": "Omio",
+    "offer": "Save 5% on Flights with Omio ✈️ Get there for less – book your flight now and save 5% with Omio. Get now",
+    "product_type": "Flights"
   },
   {
     "date": "2026-06-02",
@@ -49,18 +76,27 @@
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "",
-    "brand": "Omio",
-    "offer": "Save 5% on Flights with Omio ✈️",
-    "product_type": "Flights"
+    "brand": "Macdonald Hotel & Resorts",
+    "offer": "20% off stays with Macdonald Hotel & Resorts 🌿",
+    "product_type": "Hotels / Accommodation"
   },
   {
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "",
-    "brand": "Macdonald Hotel & Resorts",
-    "offer": "20% off stays with Macdonald Hotel & Resorts 🌿",
-    "product_type": "Hotels / Accommodation"
+    "brand": "Save 25% on Day Tickets Plus Pay for a Day",
+    "offer": "Visit FREE for 12 months!",
+    "product_type": "Tours & Tickets"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "Travel & Entertainment",
+    "section": "",
+    "brand": "Omio",
+    "offer": "Save 5% on Flights with Omio ✈️",
+    "product_type": "Flights"
   },
   {
     "date": "2026-06-02",
@@ -85,18 +121,18 @@
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "",
-    "brand": "Save 25% on Day Tickets Plus Pay for a Day",
-    "offer": "Visit FREE for 12 months! Enjoy a whole year of free visits to Twycross Zoo for the price of just one day. Get now",
-    "product_type": "Tours & Tickets"
+    "brand": "Virgin Atlantic",
+    "offer": "Up to £60 off Virgin Atlantic flights ✈️ Make your next adventure happen without breaking the bank. Get now",
+    "product_type": "Flights"
   },
   {
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "Travel & Entertainment",
     "section": "",
-    "brand": "Save 25% on Day Tickets Plus Pay for a Day",
-    "offer": "Visit FREE for 12 months!",
-    "product_type": "Tours & Tickets"
+    "brand": "Virgin Atlantic",
+    "offer": "Up to £60 off Virgin Atlantic flights ✈️",
+    "product_type": "Flights"
   },
   {
     "date": "2026-06-02",
@@ -212,7 +248,7 @@
     "page": "Travel & Entertainment",
     "section": "Transport",
     "brand": "TrainPal",
-    "offer": "15% Off Trains For New Customers 38 hours",
+    "offer": "15% Off Trains For New Customers 37 hours",
     "product_type": "UK & Europe Train Tickets"
   },
   {
@@ -428,7 +464,7 @@
     "page": "Transport",
     "section": "Transport",
     "brand": "TrainPal",
-    "offer": "15% Off Trains For New Customers 38 hours",
+    "offer": "15% Off Trains For New Customers 37 hours",
     "product_type": "UK & Europe Train Tickets"
   },
   {
