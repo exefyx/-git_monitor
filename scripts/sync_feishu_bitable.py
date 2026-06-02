@@ -230,6 +230,57 @@ def get_tenant_access_token() -> str:
     return data["tenant_access_token"]
 
 
+def feishu_headers(token: str) -> dict[str, str]:
+    return {
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json; charset=utf-8",
+    }
+
+
+def raise_for_feishu_error(response: requests.Response, action: str) -> dict:
+    if response.status_code >= 400:
+        print(response.text)
+    response.raise_for_status()
+    data = response.json()
+    if data.get("code") != 0:
+        raise RuntimeError(f"{action} failed: {data}")
+    return data
+
+
+def preflight_bitable_access(
+    *,
+    token: str,
+    app_token: str,
+    offer_table_id: str,
+    run_table_id: str,
+) -> None:
+    url = f"{FEISHU_API_BASE}/bitable/v1/apps/{app_token}/tables"
+    print(f"Preflight Bitable API host: {FEISHU_API_BASE}")
+    response = requests.get(url, headers=feishu_headers(token), timeout=30)
+    data = raise_for_feishu_error(response, "List Bitable tables")
+    tables = data.get("data", {}).get("items", [])
+    table_labels = [
+        f"{item.get('name', '<unnamed>')}={item.get('table_id', '<missing>')}"
+        for item in tables
+    ]
+    print("Visible Bitable tables:")
+    for label in table_labels:
+        print(f"- {label}")
+
+    available_ids = {item.get("table_id") for item in tables}
+    missing = []
+    if offer_table_id not in available_ids:
+        missing.append("FEISHU_OFFER_TABLE_ID")
+    if run_table_id not in available_ids:
+        missing.append("FEISHU_RUN_TABLE_ID")
+    if missing:
+        raise RuntimeError(
+            "Configured table id not visible to this app: "
+            + ", ".join(missing)
+            + ". Check GitHub Secrets and the Bitable document app permission."
+        )
+
+
 def batch_create_records(
     *,
     token: str,
@@ -244,20 +295,12 @@ def batch_create_records(
         f"{FEISHU_API_BASE}/bitable/v1/apps/{app_token}"
         f"/tables/{table_id}/records/batch_create"
     )
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Content-Type": "application/json; charset=utf-8",
-    }
+    headers = feishu_headers(token)
 
     for batch in batched(fields_list):
         payload = {"records": [{"fields": fields} for fields in batch]}
         response = requests.post(url, headers=headers, json=payload, timeout=60)
-        if response.status_code >= 400:
-            print(response.text)
-        response.raise_for_status()
-        data = response.json()
-        if data.get("code") != 0:
-            raise RuntimeError(f"Failed to create Feishu records: {data}")
+        raise_for_feishu_error(response, "Create Feishu records")
 
 
 def prepare_payload(run_date: str | None) -> tuple[str, list[dict], list[dict]]:
@@ -359,6 +402,13 @@ def main() -> None:
     offer_table_id = get_required_env("FEISHU_OFFER_TABLE_ID")
     run_table_id = get_required_env("FEISHU_RUN_TABLE_ID")
     token = get_tenant_access_token()
+
+    preflight_bitable_access(
+        token=token,
+        app_token=app_token,
+        offer_table_id=offer_table_id,
+        run_table_id=run_table_id,
+    )
 
     batch_create_records(
         token=token,
