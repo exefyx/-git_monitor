@@ -1,6 +1,18 @@
 # -*- coding: utf-8 -*-
 """
 Build a static dashboard from UNiDAYS + Student Beans crawler outputs.
+
+Reads latest:
+- unidays_outputs/clean_offers_YYYY-MM-DD.json
+- studentbeans_outputs/clean_offers_YYYY-MM-DD.json
+
+Writes:
+- docs/index.html                 # for GitHub Pages
+- docs/dashboard_YYYY-MM-DD.html  # daily archive
+- dashboard/index.html            # local preview
+
+Run:
+python .\scripts\build_dashboard.py
 """
 
 from __future__ import annotations
@@ -18,6 +30,30 @@ SOURCES = {
 }
 
 OWNED_BRANDS = {"trip.com", "trainpal"}
+
+TARGET_BRANDS = [
+    "TrainPal",
+    "Trip.com",
+    "Trainline",
+    "Omio",
+    "Klook",
+    "National Express",
+    "FlixBus",
+    "Eurostar",
+]
+
+
+def compact_text(text: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", str(text).lower())
+
+
+TARGET_BRAND_KEYS = {compact_text(b): b for b in TARGET_BRANDS}
+
+
+def is_target_brand(brand: str) -> bool:
+    return compact_text(brand) in TARGET_BRAND_KEYS
+
+
 DOCS_DIR = ROOT / "docs"
 LOCAL_DIR = ROOT / "dashboard"
 
@@ -36,34 +72,6 @@ PRODUCT_ORDER = [
 ]
 
 
-def normalize_offer_text(text: str) -> str:
-    if not text:
-        return ""
-
-    text = str(text).lower()
-
-    # 去掉倒计时：3 days / 4 days / 1 day
-    text = re.sub(r"\b\d+\s*days?\b", "", text, flags=re.IGNORECASE)
-
-    # 去掉小时倒计时：24 hours / 1 hour
-    text = re.sub(r"\b\d+\s*hours?\b", "", text, flags=re.IGNORECASE)
-
-    # 去掉分钟倒计时
-    text = re.sub(r"\b\d+\s*mins?\b", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"\b\d+\s*minutes?\b", "", text, flags=re.IGNORECASE)
-
-    # 去掉常见倒计时/促销提示词
-    text = re.sub(r"\bends?\s+soon\b", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"\blimited[-\s]?time\b", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"\bexpires?\s+soon\b", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"\bending\s+soon\b", "", text, flags=re.IGNORECASE)
-
-    # 清理符号和多余空格
-    text = re.sub(r"\s+", " ", text).strip()
-
-    return text
-
-
 def latest_clean_file(folder: Path) -> Path | None:
     files = sorted(folder.glob("clean_offers_*.json"))
     return files[-1] if files else None
@@ -79,12 +87,35 @@ def read_rows(path: Path | None) -> list[dict]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def filter_diff_rows(rows: list[dict]) -> list[dict]:
+    """
+    Only keep target competitor brands for daily diff.
+
+    This removes page-level offers such as Emirates, Myprotein, Halfords,
+    Macdonald Hotel, etc. The daily change panel will only compare:
+
+    TrainPal / Trip.com / Trainline / Omio / Klook /
+    National Express / FlixBus / Eurostar
+    """
+    result = []
+
+    for r in rows:
+        brand = str(r.get("brand", "")).strip()
+
+        if not is_target_brand(brand):
+            continue
+
+        result.append(r)
+
+    return result
+
+
 def row_key(row: dict) -> tuple[str, str, str, str]:
     return (
-        str(row.get("source_type", "")).strip().lower(),
-        str(row.get("page", "")).strip().lower(),
-        str(row.get("brand", "")).strip().lower(),
-        normalize_offer_text(row.get("offer", "")),
+        str(row.get("source_type", "")),
+        str(row.get("page", "")),
+        str(row.get("brand", "")),
+        " ".join(str(row.get("offer", "")).lower().split()),
     )
 
 
@@ -101,21 +132,24 @@ def make_diff(folder: Path, current: Path | None, rows: list[dict]) -> dict:
         return {
             "new": [],
             "removed": [],
-            "message": "当前为监控基准日，后续每日自动对比新增 / 下线 offer。",
+            "message": "当前为监控基准日，后续每日仅对比 8 个目标品牌新增 / 下线 offer。",
         }
 
     old_rows = read_rows(prev)
 
-    today_set = {row_key(r) for r in rows}
+    today_rows = filter_diff_rows(rows)
+    old_rows = filter_diff_rows(old_rows)
+
+    today_set = {row_key(r) for r in today_rows}
     old_set = {row_key(r) for r in old_rows}
 
-    today_map = {row_key(r): r for r in rows}
+    today_map = {row_key(r): r for r in today_rows}
     old_map = {row_key(r): r for r in old_rows}
 
     return {
         "new": [today_map[k] for k in sorted(today_set - old_set)],
         "removed": [old_map[k] for k in sorted(old_set - today_set)],
-        "message": "",
+        "message": "仅统计 TrainPal / Trip.com / Trainline / Omio / Klook / National Express / FlixBus / Eurostar 这 8 个品牌的 offer 变化。",
     }
 
 
@@ -125,7 +159,7 @@ def make_trend(folder: Path) -> list[dict]:
     prev_rows = None
 
     for file in files:
-        rows = read_rows(file)
+        rows = filter_diff_rows(read_rows(file))
         if prev_rows is None:
             new_count = 0
             removed_count = 0
@@ -165,6 +199,7 @@ def prepare_platform(name: str, folder: Path) -> dict:
 
     page_rows = [r for r in rows if r.get("source_type") == "页面"]
     competitor_rows = [r for r in rows if r.get("source_type") == "品牌页"]
+    target_brand_rows = filter_diff_rows(rows)
     diff = make_diff(folder, current, rows)
 
     pages = defaultdict(list)
@@ -189,7 +224,7 @@ def prepare_platform(name: str, folder: Path) -> dict:
         competitor_rows_for_product = [r for r in group if r.get("brand", "").lower() not in OWNED_BRANDS]
         products[product] = {
             "owned": [[r.get("brand", ""), r.get("offer", "")] for r in owned_rows],
-            "trainpal": [r.get("offer", "") for r in owned_rows],
+            "trainpal": [r.get("offer", "") for r in owned_rows],  # backward compatibility
             "competitors": [[r.get("brand", ""), r.get("offer", "")] for r in competitor_rows_for_product],
         }
 
@@ -205,7 +240,11 @@ def prepare_platform(name: str, folder: Path) -> dict:
             "removedOffers": len(diff["removed"]),
             "ownedOffers": sum(1 for r in competitor_rows if r.get("brand", "").lower() in OWNED_BRANDS),
             "trainpalOffers": sum(1 for r in competitor_rows if r.get("brand", "").lower() == "trainpal"),
-            "competitorBrands": len([b for b in competitors if b.lower() not in OWNED_BRANDS]),
+            "competitorBrands": len({
+                r.get("brand", "")
+                for r in target_brand_rows
+                if r.get("brand", "").lower() not in OWNED_BRANDS
+            }),
         },
         "pages": dict(pages),
         "products": products,
