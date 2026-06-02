@@ -3,6 +3,33 @@
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "首页",
+    "section": "Extra 10% Student Discount on Sale",
+    "brand": "Amazon",
+    "offer": "10% off orders over £30 + Free shipping Amazon Haul",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "Download the Student Beans app",
+    "brand": "Emirates",
+    "offer": "10% Student Discount on Emirates Economy Class fares Emirates",
+    "product_type": "Flights"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "Download the Student Beans app",
+    "brand": "Emirates",
+    "offer": "10% Student Discount on Emirates Economy Class fares",
+    "product_type": "Flights"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "首页",
     "section": "Don’t miss these trending student deals",
     "brand": "ASOS",
     "offer": "10% Student Discount",
@@ -13,8 +40,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Don’t miss these trending student deals",
-    "brand": "Surfshark",
-    "offer": "Up to 85% + 15% Student Discount",
+    "brand": "New Balance",
+    "offer": "Extra 10% Student Discount on Sale",
     "product_type": "Other"
   },
   {
@@ -157,44 +184,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "Existing Customers Vision Direct",
-    "offer": "Ends in 5 days 6% Student Discount for",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
-    "brand": "monitors and projectors LG",
-    "offer": "15% off selected laptops,",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
-    "brand": "Ubigi eSIM",
-    "offer": "20% Student Discount",
-    "product_type": "eSIM / SIM"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
-    "brand": "Bluebella",
-    "offer": "15% Student Discount",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
-    "brand": "Osprey",
-    "offer": "20% Student Discount",
+    "brand": "ongoing Skin + Me",
+    "offer": "Your first three Daily Dosers will be £9.99 each, then £24.99",
     "product_type": "Other"
   },
   {
@@ -211,8 +202,17 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "P.Louise",
-    "offer": "Ends in 6 days Was 15% Student Discount 20% Student Discount",
+    "brand": "lenses Glasses Direct",
+    "offer": "Only on 50% off £49+ frames*+ 25% off",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "The discounts you won’t want to miss",
+    "brand": "months NordVPN",
+    "offer": "Up to 75% off NordVPN 2-year plans + 15% student discount + 3 free",
     "product_type": "Other"
   },
   {
@@ -229,9 +229,18 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "Emirates",
-    "offer": "10% Student Discount on Emirates Economy Class fares",
-    "product_type": "Flights"
+    "brand": "Bluebella",
+    "offer": "15% Student Discount",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "The discounts you won’t want to miss",
+    "brand": "P.Louise",
+    "offer": "Ends in 6 days Was 15% Student Discount 20% Student Discount",
+    "product_type": "Other"
   },
   {
     "date": "2026-06-02",
@@ -240,15 +249,6 @@
     "section": "Find the latest and greatest drops every day",
     "brand": "award-winning hair tools ghd",
     "offer": "Ends in 28 days Was 15% off award-winning hair tools 20% off",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "Find the latest and greatest drops every day",
-    "brand": "months NordVPN",
-    "offer": "Up to 75% off NordVPN 2-year plans + 15% student discount + 3 free",
     "product_type": "Other"
   },
   {
@@ -1157,7 +1157,7 @@
     "page": "Trainline",
     "section": "",
     "brand": "Trainline",
-    "offer": "15% off the 26-30 Railcard",
+    "offer": "15% off the 16-17 Saver",
     "product_type": "Railcard"
   },
   {
@@ -1166,7 +1166,7 @@
     "page": "Trainline",
     "section": "",
     "brand": "Trainline",
-    "offer": "15% off the 16-17 Saver",
+    "offer": "15% off the 26-30 Railcard",
     "product_type": "Railcard"
   },
   {
@@ -1248,6 +1248,15 @@
     "section": "",
     "brand": "National Express",
     "offer": "Up to 20% Student Discount",
+    "product_type": "Bus / Coach"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "品牌页",
+    "page": "National Express",
+    "section": "",
+    "brand": "National Express",
+    "offer": "Up to 20% Student Discount on Alton Towers Short Breaks",
     "product_type": "Bus / Coach"
   },
   {
