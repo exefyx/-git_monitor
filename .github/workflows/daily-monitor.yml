@@ -51,6 +51,7 @@ jobs:
           python scripts/notify_feishu.py
 
       - name: Sync Feishu Bitable archive
+        continue-on-error: true
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
