@@ -3,33 +3,6 @@
     "date": "2026-06-02",
     "source_type": "页面",
     "page": "首页",
-    "section": "Student deals of the day",
-    "brand": "Amazon",
-    "offer": "10% off orders over £30 + Free shipping Amazon Haul",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "10% Student Discount",
-    "brand": "Emirates",
-    "offer": "10% Student Discount on Emirates Economy Class fares Emirates",
-    "product_type": "Flights"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "10% Student Discount",
-    "brand": "Emirates",
-    "offer": "10% Student Discount on Emirates Economy Class fares",
-    "product_type": "Flights"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "首页",
     "section": "Don’t miss these trending student deals",
     "brand": "ASOS",
     "offer": "10% Student Discount",
@@ -40,8 +13,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Don’t miss these trending student deals",
-    "brand": "ongoing Skin + Me",
-    "offer": "Your first three Daily Dosers will be £9.99 each, then £24.99",
+    "brand": "Surfshark",
+    "offer": "Up to 85% + 15% Student Discount",
     "product_type": "Other"
   },
   {
@@ -184,8 +157,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "on O2 100GB Samsung",
-    "offer": "Ends today Galaxy S26 512GB for £21* a month and £629 upfront",
+    "brand": "Existing Customers Vision Direct",
+    "offer": "Ends in 5 days 6% Student Discount for",
     "product_type": "Other"
   },
   {
@@ -193,8 +166,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "Existing Customers Vision Direct",
-    "offer": "Ends in 5 days 6% Student Discount for",
+    "brand": "monitors and projectors LG",
+    "offer": "15% off selected laptops,",
     "product_type": "Other"
   },
   {
@@ -211,8 +184,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "P.Louise",
-    "offer": "Ends in 6 days Was 15% Student Discount 20% Student Discount",
+    "brand": "Bluebella",
+    "offer": "15% Student Discount",
     "product_type": "Other"
   },
   {
@@ -229,15 +202,6 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "Surfshark",
-    "offer": "Up to 85% + 15% Student Discount",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
     "brand": "shipping Amazon Haul",
     "offer": "10% off orders over £30 + Free",
     "product_type": "Other"
@@ -247,8 +211,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "lenses Glasses Direct",
-    "offer": "Only on 50% off £49+ frames*+ 25% off",
+    "brand": "P.Louise",
+    "offer": "Ends in 6 days Was 15% Student Discount 20% Student Discount",
     "product_type": "Other"
   },
   {
@@ -256,8 +220,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "Oliver Bonas",
-    "offer": "10% Student Discount",
+    "brand": "Broadband Packages Virgin Media",
+    "offer": "Only on Ends in 8 days Free £15 Gift Card with",
     "product_type": "Other"
   },
   {
@@ -265,9 +229,9 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "monitors and projectors LG",
-    "offer": "15% off selected laptops,",
-    "product_type": "Other"
+    "brand": "Emirates",
+    "offer": "10% Student Discount on Emirates Economy Class fares",
+    "product_type": "Flights"
   },
   {
     "date": "2026-06-02",
@@ -283,8 +247,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Find the latest and greatest drops every day",
-    "brand": "6 months PureGym",
-    "offer": "Ends in 19 days Up to 30% off",
+    "brand": "months NordVPN",
+    "offer": "Up to 75% off NordVPN 2-year plans + 15% student discount + 3 free",
     "product_type": "Other"
   },
   {
@@ -319,6 +283,15 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Find the latest and greatest drops every day",
+    "brand": "Slam Jam",
+    "offer": "Ends in 2 days Extra 10% off Sale",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-02",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "Find the latest and greatest drops every day",
     "brand": "AliExpress",
     "offer": "Ends in 9 days £2 off on orders over £12",
     "product_type": "Other"
@@ -339,15 +312,6 @@
     "section": "Find the latest and greatest drops every day",
     "brand": "BURGA",
     "offer": "Ends in 5 days 20% off Summer Sale + Extra 5% off Student Discount",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "Find the latest and greatest drops every day",
-    "brand": "Broadband Packages Virgin Media",
-    "offer": "Only on Ends in 8 days Free £15 Gift Card with",
     "product_type": "Other"
   },
   {
@@ -1193,7 +1157,7 @@
     "page": "Trainline",
     "section": "",
     "brand": "Trainline",
-    "offer": "15% off the 16-17 Saver",
+    "offer": "15% off the 26-30 Railcard",
     "product_type": "Railcard"
   },
   {
@@ -1202,7 +1166,7 @@
     "page": "Trainline",
     "section": "",
     "brand": "Trainline",
-    "offer": "15% off the 26-30 Railcard",
+    "offer": "15% off the 16-17 Saver",
     "product_type": "Railcard"
   },
   {
@@ -1284,15 +1248,6 @@
     "section": "",
     "brand": "National Express",
     "offer": "Up to 20% Student Discount",
-    "product_type": "Bus / Coach"
-  },
-  {
-    "date": "2026-06-02",
-    "source_type": "品牌页",
-    "page": "National Express",
-    "section": "",
-    "brand": "National Express",
-    "offer": "Up to 20% Student Discount on Alton Towers Short Breaks",
     "product_type": "Bus / Coach"
   },
   {
