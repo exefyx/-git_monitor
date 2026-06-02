@@ -107,6 +107,11 @@ def row_key(row: dict) -> str:
     return "|".join(parts)
 
 
+def feishu_date_value(value: str) -> int:
+    dt = datetime.strptime(value, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    return int(dt.timestamp() * 1000)
+
+
 def filter_diff_rows(rows: list[dict]) -> list[dict]:
     return [row for row in rows if is_target_brand(str(row.get("brand", "")).strip())]
 
@@ -141,7 +146,7 @@ def offer_record_fields(
     row: dict,
 ) -> dict:
     return {
-        "日期": run_date,
+        "日期": feishu_date_value(run_date),
         "平台": platform,
         "记录类型": record_type,
         "来源类型": str(row.get("source_type", "")),
@@ -182,7 +187,7 @@ def run_record_fields(
 ) -> dict:
     page_count, brand_count = source_type_counts(rows)
     return {
-        "日期": run_date,
+        "日期": feishu_date_value(run_date),
         "平台": platform,
         "全量数量": len(rows),
         "页面Offer数量": page_count,
@@ -244,6 +249,8 @@ def batch_create_records(
     for batch in batched(fields_list):
         payload = {"records": [{"fields": fields} for fields in batch]}
         response = requests.post(url, headers=headers, json=payload, timeout=60)
+        if response.status_code >= 400:
+            print(response.text)
         response.raise_for_status()
         data = response.json()
         if data.get("code") != 0:
