@@ -5,6 +5,10 @@ on:
     - cron: "17 2 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: daily-monitor-main
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -42,6 +46,7 @@ jobs:
 
           git commit -m "update dashboard $(date +'%Y-%m-%d')" || echo "No changes to commit"
 
+          git pull --rebase origin main
           git push
 
       - name: Send Feishu notification
