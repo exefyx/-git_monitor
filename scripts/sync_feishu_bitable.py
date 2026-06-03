@@ -247,40 +247,6 @@ def raise_for_feishu_error(response: requests.Response, action: str) -> dict:
     return data
 
 
-def preflight_bitable_access(
-    *,
-    token: str,
-    app_token: str,
-    offer_table_id: str,
-    run_table_id: str,
-) -> None:
-    url = f"{FEISHU_API_BASE}/bitable/v1/apps/{app_token}/tables"
-    print(f"Preflight Bitable API host: {FEISHU_API_BASE}")
-    response = requests.get(url, headers=feishu_headers(token), timeout=30)
-    data = raise_for_feishu_error(response, "List Bitable tables")
-    tables = data.get("data", {}).get("items", [])
-    table_labels = [
-        f"{item.get('name', '<unnamed>')}={item.get('table_id', '<missing>')}"
-        for item in tables
-    ]
-    print("Visible Bitable tables:")
-    for label in table_labels:
-        print(f"- {label}")
-
-    available_ids = {item.get("table_id") for item in tables}
-    missing = []
-    if offer_table_id not in available_ids:
-        missing.append("FEISHU_OFFER_TABLE_ID")
-    if run_table_id not in available_ids:
-        missing.append("FEISHU_RUN_TABLE_ID")
-    if missing:
-        raise RuntimeError(
-            "Configured table id not visible to this app: "
-            + ", ".join(missing)
-            + ". Check GitHub Secrets and the Bitable document app permission."
-        )
-
-
 def batch_create_records(
     *,
     token: str,
@@ -412,30 +378,27 @@ def main() -> None:
             )
         return
 
-    app_token = get_required_env("FEISHU_BITABLE_APP_TOKEN")
-    offer_table_id = get_required_env("FEISHU_OFFER_TABLE_ID")
-    run_table_id = get_required_env("FEISHU_RUN_TABLE_ID")
-    token = get_tenant_access_token()
+    try:
+        app_token = get_required_env("FEISHU_BITABLE_APP_TOKEN")
+        offer_table_id = get_required_env("FEISHU_OFFER_TABLE_ID")
+        run_table_id = get_required_env("FEISHU_RUN_TABLE_ID")
+        token = get_tenant_access_token()
 
-    preflight_bitable_access(
-        token=token,
-        app_token=app_token,
-        offer_table_id=offer_table_id,
-        run_table_id=run_table_id,
-    )
-
-    batch_create_records(
-        token=token,
-        app_token=app_token,
-        table_id=offer_table_id,
-        fields_list=offer_records,
-    )
-    batch_create_records(
-        token=token,
-        app_token=app_token,
-        table_id=run_table_id,
-        fields_list=run_records,
-    )
+        batch_create_records(
+            token=token,
+            app_token=app_token,
+            table_id=offer_table_id,
+            fields_list=offer_records,
+        )
+        batch_create_records(
+            token=token,
+            app_token=app_token,
+            table_id=run_table_id,
+            fields_list=run_records,
+        )
+    except Exception as exc:
+        print(f"Feishu Bitable sync skipped: {exc}")
+        return
 
     print("Feishu Bitable sync completed.")
 

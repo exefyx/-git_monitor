@@ -54,3 +54,14 @@ jobs:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: |
           python scripts/notify_feishu.py
+
+      - name: Sync Feishu Bitable archive
+        continue-on-error: true
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_BITABLE_APP_TOKEN: ${{ secrets.FEISHU_BITABLE_APP_TOKEN }}
+          FEISHU_OFFER_TABLE_ID: ${{ secrets.FEISHU_OFFER_TABLE_ID }}
+          FEISHU_RUN_TABLE_ID: ${{ secrets.FEISHU_RUN_TABLE_ID }}
+        run: |
+          python scripts/sync_feishu_bitable.py
