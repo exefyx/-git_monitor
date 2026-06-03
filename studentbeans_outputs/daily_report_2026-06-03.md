@@ -5,45 +5,6 @@
 1. 页面offer
 - 首页
   Amazon：Your fave shows w/ 6 months FREE Discover deals
-  ASOS：10% Student Discount
-  Surfshark：Up to 85% + 15% Student Discount
-  PrettyLittleThing：EXCLUSIVE: At least 20% off everything + Extra 15% Student Discount
-  JD Sports：10% Student Discount
-  Superdrug：Only on 10% Student Discount
-  Online SHEIN：15% Student Discount
-  spend Deliveroo：Ends in 4 days £15 off £20
-  adidas：Ends tomorrow 25% Student Discount
-  National Express：Up to 20% Student Discount
-  boohoo：EXCLUSIVE: Extra 20% Student Discount
-  ODEON：Only on 20% Student Discount
-  Uber：£10 Student Discount on your first ride
-  Sephora：Ends tomorrow Was 15% Student Discount 20% Student Discount
-  joining fee PureGym：Ends today Up to 30% off 6 months + £0
-  selected LOOKFANTASTIC：Ends today Up to 30% off + Extra 7% off
-  lenses Glasses Direct：Only on 50% off £49+ frames*+ 25% off
-  Myprotein：Impact Week - Up to 80% off & Extra 15% Student Discount
-  monitors and projectors LG：15% off selected laptops,
-  shipping Amazon Haul：10% off orders over £30 + Free
-  Price Items Calvin Klein：10% Student Discount on Full
-  Osprey：20% Student Discount
-  P.Louise：Ends in 5 days Was 15% Student Discount 20% Student Discount
-  Lube Lovehoney：Ends today Wet Wednesdays - Extra 25% Student Discount + Free
-  Broadband Packages Virgin Media：Only on Ends in 7 days Free £15 Gift Card with
-  Calvin Klein：Ends in 15 days 30% off when you spend £45
-  Trip.com：Ends in 4 days 21% off on UK Trains
-  JustWears：5% Student Discount
-  TrainPal：Ends in 5 days 25% off Eurostar Standard & Plus adult tickets
-  White Stuff John Lewis：Ends in 6 days 20% off
-  any Travel eSIM Mozillion：25% off
-  Audible：£0.99/month for the first 3 months
-  award-winning hair tools ghd：Ends in 27 days Was 15% off award-winning hair tools 20% off
-  Self-Care MyMental LTD：Only on 10% off
-  Princess Polly：Ends in 4 days Was 15% Student Discount 21% Student Discount
-  on Road Running HOKA：12% Student Discount
-  Teva：Ends in 11 days 15% Student Discount
-  Omio：5% Student Discount for Existing Users
-  BURGA：Ends in 4 days 20% off Summer Sale + Extra 5% off Student Discount
-  AliExpress：Ends in 8 days £2 off on orders over £12
   SEA LIFE London Aquarium：SEA LIFE London Student Tickets from £14
   London Eye：Student Tickets from £17
   The London Dungeon：Student Tickets from £15
@@ -55,8 +16,17 @@
   SEA LIFE London Aquarium：SEA LIFE London + London Dungeon Student Ticket £35
   RAC：Student Champagne Bar + Fast Track Entry from £46.75
   Madame Tussauds：SEA LIFE London + Madame Tussauds Student Ticket £35
+  ASOS：10% Student Discount
+  PrettyLittleThing：EXCLUSIVE: At least 20% off everything + Extra 15% Student Discount
+  Superdrug：Only on 10% Student Discount
+  Online SHEIN：15% Student Discount
   Boots：10% Student Discount
+  JD Sports：10% Student Discount
+  adidas：Ends tomorrow 25% Student Discount
+  boohoo：EXCLUSIVE: Extra 20% Student Discount
+  selected LOOKFANTASTIC：Ends today Up to 30% off + Extra 7% off
   New Look：10% Student Discount
+  Sephora：Ends tomorrow Was 15% Student Discount 20% Student Discount
   schuh：10% Student Discount
   OFFICE：10% Student Discount
   Hollister：10% Student Discount
@@ -70,6 +40,7 @@
   for New Users Sephora：Ends in 4 days 21% Student Discount
   fashion Harvey Nichols：Ends in 4 days 21% off
   Charles Tyrwhitt：Ends in 4 days 21% Student Discount
+  Princess Polly：Ends in 4 days Was 15% Student Discount 21% Student Discount
   Sitewide Dyson：Ends in 11 days 5% Student Discount
   New Balance：Ends in 4 days 15% Student Discount
   Next Order Cult Beauty：Ends in 4 days 20% Off + £5 Off Your
@@ -80,17 +51,17 @@
   Brick：Only on Ends in 4 days Was 20% Student Discount 21% Student Discount
   Selected LOOKFANTASTIC：Ends in 4 days 25% Exclusive Discount off
 - Travel
-  FlixBus：20% Student Discount
   Uber：£10 Student Discount on your first ride
   TrainPal：Up to 10% off train fares
   per booking TUI：£50 Student Discount
   Trainline：15% off the 16-25 Railcard
   loveholidays：Up to £550 off selected holidays + £50 Student Discount
-  Railcard：15% off the 16-25 Railcard
   Hostelworld：10% Student Discount
+  Railcard：15% off the 16-25 Railcard
   Purple Parking：Up to 30% Student Discount
   easyJet holidays：£25 Student Discount
   Trip.com：Up to £20 OFF Flights
+  Expedia：10% off Hotels
 - Trains
   TrainPal：Up to 10% off train fares
   Trainline：15% off the 16-25 Railcard
@@ -113,13 +84,13 @@
   Railcard：15% off the 16-25 Railcard
   Railcard：15% off the 26-30 Railcard
   Flibco：10% Student Discount
-  Trainline：15% off the 16-17 Saver
-  Uber：£10 off your First Uber for Teens Ride
-  Trip.com：2% Off UK trains for existing users
-  a limited time Avis：Enjoy 15% off car hire (instead of 5%) for
   Klook：18% Student Discount
+  Trip.com：2% Off UK trains for existing users
+  Trainline：15% off the 16-17 Saver
+  a limited time Avis：Enjoy 15% off car hire (instead of 5%) for
   Trip.com：20% off Railcard for new users
   Railcard：20% off Railcard for new users
+  Uber：£10 off your First Uber for Teens Ride
 
 2. 竞品offer监控
 
@@ -130,7 +101,7 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 - Railcard
   TrainPal：Student Exclusive: 23% OFF Railcard；23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；20% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard
-  竞品重点：Trip.com：20% off Railcard for new users；Trainline：15% off the 16-25 Railcard；Trainline：15% off the 26-30 Railcard；Trainline：15% off the 16-17 Saver；Trip.com：10% off Railcard for existing users
+  竞品重点：Trip.com：20% off Railcard for new users；Trainline：15% off the 16-25 Railcard；Trainline：15% off the 16-17 Saver；Trainline：15% off the 26-30 Railcard；Trip.com：10% off Railcard for existing users
   关注点：已覆盖 TrainPal 对应产品，需持续跟踪竞品折扣变化。
 - UK & Europe Train Tickets
   TrainPal：Up to 10% off train fares；5% Off Trains for New Customer & 2% Off for Existing Customer；£4 off for New Customers & 2% off for Existing Customers on UK Train Tickets
@@ -166,8 +137,8 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：AliExpress：Ends in 8 days £2 off on orders over £12；Amazon：Your fave shows w/ 6 months FREE Discover deals；Audible：£0.99/month for the first 3 months；BURGA：Ends in 4 days 20% off Summer Sale + Extra 5% off Student Discount；Brick：Only on Ends in 4 days Was 20% Student Discount 21% Student Discount；Broadband Packages Virgin Media：Only on Ends in 7 days Free £15 Gift Card with；Calvin Klein：Ends in 15 days 30% off when you spend £45；Charles Tyrwhitt：Ends in 4 days 21% Student Discount；Huel：Ends in 4 days 33% Student Discount；JustWears：5% Student Discount
-• 下线 Offer：FlixBus：20% Student Discount；Trip.com：15% off on UK Trains；AliExpress：Ends in 9 days £2 off on orders over £12；BURGA：Ends in 5 days 20% off Summer Sale + Extra 5% off Student Discount；Brick：Only on Ends in 5 days Was 20% Student Discount 21% Student Discount；Broadband Packages Virgin Media：Only on Ends in 8 days Free £15 Gift Card with；Charles Tyrwhitt：Ends in 5 days 21% Student Discount；Domino's Pizza：Buy One Get One Free；Doxzoo：15% Student Discount；Everything Else Cult Beauty：Ends in 28 days 20% Off Skincare + 15% Off
+• 新增 Offer：Expedia：10% off Hotels；Amazon：Your fave shows w/ 6 months FREE Discover deals；Brick：Only on Ends in 4 days Was 20% Student Discount 21% Student Discount；Charles Tyrwhitt：Ends in 4 days 21% Student Discount；Huel：Ends in 4 days 33% Student Discount；Lulus：Only on Ends in 4 days 21% Student Discount；New Balance：Ends in 4 days 15% Student Discount；New Look：Ends in 4 days 21% Student Discount；Next Order Cult Beauty：Ends in 4 days 20% Off + £5 Off Your；Princess Polly：Ends in 4 days Was 15% Student Discount 21% Student Discount
+• 下线 Offer：FlixBus：20% Student Discount；Trip.com：15% off on UK Trains；FlixBus：20% Student Discount；AliExpress：Ends in 9 days £2 off on orders over £12；BURGA：Ends in 5 days 20% off Summer Sale + Extra 5% off Student Discount；Brick：Only on Ends in 5 days Was 20% Student Discount 21% Student Discount；Broadband Packages Virgin Media：Only on Ends in 8 days Free £15 Gift Card with；Charles Tyrwhitt：Ends in 5 days 21% Student Discount；Domino's Pizza：Buy One Get One Free；Doxzoo：15% Student Discount
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 
@@ -190,8 +161,8 @@
   6% Off Japan Railway for new users
 - Trainline
   15% off the 16-25 Railcard
-  15% off the 26-30 Railcard
   15% off the 16-17 Saver
+  15% off the 26-30 Railcard
 - TrainPal
   Up to 10% off train fares
   Student Exclusive: 23% OFF Railcard

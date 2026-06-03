@@ -7,16 +7,6 @@ Graduate Discounts
 Blog
 Login
 Register
-Trending Now
-In-store
-Fashion
-Food & Drink
-Tech & Mobile
-Beauty
-Health & Fitness
-Travel
-Entertainment
-More
 
 Never miss deals with our Chrome extension
 
@@ -56,16 +46,6 @@ Competition
 Brands
 
 Sort by
-
-20% Student Discount
-
-FlixBus
-
-For students only
-
-Online
-
-Travel
 
 £10 Student Discount on your first ride
 
@@ -150,6 +130,16 @@ Travel
 Up to £20 OFF Flights
 
 Trip.com
+
+For students only
+
+Online
+
+Travel
+
+10% off Hotels
+
+Expedia
 
 For students only
 
