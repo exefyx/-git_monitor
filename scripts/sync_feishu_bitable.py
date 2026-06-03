@@ -305,6 +305,7 @@ def batch_create_records(
 
 def prepare_payload(run_date: str | None) -> tuple[str, list[dict], list[dict]]:
     synced_at = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M:%S%z")
+    seen_dates: list[str] = []
     effective_dates: list[str] = []
     offer_records: list[dict] = []
     run_records: list[dict] = []
@@ -316,8 +317,16 @@ def prepare_payload(run_date: str | None) -> tuple[str, list[dict], list[dict]]:
             continue
 
         current_date = date_from_file(current)
-        effective_dates.append(current_date)
+        seen_dates.append(current_date)
         rows = read_rows(current)
+        if not rows:
+            print(
+                f"{platform} {current_date} clean offer file is empty; "
+                "skip Feishu archive to avoid false diff records."
+            )
+            continue
+
+        effective_dates.append(current_date)
         diff = make_diff(folder, current, rows)
         run_id = f"{current_date}-{platform.replace(' ', '_')}-{synced_at}"
 
@@ -366,6 +375,8 @@ def prepare_payload(run_date: str | None) -> tuple[str, list[dict], list[dict]]:
         )
 
     if not effective_dates:
+        if seen_dates:
+            return max(seen_dates), [], []
         raise RuntimeError("No clean offer files found to sync.")
 
     return max(effective_dates), offer_records, run_records
@@ -389,6 +400,9 @@ def main() -> None:
     print(f"Prepared Feishu payload for {run_date}:")
     print(f"- OfferRecords: {len(offer_records)}")
     print(f"- DailyRuns: {len(run_records)}")
+    if not offer_records and not run_records:
+        print("No non-empty clean offer files found; skip Feishu Bitable sync.")
+        return
 
     if args.dry_run:
         for item in run_records:
