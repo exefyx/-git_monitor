@@ -1,5 +1,3 @@
-Save BIG for our 21st bday 👉
-
 Brands, items or categories
 
 🎓
@@ -7,6 +5,16 @@ Graduate Discounts
 Blog
 Login
 Register
+Trending Now
+In-store
+Fashion
+Food & Drink
+Tech & Mobile
+Beauty
+Health & Fitness
+Travel
+Entertainment
+More
 
 Never miss deals with our Chrome extension
 
@@ -55,14 +63,6 @@ For anyone to use
 
 Online
 
-Up to £550 off selected holidays + £50 Student Discount
-
-loveholidays
-
-For anyone to use
-
-Online
-
 £50 Student Discount per booking
 
 TUI
@@ -71,17 +71,9 @@ For anyone to use
 
 Online
 
-£10 Student Discount on your first ride
+Up to £550 off selected holidays + £50 Student Discount
 
-Uber
-
-For anyone to use
-
-Online
-
-10% off Hotels
-
-Expedia
+loveholidays
 
 For anyone to use
 
@@ -95,14 +87,6 @@ For anyone to use
 
 Online
 
-20% off all flights
-
-Jet2holidays
-
-For anyone to use
-
-Online
-
 £25 Student Discount
 
 easyJet holidays
@@ -111,9 +95,17 @@ For anyone to use
 
 Online
 
-Up to 30% Student Discount
+10% off Hotels
 
-Purple Parking
+Expedia
+
+For anyone to use
+
+Online
+
+20% off all flights
+
+Jet2holidays
 
 For anyone to use
 
@@ -127,7 +119,23 @@ For anyone to use
 
 Online
 
-Up to £20 OFF Flights
+Up to 30% Student Discount
+
+Purple Parking
+
+For anyone to use
+
+Online
+
+Up to 25% or more + 10% Student Discount
+
+Hotels.com
+
+For anyone to use
+
+Online
+
+15% off on UK Trains
 
 Trip.com
 
@@ -151,33 +159,17 @@ For anyone to use
 
 Online
 
-Up to 25% or more + 10% Student Discount
+£10 Student Discount on your first ride
 
-Hotels.com
+Uber
 
 For anyone to use
 
 Online
 
-12% Student Discount
+10% Student Discount
 
 Viator, A Tripadvisor Company
-
-For anyone to use
-
-Online
-
-£30 off Holidays
-
-lastminute.com
-
-For anyone to use
-
-Online
-
-Up to 20% Student Discount on Alton Towers Short Breaks
-
-Alton Towers Resort
 
 For anyone to use
 
@@ -191,17 +183,9 @@ For anyone to use
 
 Online
 
-45% Student Discount
+£75 Student Discount
 
-Bolt
-
-For anyone to use
-
-Online
-
-Enjoy 15% off car hire (instead of 5%) for a limited time
-
-Avis
+First Choice
 
 For anyone to use
 
@@ -217,6 +201,14 @@ For anyone to use
 
 Online
 
+Enjoy 15% off car hire (instead of 5%) for a limited time
+
+Avis
+
+For anyone to use
+
+Online
+
 10% Student Discount
 
 YHA (England & Wales)
@@ -225,17 +217,33 @@ For anyone to use
 
 Online
 
-Up to £60 Student Discount
+Up to 20% Student Discount on Alton Towers Short Breaks
 
-Virgin Atlantic
+Alton Towers Resort
 
 For anyone to use
 
 Online
 
-15% Student Discount
+45% Student Discount
 
-it Luggage
+Bolt
+
+For anyone to use
+
+Online
+
+20% Student Discount
+
+Osprey
+
+For anyone to use
+
+Online
+
+10% Student Discount
+
+Flibco
 
 For anyone to use
 
