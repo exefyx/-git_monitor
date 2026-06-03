@@ -6,7 +6,7 @@
 - 首页
   Amazon：Your fave shows w/ 6 months FREE Discover deals
   ASOS：10% Student Discount
-  New Balance：Extra 10% Student Discount on Sale
+  lenses Glasses Direct：Only on 50% off £49+ frames*+ 25% off
   PrettyLittleThing：EXCLUSIVE: At least 20% off everything + Extra 15% Student Discount
   JD Sports：10% Student Discount
   Superdrug：Only on 10% Student Discount
@@ -20,15 +20,14 @@
   Sephora：Ends tomorrow Was 15% Student Discount 20% Student Discount
   joining fee PureGym：Ends today Up to 30% off 6 months + £0
   TrainPal：Up to 10% off train fares
+  months NordVPN：Up to 75% off NordVPN 2-year plans + 15% student discount + 3 free
+  P.Louise：Ends in 5 days Was 15% Student Discount 20% Student Discount
+  Osprey：20% Student Discount
+  ongoing Skin + Me：Your first three Daily Dosers will be £9.99 each, then £24.99
+  Broadband Packages Virgin Media：Only on Ends in 7 days Free £15 Gift Card with
   monitors and projectors LG：15% off selected laptops,
-  Myprotein：Impact Week - Up to 80% off & Extra 15% Student Discount
-  Surfshark：Up to 85% + 15% Student Discount
-  shipping Amazon Haul：10% off orders over £30 + Free
-  Price Items Calvin Klein：10% Student Discount on Full
-  Bluebella：15% Student Discount
-  Ubigi eSIM：20% Student Discount
-  Under Armour：Ends today 20% Student Discount
   Lube Lovehoney：Ends today Wet Wednesdays - Extra 25% Student Discount + Free
+  New Balance：Extra 10% Student Discount on Sale
   Calvin Klein：Ends in 15 days 30% off when you spend £45
   Trip.com：Ends in 4 days 21% off on UK Trains
   JustWears：5% Student Discount
@@ -42,9 +41,7 @@
   on Road Running HOKA：12% Student Discount
   Teva：Ends in 11 days 15% Student Discount
   Omio：5% Student Discount for Existing Users
-  Broadband Packages Virgin Media：Only on Ends in 7 days Free £15 Gift Card with
   BURGA：Ends in 4 days 20% off Summer Sale + Extra 5% off Student Discount
-  AliExpress：Ends in 8 days £2 off on orders over £12
   SEA LIFE London Aquarium：SEA LIFE London Student Tickets from £14
   London Eye：Student Tickets from £17
   The London Dungeon：Student Tickets from £15
@@ -168,7 +165,7 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：Trip.com：Ends in 27 days 15% off on UK Trains；Expedia：10% off Hotels；AliExpress：Ends in 8 days £2 off on orders over £12；Amazon：Your fave shows w/ 6 months FREE Discover deals；Audible：£0.99/month for the first 3 months；BURGA：Ends in 4 days 20% off Summer Sale + Extra 5% off Student Discount；Bluebella：15% Student Discount；Brick：Only on Ends in 4 days Was 20% Student Discount 21% Student Discount；Broadband Packages Virgin Media：Only on Ends in 7 days Free £15 Gift Card with；Calvin Klein：Ends in 15 days 30% off when you spend £45
+• 新增 Offer：Trip.com：Ends in 27 days 15% off on UK Trains；Expedia：10% off Hotels；Amazon：Your fave shows w/ 6 months FREE Discover deals；Audible：£0.99/month for the first 3 months；BURGA：Ends in 4 days 20% off Summer Sale + Extra 5% off Student Discount；Brick：Only on Ends in 4 days Was 20% Student Discount 21% Student Discount；Broadband Packages Virgin Media：Only on Ends in 7 days Free £15 Gift Card with；Calvin Klein：Ends in 15 days 30% off when you spend £45；Charles Tyrwhitt：Ends in 4 days 21% Student Discount；Footasylum：10% Student Discount
 • 下线 Offer：FlixBus：20% Student Discount；Trip.com：15% off on UK Trains；Trip.com：15% off on UK Trains；FlixBus：20% Student Discount；AliExpress：Ends in 9 days £2 off on orders over £12；BURGA：Ends in 5 days 20% off Summer Sale + Extra 5% off Student Discount；Brick：Only on Ends in 5 days Was 20% Student Discount 21% Student Discount；Broadband Packages Virgin Media：Only on Ends in 8 days Free £15 Gift Card with；Charles Tyrwhitt：Ends in 5 days 21% Student Discount；Domino's Pizza：Buy One Get One Free
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
