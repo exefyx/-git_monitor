@@ -6,12 +6,21 @@
 - 首页
   Download on the App Store：Get the free app!
 - Travel & Entertainment
+  Thorpe Park：Adventure starts here! Thorpe Park tickets from £24 💥 Get your adrenaline fix – tickets for amazing rides from only £24! Get now
+  TrainPal：New to TrainPal? Get 15% off trains for new users 🚆 Grab 15% off if you're a new customer and save on your next train. Get now
+  TrainPal：New to TrainPal? Get £4 off your first UK train ticket 🚆🆕 Grab £4 off your first train journey with TrainPal with UNiDAYS. Get now
+  Trip.com：Up to £20 off flights ✈️ Booking your next trip? Save on your next getaway with flight deals across Trip.com. Get now
   Eurostar：Up to 30% off Eurostar travel 🚇 Get 25% off the Eurostar Sale + 5% off if you're a new customer. Get now
-  Camp more：spend less this summer ⛺ Get 20% off selected camping gear plus 7% off motoring essentials at Halfords. Get now
-  Chase forests：trails and sunsets this summer 🌲 Save 7% on cycling and motoring essentials for your next countryside escape. Get now
-  Ride more：drive less this Clean Air Day 🚴 Get 7% off bike upgrades and cycling accessories at Halfords. Get now
+  Thorpe Park：Adventure starts here! Thorpe Park tickets from £24 💥
+  TrainPal：New to TrainPal? Get 15% off trains for new users 🚆
+  TrainPal：New to TrainPal? Get £4 off your first UK train ticket 🚆🆕
+  Trip.com：Up to £20 off flights ✈️
   Eurostar：Up to 30% off Eurostar travel 🚇
+  Trip.com：Booking your next trip? Save on your next getaway with flight deals across Trip.com.
   Eurostar：Get 25% off the Eurostar Sale + 5% off if you're a new customer.
+  Thorpe Park：Get your adrenaline fix – tickets for amazing rides from only £24!
+  TrainPal：Grab 15% off if you're a new customer and save on your next train.
+  TrainPal：Grab £4 off your first train journey with TrainPal with UNiDAYS.
   TrainPal：Up to 30% off Eurostar travel 🚇 Get 25% off the Eurostar Sale + 5% off if you're a new customer. Get now
   TrainPal：Up to 30% off Eurostar travel 🚇
   Alton Towers Resort：Alton Towers Waterpark Entry for £15 💦 Book for Summer visits between 1st June and 27th September and save a minimum of £6pp! Get now
@@ -20,30 +29,39 @@
   Alton Towers Resort：Book for Summer visits between 1st June and 27th September and save a minimum of £6pp!
   Flexiroam：20% Off Travel Data Plans
   Klook：Up to 15% Off Travel Deals
-  Trip.com：15% Off Trains For New Customers
-  Trip.com：15% Off Trains For New Customers 26 days
+  Expedia：Last minute deals + extra 10% Off bookings
+  Hotels.com：Stay 10 nights, get £100 back in Hotels.comCash
   OYO Hotels：Save 40% + Extra 10% When You Stay 3 Nights or More
-  Fever：10% Off
-  Opodo：Save £100s on flights, hotels & car rental
+  Trip.com：15% Off Trains For New Customers
+  Hotels.com Stay 10 nights：get £100 back in Hotels.comCash
+  Trip.com：15% Off Trains For New Customers 26 days
+  Stay 10 nights：get £100 back in Hotels.comCash
   OMIO：7% Off Travel for New Customers
   National Express：Up to 20% Off Coach Bookings
   Omio：7% Off Travel for New Customers Exclusive
-  Swapfiets：£25 off your bike subscription
-  TrainPal：15% Off Trains For New Customers
-  Merlin Annual Pass：Ultimate annual passport from £99
-  The Dungeons：+ Madame Tussauds £35 Ticket Bundle
+  Trainline：15% Off 16-17 Saver Railcard
+  Uber One：50% Off an Uber One membership
+  Twycross Zoo：Save 15% on Animal Experiences & Early Bird Tours
   Love to Visit：Extra 5% Off
   Warwick Castle：Up to 20% Off short breaks at Warwick Castle!
-  Cineworld：2 Tickets for £13
+  Merlin Annual Pass：Ultimate annual passport from £99
+  The Dungeons：+ Madame Tussauds £35 Ticket Bundle
   Manchester City Football Club：Manchester City Stadium Tours From £18
+  Cineworld：2 Tickets for £13
+  Fever：10% Off
   Virgin Experience Days：Save on Merlin attractions & experiences
-  Prime Video：30 Day Free Trial of Prime Video Channels
   Amazon Audible：30-day free trial
+  Prime Video：30 Day Free Trial of Prime Video Channels
   Audible：Amazon Audible 30-day free trial
   Audible：30-day free trial
   Channel 4：Your Free Month Trial Of Channel 4+
-  Apple Music：Get 1 month free
-  Apple Music：Only £5.99/month & free access to TV
+  Deezer：1 month free, then £5.99/month
+  Amazon Music Unlimited：30 Day Free Trial
+  Deezer 1 month free：then £5.99/month
+  Amazon：Music Unlimited 30 Day Free Trial Boosted
+  Amazon：Music Unlimited 30 Day Free Trial
+  1 month free：then £5.99/month
+  Amazon：30 Day Free Trial
   Junkyard Golf Club：50% Off Walk Ins At Leeds, Liverpool, Newcastle and Manchester
   Airbnb：10% Off your first Airbnb stay
   Uber Rides：£10 Off your first ride with Uber
@@ -82,7 +100,7 @@
 
 2.1 分产品监控情况
 - UK & Europe Train Tickets
-  TrainPal：Up to 5% off train tickets for the UK and the EU；£4 Off UK Train Tickets for New Customers
+  TrainPal：15% Off Trains For New Customers；£4 Off UK Train Tickets for New Customers；Up to 5% off train tickets for the UK and the EU
   竞品重点：Trip.com：15% Off Trains For New Customers；Trip.com：5% off UK trains for new users；Omio：5% Off Trains；Trip.com：£4 Off your first UK train ticket In-App；Trip.com：2% Off UK trains for existing users
   关注点：已覆盖 TrainPal 对应产品，需持续跟踪竞品折扣变化。
 - Japan Train / Japan Railway
@@ -91,7 +109,7 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 - Railcard
   TrainPal：20% Off UK Railcards
-  竞品重点：Trip.com：20% Off Railcards for new users；Trainline：15% Off 16-17 Saver Railcard；Trainline：15% Off 16-25 Railcard；Trainline：15% Off 26-30 Railcard；Trip.com：10% off Railcard for existing users
+  竞品重点：Trip.com：20% Off Railcards for new users；Trainline：15% Off 16-25 Railcard；Trainline：15% Off 16-17 Saver Railcard；Trainline：15% Off 26-30 Railcard；Trip.com：10% off Railcard for existing users
   关注点：已覆盖 TrainPal 对应产品，需持续跟踪竞品折扣变化。
 - Bus / Coach
   TrainPal：暂无
@@ -123,44 +141,45 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：Trip.com：15% Off Trains For New Customers 26 days；Alton Towers Resort：Alton Towers Waterpark Entry for £15 💦；Alton Towers Resort：Alton Towers Waterpark Entry for £15 💦 Book for Summer visits between 1st June and 27th September and save a minimum of £6pp! Get now；Alton Towers Resort：Book for Summer visits between 1st June and 27th September and save a minimum of £6pp!；Apple Music：Get 1 month free；Apple Music：Only £5.99/month & free access to TV；Camp more：spend less this summer ⛺ Get 20% off selected camping gear plus 7% off motoring essentials at Halfords. Get now；Chase forests：trails and sunsets this summer 🌲 Save 7% on cycling and motoring essentials for your next countryside escape. Get now；Eurostar：Get 25% off the Eurostar Sale + 5% off if you're a new customer.；Eurostar：Up to 30% off Eurostar travel 🚇
-• 下线 Offer：TrainPal：15% Off Trains For New Customers；TrainPal：15% Off Trains For New Customers 15 hours；Trip.com：15% Off Trains For New Customers 27 days；1 month free：then £5.99/month；Amazon：30 Day Free Trial；Amazon：Music Unlimited 30 Day Free Trial；Amazon：Music Unlimited 30 Day Free Trial Boosted；Amazon Music Unlimited：30 Day Free Trial；Deezer：1 month free, then £5.99/month；Deezer 1 month free：then £5.99/month
+• 新增 Offer：Trip.com：15% Off Trains For New Customers 26 days；Alton Towers Resort：Alton Towers Waterpark Entry for £15 💦；Alton Towers Resort：Alton Towers Waterpark Entry for £15 💦 Book for Summer visits between 1st June and 27th September and save a minimum of £6pp! Get now；Alton Towers Resort：Book for Summer visits between 1st June and 27th September and save a minimum of £6pp!；Eurostar：Get 25% off the Eurostar Sale + 5% off if you're a new customer.；Eurostar：Up to 30% off Eurostar travel 🚇；Eurostar：Up to 30% off Eurostar travel 🚇 Get 25% off the Eurostar Sale + 5% off if you're a new customer. Get now；TrainPal：Get 25% off the Eurostar Sale + 5% off if you're a new customer.；TrainPal：Grab 15% off if you're a new customer and save on your next train.；TrainPal：Grab £4 off your first train journey with TrainPal with UNiDAYS.
+• 下线 Offer：TrainPal：15% Off Trains For New Customers 15 hours；Trip.com：15% Off Trains For New Customers 27 days；Omio：Book your next ride with Omio and save 5% on buses.；Omio：Bus Travel Just Got 5% Cheaper 🚎；Omio：Bus Travel Just Got 5% Cheaper 🚎 Book your next ride with Omio and save 5% on buses. Get now；Omio：Get there for less – book your flight now and save 5% with Omio.；Omio：Save 5% on Flights with Omio ✈️；Omio：Save 5% on Flights with Omio ✈️ Get there for less – book your flight now and save 5% with Omio. Get now；Ride more：drive less this Clean Air Day 🚴 Get 7% off bike upgrades and cycling accessories at Halfords. Get now；Save 25% on Day Tickets Plus Pay for a Day：Visit FREE for 12 months!
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 
 2.3 竞品offer
 - Trip.com
   11% Off hotels in China
-  15% Off Trains For New Customers
   10% Off Car Rental
+  15% Off Trains For New Customers
   6% off Japan Railway for new users
-  5% Off coaches for new users
   10% off Railcard for existing users
-  5% off UK trains for new users
   2% Off UK trains for existing users
   6% Off Selected Tours & Tickets
-  20% Off Railcards for new users
   5% Off Tours and Tickets
-  Up to £20 Off Flights
-  Up to £50 Off Hotels
-  10% Off eSIM
   £4 Off your first UK train ticket In-App
+  5% off UK trains for new users
+  10% Off eSIM
+  5% Off coaches for new users
+  Up to £50 Off Hotels
+  Up to £20 Off Flights
+  20% Off Railcards for new users
 - Trainline
-  15% Off 16-17 Saver Railcard
   15% Off 16-25 Railcard
+  15% Off 16-17 Saver Railcard
   15% Off 26-30 Railcard
 - TrainPal
-  Up to 5% off train tickets for the UK and the EU
+  15% Off Trains For New Customers
   £4 Off UK Train Tickets for New Customers
+  Up to 5% off train tickets for the UK and the EU
   20% Off UK Railcards
 - FlixBus
   20% Discount on the FlixBus App
 - Omio
   7% Off Travel for New Customers
-  5% Student Travel Discount
-  5% Off Flights
   5% Off Buses
   5% Off Trains
+  5% Off Flights
+  5% Student Travel Discount
 - National Express
   Up to 20% Off Coach Bookings
 - Klook

@@ -5,9 +5,9 @@
 1. 页面offer
 - 首页
   Amazon：Your fave shows w/ 6 months FREE Discover deals
-  Alton Towers Resort：Student tickets from £21 for June only Alton Towers Resort
+  Audible：£0.99/month for the first 3 months Audible
   ASOS：10% Student Discount
-  Audible：£0.99/month for the first 3 months
+  Alton Towers Resort：Ends in 26 days Student tickets from £21 for June only
   PrettyLittleThing：EXCLUSIVE: At least 20% off everything + Extra 15% Student Discount
   JD Sports：10% Student Discount
   spend Deliveroo：Ends in 3 days £15 off £20
@@ -21,17 +21,15 @@
   TrainPal：Up to 10% off train fares
   Selected LOOKFANTASTIC：Ends in 3 days 25% Exclusive Discount off
   total basket Popeyes：20% off
-  Bluebella：15% Student Discount
+  per booking TUI：£50 Student Discount
   FlixBus：Ends in 3 days Was 20% Student Discount 25% Student Discount
   New Balance：Extra 10% Student Discount on Sale
-  months NordVPN：Up to 75% off NordVPN 2-year plans + 15% student discount + 3 free
-  Surfshark：Up to 85% + 15% Student Discount
   a selected smartphone Samsung：Ends in 19 days Get 15% off Galaxy S26 Series, and an extra £100 off with code, or £200 if you also trade in
-  per booking TUI：£50 Student Discount
-  shipping Amazon Haul：10% off orders over £30 + Free
-  Myprotein：Impact Week - Up to 80% off & Extra 15% Student Discount
+  Bluebella：15% Student Discount
+  Viator, A Tripadvisor Company：Ends in 3 days 12% Student Discount
+  Surfshark：Up to 85% + 15% Student Discount
+  Casetify：15% Off Student Discount
   Qatar Airways：5% off
-  Broadband Packages Virgin Media：Only on Ends in 6 days Free £15 Gift Card with
   EE Tech & Gaming：New Oura ring 5 From £14.96 a month
   selected styles Under Armour：Ends in 6 days 30% off
   Selected* LOOKFANTASTIC：Ends in 2 days Up to 25% off
@@ -45,9 +43,9 @@
   JustWears：5% Student Discount
   Cover Keyboard Slim Samsung：20% off Galaxy Tab S11 Ultra and a free Book
   any Travel eSIM Mozillion：25% off
+  Audible：£0.99/month for the first 3 months
   award-winning hair tools ghd：Ends in 26 days Was 15% off award-winning hair tools 20% off
-  Self-Care MyMental LTD：Only on 10% off
-  Alton Towers Resort：Ends in 26 days Student tickets from £21 for June only
+  6 months PureGym：Ends in 17 days Up to 30% off
   Alton Towers Resort：Up to £40 off the Merlin Annual pass for students
   Thorpe Park：Ends in 26 days Student tickets from £21 for June only
   Chessington World of Adventures：Ends in 26 days Student tickets from £21 for June only
@@ -89,17 +87,17 @@
   Huel：Ends in 3 days 33% Student Discount
   Brick：Only on Ends in 3 days Was 20% Student Discount 21% Student Discount
 - Travel
-  Uber：£10 Student Discount on your first ride
   TrainPal：Up to 10% off train fares
   per booking TUI：£50 Student Discount
-  Trainline：15% off the 16-25 Railcard
   loveholidays：Up to £550 off selected holidays + £50 Student Discount
-  Hostelworld：10% Student Discount
-  Railcard：15% off the 16-25 Railcard
-  Purple Parking：Up to 30% Student Discount
-  easyJet holidays：£25 Student Discount
-  Trip.com：Up to £20 OFF Flights
+  Uber：£10 Student Discount on your first ride
+  Trainline：15% off the 16-25 Railcard
   Expedia：10% off Hotels
+  Railcard：15% off the 16-25 Railcard
+  Trip.com：Up to £20 OFF Flights
+  Hostelworld：10% Student Discount
+  Jet2holidays：£50 Student Discount
+  Purple Parking：Up to 30% Student Discount
 - Trains
   TrainPal：Up to 10% off train fares
   Trainline：15% off the 16-25 Railcard
@@ -121,12 +119,11 @@
   Railcard：15% off the 16-25 Railcard
   Railcard：15% off the 26-30 Railcard
   Flibco：10% Student Discount
-  Klook：18% Student Discount
   Trip.com：2% Off UK trains for existing users
   Trainline：15% off the 16-17 Saver
+  TrainPal：Ends in 4 days 25% off Eurostar Standard & Plus adult tickets
+  Klook：18% Student Discount
   a limited time Avis：Enjoy 15% off car hire (instead of 5%) for
-  Trip.com：20% off Railcard for new users
-  Railcard：20% off Railcard for new users
   Uber：£10 off your First Uber for Teens Ride
 
 2. 竞品offer监控
@@ -162,7 +159,7 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 - Car Rental
   TrainPal：暂无
-  竞品重点：Europcar：Up to 15% Student Discount；Trip.com：10% Off Car Rental
+  竞品重点：Trip.com：10% Off Car Rental
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 - eSIM / SIM
   TrainPal：暂无
@@ -174,8 +171,8 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：TrainPal：Ends in 4 days 25% off Eurostar Standard & Plus adult tickets；Trip.com：5% Off Tours and Tickets；Trip.com：Ends in 3 days 21% off on UK Trains；Airpods John Lewis：Ends in 5 days Up to £50 off；Alton Towers Resort：Ends in 26 days Student tickets from £21 for June only；Alton Towers Resort：Student tickets from £21 for June only Alton Towers Resort；Alton Towers Resort：Up to £40 off the Merlin Annual pass for students；Alton Towers Resort：Waterpark tickets from £23；Argos：Ends in 7 days Up to 50% off Home Sale；Bluebella：15% Student Discount
-• 下线 Offer：Klook：18% Student Discount；Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；Trip.com：Ends in 27 days 15% off on UK Trains；BURGA：Ends in 4 days 20% off Summer Sale + Extra 5% off Student Discount；Brick：Only on Ends in 4 days Was 20% Student Discount 21% Student Discount；Broadband Packages Virgin Media：Only on Ends in 7 days Free £15 Gift Card with；Calvin Klein：Ends in 15 days 30% off when you spend £45；Charles Tyrwhitt：Ends in 4 days 21% Student Discount；Footasylum：10% Student Discount
+• 新增 Offer：TrainPal：Ends in 4 days 25% off Eurostar Standard & Plus adult tickets；TrainPal：Ends in 4 days 25% off Eurostar Standard & Plus adult tickets；Trip.com：5% Off Tours and Tickets；Trip.com：Ends in 3 days 21% off on UK Trains；Jet2holidays：£50 Student Discount；6 months PureGym：Ends in 17 days Up to 30% off；Airpods John Lewis：Ends in 5 days Up to £50 off；Alton Towers Resort：Ends in 26 days Student tickets from £21 for June only；Alton Towers Resort：Up to £40 off the Merlin Annual pass for students；Alton Towers Resort：Waterpark tickets from £23
+• 下线 Offer：Europcar：Up to 15% Student Discount；Railcard：20% off Railcard for new users；Trip.com：20% off Railcard for new users；Klook：18% Student Discount；Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；Trip.com：Ends in 27 days 15% off on UK Trains；easyJet holidays：£25 Student Discount；BURGA：Ends in 4 days 20% off Summer Sale + Extra 5% off Student Discount；Brick：Only on Ends in 4 days Was 20% Student Discount 21% Student Discount
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 
@@ -214,5 +211,3 @@
 - National Express
   Up to 20% Student Discount
   Up to 20% Student Discount on Alton Towers Short Breaks
-- Europcar
-  Up to 15% Student Discount
