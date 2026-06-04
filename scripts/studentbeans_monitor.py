@@ -51,7 +51,6 @@ BRAND_URLS = {
     "Klook": "https://www.studentbeans.com/student-discount/uk/klook?source=quick_search&searchQueryId=ef5aee5d7d3174c955b40ca5c2790e9c&searchObjectId=112077&offer=0-student-discount-7972d670-e2c7-49c4-9140-4b006d76acd1",
     "National Express": "https://www.studentbeans.com/student-discount/uk/national-express?source=quick_search&searchQueryId=8de41bb5db68179e74427e0d052c6a57&searchObjectId=82361&offer=code-10-descuento-para-estudiantes-17dd76a8-8792-4272-8eee-29899fef40b0",
     "FlixBus": "https://www.studentbeans.com/student-discount/uk/flixbus?source=quick_search&searchQueryId=a99261904e3e6ae42799536f42298f55&searchObjectId=96561&offer=0-student-discount-b98c961b-1fd9-44ff-b7fb-35e6b5b591ec",
-    "Europcar": "https://www.studentbeans.com/student-discount/uk/europcar?source=quick_search&searchQueryId=84b82e1e75e8c9b11e07d00bd6e47b06&searchObjectId=34537&offer=education-store-up-to-15-student-discount",
 }
 
 
@@ -65,7 +64,6 @@ KNOWN_BRANDS = [
     "Klook",
     "National Express",
     "FlixBus",
-    "Europcar",
     "Uber",
     "Uber Rides",
     "Uber One",
@@ -164,9 +162,6 @@ BRAND_ALLOWED_PATTERNS = {
     ],
     "FlixBus": [
         r"20%\s*Student Discount",
-    ],
-    "Europcar": [
-        r"Up to\s*15%\s*Student Discount",
     ],
 }
 
