@@ -89,10 +89,11 @@ def read_rows(path: Path | None) -> list[dict]:
 
 def filter_diff_rows(rows: list[dict]) -> list[dict]:
     """
-    Only keep target competitor brands for daily diff.
+    Only keep target brand-page offers for daily diff.
 
-    This removes page-level offers such as Emirates, Myprotein, Halfords,
-    Macdonald Hotel, etc. The daily change panel will only compare:
+    Page/category offers are shown in the page offer panel, but they should
+    not affect the daily new/removed panel. The daily change panel only
+    compares brand-page offers for:
 
     TrainPal / Trip.com / Trainline / Omio / Klook /
     National Express / FlixBus / Eurostar
@@ -100,6 +101,9 @@ def filter_diff_rows(rows: list[dict]) -> list[dict]:
     result = []
 
     for r in rows:
+        if str(r.get("source_type", "")).strip() != "品牌页":
+            continue
+
         brand = str(r.get("brand", "")).strip()
 
         if not is_target_brand(brand):

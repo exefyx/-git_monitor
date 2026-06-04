@@ -116,7 +116,12 @@ def feishu_date_value(value: str) -> int:
 
 
 def filter_diff_rows(rows: list[dict]) -> list[dict]:
-    return [row for row in rows if is_target_brand(str(row.get("brand", "")).strip())]
+    return [
+        row
+        for row in rows
+        if str(row.get("source_type", "")).strip() == "品牌页"
+        and is_target_brand(str(row.get("brand", "")).strip())
+    ]
 
 
 def make_diff(folder: Path, current: Path | None, rows: list[dict]) -> dict[str, list[dict]]:
