@@ -298,6 +298,7 @@ def prepare_payload(run_date: str | None) -> tuple[str, list[dict], list[dict]]:
             continue
 
         effective_dates.append(current_date)
+        archive_rows = filter_diff_rows(rows)
         diff = make_diff(folder, current, rows)
         run_id = f"{current_date}-{platform.replace(' ', '_')}-{synced_at}"
 
@@ -310,7 +311,7 @@ def prepare_payload(run_date: str | None) -> tuple[str, list[dict], list[dict]]:
                 synced_at=synced_at,
                 row=row,
             )
-            for row in rows
+            for row in archive_rows
         )
         offer_records.extend(
             offer_record_fields(
@@ -340,7 +341,7 @@ def prepare_payload(run_date: str | None) -> tuple[str, list[dict], list[dict]]:
                 folder=folder,
                 run_date=current_date,
                 run_id=run_id,
-                rows=rows,
+                rows=archive_rows,
                 diff=diff,
             )
         )
