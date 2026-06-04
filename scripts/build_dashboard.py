@@ -42,6 +42,11 @@ TARGET_BRANDS = [
     "Eurostar",
 ]
 
+PLATFORM_TARGET_BRANDS = {
+    "UNiDAYS": TARGET_BRANDS,
+    "Student Beans": [brand for brand in TARGET_BRANDS if brand != "Eurostar"],
+}
+
 
 def compact_text(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", str(text).lower())
@@ -186,6 +191,7 @@ def make_trend(folder: Path) -> list[dict]:
 def prepare_platform(name: str, folder: Path) -> dict:
     current = latest_clean_file(folder)
     rows = read_rows(current)
+    platform_target_brands = PLATFORM_TARGET_BRANDS.get(name, TARGET_BRANDS)
 
     if not current or not rows:
         return {
@@ -202,7 +208,13 @@ def prepare_platform(name: str, folder: Path) -> dict:
         }
 
     page_rows = [r for r in rows if r.get("source_type") == "页面"]
-    competitor_rows = [r for r in rows if r.get("source_type") == "品牌页"]
+    platform_target_keys = {compact_text(brand) for brand in platform_target_brands}
+    competitor_rows = [
+        r
+        for r in rows
+        if r.get("source_type") == "品牌页"
+        and compact_text(r.get("brand", "")) in platform_target_keys
+    ]
     target_brand_rows = filter_diff_rows(rows)
     diff = make_diff(folder, current, rows)
 
@@ -210,9 +222,12 @@ def prepare_platform(name: str, folder: Path) -> dict:
     for r in page_rows:
         pages[r.get("page") or "Other"].append([r.get("brand", ""), r.get("offer", "")])
 
-    competitors = defaultdict(list)
+    competitors = {brand: [] for brand in platform_target_brands}
     for r in competitor_rows:
-        competitors[r.get("brand") or "Unknown"].append(r.get("offer", ""))
+        brand = r.get("brand") or "Unknown"
+        if brand not in competitors:
+            competitors[brand] = []
+        competitors[brand].append(r.get("offer", ""))
 
     product_groups = defaultdict(list)
     for r in competitor_rows:
@@ -252,7 +267,7 @@ def prepare_platform(name: str, folder: Path) -> dict:
         },
         "pages": dict(pages),
         "products": products,
-        "competitors": dict(competitors),
+        "competitors": competitors,
         "diff": diff,
         "trend": make_trend(folder),
     }
