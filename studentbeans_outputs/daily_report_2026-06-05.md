@@ -4,12 +4,13 @@
 
 1. 页面offer
 - 首页
-  Viator：12% Student Discount Viator, A Tripadvisor Company
   Alton Towers Resort：Student tickets from £21 for June only Alton Towers Resort
+  FlixBus：25% Student Discount FlixBus
   ASOS：10% Student Discount
-  FlixBus：Ends in 2 days Was 20% Student Discount 25% Student Discount
+  Viator, A Tripadvisor Company：Ends in 2 days 12% Student Discount
   PrettyLittleThing：EXCLUSIVE: At least 20% off everything + Extra 15% Student Discount
-  adidas：25% Student Discount
+  adidas：15% Student Discount
+  FlixBus：Ends in 2 days Was 20% Student Discount 25% Student Discount
   JD Sports：10% Student Discount
   spend Deliveroo：Ends in 2 days £15 off £20
   Superdrug：Only on 10% Student Discount
@@ -20,15 +21,13 @@
   Uber：£10 Student Discount on your first ride
   ODEON：Only on 20% Student Discount
   TrainPal：Up to 10% off train fares
+  Surfshark：Up to 85% + 15% Student Discount
   shipping Amazon Haul：10% off orders over £30 + Free
   Bluebella：15% Student Discount
-  for existing customers Myprotein：15% Student Discount
-  Ubigi eSIM：20% Student Discount
   per booking TUI：£50 Student Discount
-  Viator, A Tripadvisor Company：Ends in 2 days 12% Student Discount
-  Surfshark：Up to 85% + 15% Student Discount
-  FitFlop：15% Student Discount
   Broadband Packages Virgin Media：Only on Ends in 5 days Free £15 Gift Card with
+  Audible：£0.99/month for the first 3 months
+  FitFlop：15% Student Discount
   Musical London Theatre Direct：Students get exclusive £23.75 tickets for Sinatra the
   Amazon：Ends in 21 days 3 months FREE Kindle Unlimited
   Qatar Airways：5% off
@@ -103,28 +102,29 @@
   Trainline：15% off the 16-25 Railcard
   Trip.com：Ends in 2 days 21% off on UK Trains
   Railcard：15% off the 16-25 Railcard
-  TrainPal：Student Exclusive: 23% OFF Railcard
   TrainPal：5% Off Trains for New Customer & 2% Off for Existing Customer
+  TrainPal：Student Exclusive: 23% OFF Railcard
   Trainline：15% off the 26-30 Railcard
   Railcard：Student Exclusive: 23% OFF Railcard
   Railcard：15% off the 26-30 Railcard
+  TrainPal：Ends in 3 days 25% off Eurostar Standard & Plus adult tickets
   Trip.com：2% Off UK trains for existing users
   Trainline：15% off the 16-17 Saver
-  Trip.com：5% Off Tours and Tickets
-  TrainPal：Ends in 3 days 25% off Eurostar Standard & Plus adult tickets
+  TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard
+  Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard
 - Coaches
   National Express：Up to 20% Student Discount
   Trainline：15% off the 16-25 Railcard
   Trainline：15% off the 26-30 Railcard
   Railcard：15% off the 16-25 Railcard
   Railcard：15% off the 26-30 Railcard
-  TrainPal：Ends in 3 days 25% off Eurostar Standard & Plus adult tickets
   Flibco：10% Student Discount
   Trip.com：2% Off UK trains for existing users
   Trainline：15% off the 16-17 Saver
-  Uber：£10 off your First Uber for Teens Ride
-  a limited time Avis：Enjoy 15% off car hire (instead of 5%) for
+  TrainPal：Ends in 3 days 25% off Eurostar Standard & Plus adult tickets
   Klook：18% Student Discount
+  a limited time Avis：Enjoy 15% off car hire (instead of 5%) for
+  Uber：£10 off your First Uber for Teens Ride
 
 2. 竞品offer监控
 
@@ -171,8 +171,8 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：TrainPal：Ends in 3 days 25% off Eurostar Standard & Plus adult tickets；TrainPal：Ends in 3 days 25% off Eurostar Standard & Plus adult tickets；Trip.com：Ends in 2 days 21% off on UK Trains；FlixBus：Was 20% Student Discount 25% Student Discount；Jet2holidays：20% off all flights；loveholidays：Up to £600 off selected holidays + £50 Student Discount；Airpods John Lewis：Ends in 4 days Up to £50 off；Alton Towers Resort：Ends in 25 days Student tickets from £21 for June only；Alton Towers Resort：Waterpark ticket for just £15 - limited time only；Amazon：Ends in 21 days 3 months FREE Kindle Unlimited
-• 下线 Offer：TrainPal：Ends in 4 days 25% off Eurostar Standard & Plus adult tickets；TrainPal：Ends in 4 days 25% off Eurostar Standard & Plus adult tickets；Trip.com：Ends in 3 days 21% off on UK Trains；Purple Parking：Up to 30% Student Discount；Trip.com：Up to £20 OFF Flights；loveholidays：Up to £550 off selected holidays + £50 Student Discount；6 months PureGym：Ends in 17 days Up to 30% off；Airpods John Lewis：Ends in 5 days Up to £50 off；Alton Towers Resort：Ends in 26 days Student tickets from £21 for June only；Alton Towers Resort：Waterpark tickets from £23
+• 新增 Offer：TrainPal：Ends in 3 days 25% off Eurostar Standard & Plus adult tickets；Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；TrainPal：Ends in 3 days 25% off Eurostar Standard & Plus adult tickets；Trip.com：Ends in 2 days 21% off on UK Trains；FlixBus：Was 20% Student Discount 25% Student Discount；Jet2holidays：20% off all flights；loveholidays：Up to £600 off selected holidays + £50 Student Discount；Airpods John Lewis：Ends in 4 days Up to £50 off；Alton Towers Resort：Ends in 25 days Student tickets from £21 for June only
+• 下线 Offer：TrainPal：Ends in 4 days 25% off Eurostar Standard & Plus adult tickets；TrainPal：Ends in 4 days 25% off Eurostar Standard & Plus adult tickets；Trip.com：5% Off Tours and Tickets；Trip.com：Ends in 3 days 21% off on UK Trains；Purple Parking：Up to 30% Student Discount；Trip.com：Up to £20 OFF Flights；loveholidays：Up to £550 off selected holidays + £50 Student Discount；6 months PureGym：Ends in 17 days Up to 30% off；Airpods John Lewis：Ends in 5 days Up to £50 off；Alton Towers Resort：Ends in 26 days Student tickets from £21 for June only
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 
@@ -184,11 +184,11 @@
   20% off Railcard for new users
   £4 UK Train for New User
   5% Off Tours and Tickets
-  10% Off eSim
-  11% Off Hotels in China
-  10% off Railcard for existing users
-  6% Off Disneyland, Universal Studios, Sagrada Familia
   5% Off UK trains for new users
+  10% Off eSim
+  10% off Railcard for existing users
+  11% Off Hotels in China
+  6% Off Disneyland, Universal Studios, Sagrada Familia
   10% Off Car Rental
   5% Off Bus for new users
   5% off China Trains for new users

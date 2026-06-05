@@ -32,7 +32,7 @@ Trip.com is your ticket to globe-trotting on a student-friendly budget. With the
 
 Read more
 
-16
+17
 
 Student Discounts
 
@@ -40,7 +40,7 @@ Student Discounts
 
 Similar discounts
 
-16 Available Student Discounts
+17 Available Student Discounts
 Expires in 2 days
 21% off on UK Trains
 
@@ -126,6 +126,17 @@ Unlock 5% Off Tours and Tickets at Trip.com with Student Beans.
 
 Use our Trip.com student discount code at the checkout to enjoy 5% off.
 
+5% Off UK trains for new users
+
+Online at Trip.com
+Conditions
+Get code & open site
+How to redeem
+
+Unlock 5% Off UK trains for new users at Trip.com with Student Beans.
+
+Use our Trip.com student discount code at the checkout to enjoy 5% Off UK trains for new users.
+
 10% Off eSim
 
 Online at Trip.com
@@ -137,17 +148,6 @@ Unlock 10% off eSim at Trip.com with Student Beans.
 
 Use our Trip.com student discount code at the checkout to enjoy 10% off eSim.
 
-11% Off Hotels in China
-
-Online at Trip.com
-Conditions
-Get code & open site
-How to redeem
-
-Unlock 11% Off Hotels in China at Trip.com with Student Beans.
-
-Use our Trip.com student discount code at the checkout to enjoy 11% off.
-
 10% off Railcard for existing users
 
 Online at Trip.com
@@ -158,6 +158,17 @@ How to redeem
 Unlock 10% off Railcard for existing users at Trip.com with Student Beans.
 
 Use our Trip.com student discount code at the checkout to enjoy 10% off.
+
+11% Off Hotels in China
+
+Online at Trip.com
+Conditions
+Get code & open site
+How to redeem
+
+Unlock 11% Off Hotels in China at Trip.com with Student Beans.
+
+Use our Trip.com student discount code at the checkout to enjoy 11% off.
 
 6% Off Disneyland, Universal Studios, Sagrada Familia
 
@@ -171,17 +182,6 @@ How to redeem
 Unlock 6% Off Disneyland, Universal Studios, Sagrada Familia and many more at Trip.com with Student Beans.
 
 Use our Trip.com student discount code at the checkout to enjoy up to 6% off.
-
-5% Off UK trains for new users
-
-Online at Trip.com
-Conditions
-Get code & open site
-How to redeem
-
-Unlock 5% Off UK trains for new users at Trip.com with Student Beans.
-
-Use our Trip.com student discount code at the checkout to enjoy 5% Off UK trains for new users.
 
 Expires in 25 days
 10% Off Car Rental
@@ -229,18 +229,22 @@ Unlock 6% Off Japan Railway for new users at Trip.com with Student Beans.
 
 Use our Trip.com student discount code at the checkout to enjoy 6% off.
 
+Expires tomorrow
+Up to 25% off on Friday & Saturday
+
+Online at Trip.com
+Conditions
+Get code & open site
+How to redeem
+
+Unlock up to 25% off at Trip.com with Student Beans.
+
+Use our Trip.com student discount code at the checkout to enjoy up to 25% off on Friday & Saturday.
+
 Similar discounts
 £50 Student Discount per booking
 
 TUI
-
-For anyone to use
-
-Online
-
-Up to £550 off selected holidays + £50 Student Discount
-
-loveholidays
 
 For anyone to use
 
@@ -254,9 +258,33 @@ For anyone to use
 
 Online
 
+Up to £600 off selected holidays + £50 Student Discount
+
+loveholidays
+
+For anyone to use
+
+Online
+
 10% Student Discount
 
 Hostelworld
+
+For anyone to use
+
+Online
+
+£25 Student Discount
+
+easyJet holidays
+
+For anyone to use
+
+Online
+
+£50 Student Discount
+
+Jet2holidays
 
 For anyone to use
 
@@ -270,33 +298,9 @@ For anyone to use
 
 Online
 
-20% off all flights
-
-Jet2holidays
-
-For anyone to use
-
-Online
-
 Up to 30% Student Discount
 
 Purple Parking
-
-For anyone to use
-
-Online
-
-20% Student Discount
-
-FlixBus
-
-For anyone to use
-
-Online
-
-Up to 10% off train fares
-
-TrainPal
 
 For anyone to use
 
@@ -310,41 +314,9 @@ For anyone to use
 
 Online
 
-Up to 25% or more + 10% Student Discount
+Up to 10% off train fares
 
-Hotels.com
-
-For anyone to use
-
-Online
-
-12% Student Discount
-
-Viator, A Tripadvisor Company
-
-For anyone to use
-
-Online
-
-18% Student Discount
-
-Klook
-
-For anyone to use
-
-Online
-
-Up to 15% Student Discount
-
-Europcar
-
-For anyone to use
-
-Online
-
-15% Student Discount
-
-it Luggage
+TrainPal
 
 For anyone to use
 
@@ -358,17 +330,17 @@ For anyone to use
 
 Online
 
-20% Student Discount
+Up to 15% Student Discount
 
-Osprey
+Europcar
 
 For anyone to use
 
 Online
 
-Up to 20% Student Discount on Alton Towers Short Breaks
+Up to 25% or more + 10% Student Discount
 
-Alton Towers Resort
+Hotels.com
 
 For anyone to use
 
@@ -382,9 +354,49 @@ For anyone to use
 
 Online
 
+Up to 20% Student Discount on Alton Towers Short Breaks
+
+Alton Towers Resort
+
+For anyone to use
+
+Online
+
+10% Student Discount on Emirates Economy Class fares
+
+Emirates
+
+For anyone to use
+
+Online
+
 6% Student Discount
 
 Euro Car Parts
+
+For anyone to use
+
+Online
+
+20% Student Discount
+
+Osprey
+
+For anyone to use
+
+Online
+
+18% Student Discount
+
+Klook
+
+For anyone to use
+
+Online
+
+Save up to 40% on breakdown cover
+
+The AA
 
 For anyone to use
 
@@ -406,17 +418,17 @@ For anyone to use
 
 Online
 
-10% Student Discount
+45% Student Discount
 
-YHA (England & Wales)
+Bolt
 
 For anyone to use
 
 Online
 
-Up to 40% off RAC breakdown Cover!*
+Enjoy 15% off car hire (instead of 5%) for a limited time
 
-RAC
+Avis
 
 For anyone to use
 
