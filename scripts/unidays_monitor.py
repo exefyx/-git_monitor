@@ -13,7 +13,10 @@ UNiDAYS Offer Monitor v4
 import argparse
 import csv
 import json
+import os
+import random
 import re
+import time
 from datetime import date
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
@@ -27,6 +30,37 @@ TODAY = str(date.today())
 STATE_FILE = Path("unidays_state.json")
 OUTPUT_DIR = Path("unidays_outputs")
 OUTPUT_DIR.mkdir(exist_ok=True)
+
+CRAWL_DELAY_MIN = float(os.getenv("CRAWL_DELAY_MIN", "6"))
+CRAWL_DELAY_MAX = float(os.getenv("CRAWL_DELAY_MAX", "16"))
+
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+]
+
+
+def pause_between_pages(label: str = "") -> None:
+    delay = random.uniform(CRAWL_DELAY_MIN, CRAWL_DELAY_MAX)
+    if label:
+        print(f"Waiting {delay:.1f}s before next page: {label}")
+    time.sleep(delay)
+
+
+def random_page_wait(page, min_seconds: float, max_seconds: float) -> None:
+    page.wait_for_timeout(int(random.uniform(min_seconds, max_seconds) * 1000))
+
+
+def install_stealth(context) -> None:
+    context.add_init_script(
+        """
+        Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+        Object.defineProperty(navigator, 'languages', { get: () => ['en-GB', 'en'] });
+        Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+        """
+    )
 
 
 PAGE_URLS = {
@@ -791,10 +825,10 @@ def capture_page(context, page_name: str, url: str, source_type: str, save_debug
         except PlaywrightTimeoutError:
             pass
 
-        page.wait_for_timeout(2500)
+        random_page_wait(page, 2.0, 4.5)
         dismiss_popups(page)
         scroll_to_bottom(page)
-        page.wait_for_timeout(1500)
+        random_page_wait(page, 1.0, 3.0)
 
         if save_debug:
             debug_dir = OUTPUT_DIR / f"debug_{TODAY}"
@@ -1158,9 +1192,13 @@ def run_monitor(show: bool = False, no_debug: bool = False):
             viewport={"width": 1600, "height": 1000},
             locale="en-GB",
             timezone_id="Europe/London",
+            user_agent=random.choice(USER_AGENTS),
+            extra_http_headers={"Accept-Language": "en-GB,en;q=0.9"},
         )
+        install_stealth(context)
 
         for page_name, url in PAGE_URLS.items():
+            pause_between_pages(page_name)
             rows = capture_page(
                 context=context,
                 page_name=page_name,
@@ -1171,6 +1209,7 @@ def run_monitor(show: bool = False, no_debug: bool = False):
             page_rows.extend(rows)
 
         for brand_name, url in BRAND_URLS.items():
+            pause_between_pages(brand_name)
             rows = capture_page(
                 context=context,
                 page_name=brand_name,

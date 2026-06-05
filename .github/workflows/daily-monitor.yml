@@ -34,6 +34,7 @@ jobs:
         run: |
           python scripts/unidays_monitor.py --run
           python scripts/studentbeans_monitor.py --run
+          python scripts/validate_crawl_outputs.py
           python scripts/build_dashboard.py
 
       - name: Commit updated dashboard
