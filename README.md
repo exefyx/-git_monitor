@@ -2,6 +2,31 @@
 
 这个仓库用于每天自动监测学生优惠网站上的交通/旅行类竞品 offer，并把结果发布到 GitHub Pages、发送飞书群通知，同时把品牌页数据归档到飞书多维表格，方便后续查询。
 
+## 一键复制部署
+
+如果你想让别人快速复用这套监测流程，推荐把本仓库设置成 GitHub Template Repository。
+
+仓库维护者先进入：
+
+```text
+Settings -> General -> Template repository
+```
+
+勾选后，别人可以通过下面入口一键生成自己的仓库：
+
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-GitHub-238636?style=for-the-badge&logo=github)](https://github.com/exefyx/-git_monitor/generate)
+
+注意：这里的“一键部署”只能自动复制代码和 workflow，不能自动复制以下私密配置：
+
+- GitHub Actions Secrets
+- 飞书群机器人 webhook
+- 飞书自建应用 App ID / App Secret
+- 飞书多维表格 token / table id
+- UNiDAYS / Student Beans 登录态
+- 新仓库的 GitHub Pages 地址
+
+所以别人点完 `Use this template` 后，还需要按“复制/接手这个仓库后如何配置”章节完成初始化。
+
 当前监测两个平台：
 
 - UNiDAYS
