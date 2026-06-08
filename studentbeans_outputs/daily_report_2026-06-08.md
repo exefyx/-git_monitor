@@ -4,11 +4,11 @@
 
 1. 页面offer
 - 首页
-  Audible：£0.99/month for the first 3 months Audible
+  loveholidays：Up to £600 off selected long-haul holidays + £50 Student Discount loveholidays
   ASOS：10% Student Discount
-  Broadband Packages Virgin Media：Only on Ends in 2 days Free £15 Gift Card with
+  Bluebella：15% Student Discount
   FlixBus：20% Student Discount
-  Deliveroo：Ends in 13 days £15 Student Discount
+  spend Deliveroo：Ends in 13 days £15 off £20
   PrettyLittleThing：At least 20% off everything + Extra 12% Student Discount
   JD Sports：10% Student Discount
   ODEON：Only on 20% Student Discount
@@ -18,15 +18,11 @@
   National Express：Up to 20% Student Discount
   adidas：15% Student Discount
   total basket Popeyes：20% off
-  boohoo：EXCLUSIVE: Extra 20% Student Discount
+  boohoo：Up to 30% off + Extra 16% Student Discount
   Pizzas Papa Johns：Was 35% Student Discount off Pizzas 50% Student Discount off
   Sephora：15% Student Discount
   FitFlop：15% Student Discount
-  Audible：£0.99/month for the first 3 months
-  Bluebella：15% Student Discount
-  Aspinal of London：20% Student Discount
   for existing customers Myprotein：15% Student Discount
-  Casetify：15% Off Student Discount
   WHOOP Peak memberships WHOOP：10% Student Discount on
   loveholidays：Up to £600 off selected long-haul holidays + £50 Student Discount
   Huel：15% Student Discount
@@ -39,12 +35,11 @@
   Halfords：Ends in 8 days 20% Off a selected range of bikes and E-bikes
   Face & Body ASOS：Ends today Womenswear: Up to 30% off
   Currys：10% off TVs £999+
-  Selected LOOKFANTASTIC：Ends today 22% Student Discount off
+  Selected LOOKFANTASTIC：22% Student Discount off
   Ninja Kitchen：Ends today Free gift (worth over £25)
   & nutrition apps HealthKey：£49.99 Unlimited virtual GP appointments + 2 fitness
   screen Samsung TVs Samsung：Ends in 8 days Up to 20% off + FREE soundbar on selected large
   Amazon：Ends in 14 days Amazon Prime Day is coming: 6 months free for students
-  PowerDetect NeverTouch Pro Shark：Ends in 22 days £400 off the Shark
   Amazon Prime：Day is coming: 6 months free for students
   Alton Towers Resort：Ends in 22 days Student tickets from £21 for June only
   Alton Towers Resort：Up to £40 off the Merlin Annual pass for students
@@ -64,7 +59,6 @@
   RAC：Student Champagne Bar + Fast Track Entry from £46.75
   Madame Tussauds：SEA LIFE London + Madame Tussauds Student Ticket £35
   Boots：10% Student Discount
-  boohoo：Up to 30% off + Extra 16% Student Discount
   New Look：10% Student Discount
   schuh：10% Student Discount
   OFFICE：10% Student Discount
@@ -78,7 +72,7 @@
   New Balance：Extra 10% Student Discount on Sale
   HOKA：Was 10% Student Discount 12% Student Discount
 - Travel
-  FlixBus：Was 20% Student Discount 25% Student Discount
+  FlixBus：15% Student Discount
   TrainPal：Up to 10% off train fares
   per booking TUI：£50 Student Discount
   Uber：£10 Student Discount on your first ride
@@ -92,17 +86,17 @@
 - Trains
   TrainPal：Up to 10% off train fares
   Trainline：15% off the 16-25 Railcard
-  Trip.com：21% off on UK Trains
+  Trip.com：Ends in 22 days 15% off on UK Trains
   Railcard：15% off the 16-25 Railcard
-  TrainPal：5% Off Trains for New Customer & 2% Off for Existing Customer
   TrainPal：Student Exclusive: 23% OFF Railcard
+  TrainPal：5% Off Trains for New Customer & 2% Off for Existing Customer
   Trainline：15% off the 26-30 Railcard
   Railcard：Student Exclusive: 23% OFF Railcard
   Railcard：15% off the 26-30 Railcard
   TrainPal：Ends today 25% off Eurostar Standard & Plus adult tickets
   Trip.com：2% Off UK trains for existing users
   Trainline：15% off the 16-17 Saver
-  Uber：£5 off your First Train Ride with Uber
+  Klook：18% Student Discount
 - Coaches
   National Express：Up to 20% Student Discount
   Trainline：15% off the 16-25 Railcard
@@ -162,8 +156,8 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：FlixBus：20% Student Discount；Trip.com：15% off on UK Trains；Car Hire Avis：Ends in 17 days Up to 20% off；TrainPal：Ends today 25% off Eurostar Standard & Plus adult tickets；TrainPal：Ends today 25% off Eurostar Standard & Plus adult tickets；Trip.com：21% off on UK Trains；Uber：£5 off your First Train Ride with Uber；Bolt：45% Student Discount；Jet2holidays：20% off all flights；Veygo：15% Student Discount
-• 下线 Offer：Car Hire Avis：Ends in 18 days Up to 20% off；TrainPal：Ends tomorrow 25% off Eurostar Standard & Plus adult tickets；TrainPal：Ends tomorrow 25% off Eurostar Standard & Plus adult tickets；Trip.com：5% Off Tours and Tickets；Trip.com：Ends today 21% off on UK Trains；Hostelworld：7% Student Discount；Trip.com：Up to £20 OFF Flights；loveholidays：Up to £600 off selected holidays + £50 Student Discount；& Accessories Mainline Menswear：Ends tomorrow 10% off All Sale Clothing, Footwear；& Smart Watches Garmin：Up to 40% off Fitness
+• 新增 Offer：FlixBus：20% Student Discount；Trip.com：15% off on UK Trains；Car Hire Avis：Ends in 17 days Up to 20% off；TrainPal：Ends today 25% off Eurostar Standard & Plus adult tickets；Klook：18% Student Discount；TrainPal：Ends today 25% off Eurostar Standard & Plus adult tickets；Trip.com：Ends in 22 days 15% off on UK Trains；Bolt：45% Student Discount；FlixBus：15% Student Discount；Jet2holidays：20% off all flights
+• 下线 Offer：Car Hire Avis：Ends in 18 days Up to 20% off；TrainPal：Ends tomorrow 25% off Eurostar Standard & Plus adult tickets；TrainPal：Ends tomorrow 25% off Eurostar Standard & Plus adult tickets；Trip.com：5% Off Tours and Tickets；Trip.com：Ends today 21% off on UK Trains；FlixBus：Was 20% Student Discount 25% Student Discount；Hostelworld：7% Student Discount；Trip.com：Up to £20 OFF Flights；loveholidays：Up to £600 off selected holidays + £50 Student Discount；& Accessories Mainline Menswear：Ends tomorrow 10% off All Sale Clothing, Footwear
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 

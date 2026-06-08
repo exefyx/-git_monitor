@@ -3,10 +3,10 @@
     "date": "2026-06-08",
     "source_type": "页面",
     "page": "首页",
-    "section": "Student deals of the day",
-    "brand": "Audible",
-    "offer": "£0.99/month for the first 3 months Audible",
-    "product_type": "Other"
+    "section": "Download the Student Beans app",
+    "brand": "loveholidays",
+    "offer": "Up to £600 off selected long-haul holidays + £50 Student Discount loveholidays",
+    "product_type": "Hotels / Accommodation"
   },
   {
     "date": "2026-06-08",
@@ -22,8 +22,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Don’t miss these trending student deals",
-    "brand": "Broadband Packages Virgin Media",
-    "offer": "Only on Ends in 2 days Free £15 Gift Card with",
+    "brand": "Bluebella",
+    "offer": "15% Student Discount",
     "product_type": "Other"
   },
   {
@@ -40,8 +40,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Don’t miss these trending student deals",
-    "brand": "Deliveroo",
-    "offer": "Ends in 13 days £15 Student Discount",
+    "brand": "spend Deliveroo",
+    "offer": "Ends in 13 days £15 off £20",
     "product_type": "Other"
   },
   {
@@ -131,7 +131,7 @@
     "page": "首页",
     "section": "Don’t miss these trending student deals",
     "brand": "boohoo",
-    "offer": "EXCLUSIVE: Extra 20% Student Discount",
+    "offer": "Up to 30% off + Extra 16% Student Discount",
     "product_type": "Other"
   },
   {
@@ -166,44 +166,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "Audible",
-    "offer": "£0.99/month for the first 3 months",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-08",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
-    "brand": "Bluebella",
-    "offer": "15% Student Discount",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-08",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
-    "brand": "Aspinal of London",
-    "offer": "20% Student Discount",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-08",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
     "brand": "for existing customers Myprotein",
     "offer": "15% Student Discount",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-08",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
-    "brand": "Casetify",
-    "offer": "15% Off Student Discount",
     "product_type": "Other"
   },
   {
@@ -228,7 +192,7 @@
     "date": "2026-06-08",
     "source_type": "页面",
     "page": "首页",
-    "section": "Find the latest and greatest drops every day",
+    "section": "The discounts you won’t want to miss",
     "brand": "Huel",
     "offer": "15% Student Discount",
     "product_type": "Other"
@@ -320,7 +284,7 @@
     "page": "首页",
     "section": "Find the latest and greatest drops every day",
     "brand": "Selected LOOKFANTASTIC",
-    "offer": "Ends today 22% Student Discount off",
+    "offer": "22% Student Discount off",
     "product_type": "Other"
   },
   {
@@ -357,15 +321,6 @@
     "section": "Find the latest and greatest drops every day",
     "brand": "Amazon",
     "offer": "Ends in 14 days Amazon Prime Day is coming: 6 months free for students",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-08",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "Find the latest and greatest drops every day",
-    "brand": "PowerDetect NeverTouch Pro Shark",
-    "offer": "Ends in 22 days £400 off the Shark",
     "product_type": "Other"
   },
   {
@@ -544,15 +499,6 @@
     "source_type": "页面",
     "page": "首页",
     "section": "HOT deals on your fave brands = zero outfit stress all summer.",
-    "brand": "boohoo",
-    "offer": "Up to 30% off + Extra 16% Student Discount",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-08",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "HOT deals on your fave brands = zero outfit stress all summer.",
     "brand": "New Look",
     "offer": "10% Student Discount",
     "product_type": "Other"
@@ -662,7 +608,7 @@
     "page": "Travel",
     "section": "TRAVEL STUDENT DISCOUNTS",
     "brand": "FlixBus",
-    "offer": "Was 20% Student Discount 25% Student Discount",
+    "offer": "15% Student Discount",
     "product_type": "Bus / Coach"
   },
   {
@@ -687,7 +633,7 @@
     "date": "2026-06-08",
     "source_type": "页面",
     "page": "Travel",
-    "section": "25% Student Discount",
+    "section": "£50 Student Discount per booking",
     "brand": "Uber",
     "offer": "£10 Student Discount on your first ride",
     "product_type": "Other"
@@ -696,7 +642,7 @@
     "date": "2026-06-08",
     "source_type": "页面",
     "page": "Travel",
-    "section": "25% Student Discount",
+    "section": "£50 Student Discount per booking",
     "brand": "Trainline",
     "offer": "15% off the 16-25 Railcard",
     "product_type": "Railcard"
@@ -705,7 +651,7 @@
     "date": "2026-06-08",
     "source_type": "页面",
     "page": "Travel",
-    "section": "25% Student Discount",
+    "section": "£50 Student Discount per booking",
     "brand": "Veygo",
     "offer": "15% Student Discount",
     "product_type": "Other"
@@ -714,7 +660,7 @@
     "date": "2026-06-08",
     "source_type": "页面",
     "page": "Travel",
-    "section": "25% Student Discount",
+    "section": "£50 Student Discount per booking",
     "brand": "Railcard",
     "offer": "15% off the 16-25 Railcard",
     "product_type": "Railcard"
@@ -779,7 +725,7 @@
     "page": "Trains",
     "section": "TRAINS STUDENT DISCOUNTS",
     "brand": "Trip.com",
-    "offer": "21% off on UK Trains",
+    "offer": "Ends in 22 days 15% off on UK Trains",
     "product_type": "UK & Europe Train Tickets"
   },
   {
@@ -795,7 +741,16 @@
     "date": "2026-06-08",
     "source_type": "页面",
     "page": "Trains",
-    "section": "21% off on UK Trains",
+    "section": "15% off on UK Trains",
+    "brand": "TrainPal",
+    "offer": "Student Exclusive: 23% OFF Railcard",
+    "product_type": "Railcard"
+  },
+  {
+    "date": "2026-06-08",
+    "source_type": "页面",
+    "page": "Trains",
+    "section": "15% off on UK Trains",
     "brand": "TrainPal",
     "offer": "5% Off Trains for New Customer & 2% Off for Existing Customer",
     "product_type": "UK & Europe Train Tickets"
@@ -804,16 +759,7 @@
     "date": "2026-06-08",
     "source_type": "页面",
     "page": "Trains",
-    "section": "21% off on UK Trains",
-    "brand": "TrainPal",
-    "offer": "Student Exclusive: 23% OFF Railcard",
-    "product_type": "Railcard"
-  },
-  {
-    "date": "2026-06-08",
-    "source_type": "页面",
-    "page": "Trains",
-    "section": "21% off on UK Trains",
+    "section": "15% off on UK Trains",
     "brand": "Trainline",
     "offer": "15% off the 26-30 Railcard",
     "product_type": "Railcard"
@@ -822,7 +768,7 @@
     "date": "2026-06-08",
     "source_type": "页面",
     "page": "Trains",
-    "section": "21% off on UK Trains",
+    "section": "15% off on UK Trains",
     "brand": "Railcard",
     "offer": "Student Exclusive: 23% OFF Railcard",
     "product_type": "Railcard"
@@ -831,7 +777,7 @@
     "date": "2026-06-08",
     "source_type": "页面",
     "page": "Trains",
-    "section": "21% off on UK Trains",
+    "section": "15% off on UK Trains",
     "brand": "Railcard",
     "offer": "15% off the 26-30 Railcard",
     "product_type": "Railcard"
@@ -868,9 +814,9 @@
     "source_type": "页面",
     "page": "Trains",
     "section": "25% off Eurostar Standard & Plus adult tickets",
-    "brand": "Uber",
-    "offer": "£5 off your First Train Ride with Uber",
-    "product_type": "UK & Europe Train Tickets"
+    "brand": "Klook",
+    "offer": "18% Student Discount",
+    "product_type": "Tours & Tickets"
   },
   {
     "date": "2026-06-08",
