@@ -4,15 +4,7 @@
 
 ## 一键复制部署
 
-如果你想让别人快速复用这套监测流程，推荐把本仓库设置成 GitHub Template Repository。
-
-仓库维护者先进入：
-
-```text
-Settings -> General -> Template repository
-```
-
-勾选后，别人可以通过下面入口一键生成自己的仓库：
+别人可以通过下面入口一键生成自己的仓库：
 
 [![Use this template](https://img.shields.io/badge/Use%20this%20template-GitHub-238636?style=for-the-badge&logo=github)](https://github.com/exefyx/-git_monitor/generate)
 
