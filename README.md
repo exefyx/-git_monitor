@@ -233,6 +233,8 @@ FEISHU_APP_SECRET
 FEISHU_BITABLE_APP_TOKEN
 FEISHU_OFFER_TABLE_ID
 FEISHU_RUN_TABLE_ID
+FEISHU_OFFER_ARCHIVE_TABLE_ID
+FEISHU_RUN_ARCHIVE_TABLE_ID
 ```
 
 含义：
@@ -243,6 +245,8 @@ FEISHU_RUN_TABLE_ID
 - `FEISHU_BITABLE_APP_TOKEN`：多维表格 URL 中 `/base/` 后面的 token。
 - `FEISHU_OFFER_TABLE_ID`：OfferRecords 表的 table id。
 - `FEISHU_RUN_TABLE_ID`：DailyRuns 表的 table id。
+- `FEISHU_OFFER_ARCHIVE_TABLE_ID`：OfferRecordsHistory 表的 table id，用于保存同一天重复运行时被替换掉的旧版本。
+- `FEISHU_RUN_ARCHIVE_TABLE_ID`：DailyRunsHistory 表的 table id，用于保存同一天重复运行时被替换掉的运行摘要。
 
 如果使用 `larkenterprise.com` 租户，默认 API 地址已经适配：
 
@@ -369,12 +373,23 @@ DailyRuns
 
 字段参考上面的“飞书同步逻辑”章节。
 
+为了保留同一天多次运行的历史版本，还需要再创建两张历史表：
+
+```text
+OfferRecordsHistory
+DailyRunsHistory
+```
+
+历史表字段建议分别复制 `OfferRecords` 和 `DailyRuns` 的字段结构。脚本每次写入新结果前，会先把当天同平台在主表中的旧记录复制到对应历史表，再删除主表旧记录并写入最新记录。这样主表始终是当天最新版本，历史表保留早先版本。
+
 然后从 URL 和表格 URL 参数中取：
 
 ```text
 FEISHU_BITABLE_APP_TOKEN
 FEISHU_OFFER_TABLE_ID
 FEISHU_RUN_TABLE_ID
+FEISHU_OFFER_ARCHIVE_TABLE_ID
+FEISHU_RUN_ARCHIVE_TABLE_ID
 ```
 
 示例 URL：
@@ -389,6 +404,8 @@ https://xxx.larkenterprise.com/base/TbARb01xxxx?table=tblhChxxxx&view=vewxxxx
 FEISHU_BITABLE_APP_TOKEN = /base/ 后面的 TbARb01xxxx
 FEISHU_OFFER_TABLE_ID = OfferRecords 表 URL 里的 table=tbl...
 FEISHU_RUN_TABLE_ID = DailyRuns 表 URL 里的 table=tbl...
+FEISHU_OFFER_ARCHIVE_TABLE_ID = OfferRecordsHistory 表 URL 里的 table=tbl...
+FEISHU_RUN_ARCHIVE_TABLE_ID = DailyRunsHistory 表 URL 里的 table=tbl...
 ```
 
 ### 7. 更新登录态

@@ -10,12 +10,19 @@ Writes:
 - OfferRecords: one row per full snapshot offer, plus daily new/removed rows
 - DailyRuns: one summary row per platform per run
 
+Before writing, the script moves existing rows for the same date + platform
+from the main Feishu tables into archive tables, then writes the latest rows
+back to the main tables. This keeps the main tables current while preserving
+each earlier same-day run as history.
+
 Required environment variables for live sync:
 - FEISHU_APP_ID
 - FEISHU_APP_SECRET
 - FEISHU_BITABLE_APP_TOKEN
 - FEISHU_OFFER_TABLE_ID
 - FEISHU_RUN_TABLE_ID
+- FEISHU_OFFER_ARCHIVE_TABLE_ID
+- FEISHU_RUN_ARCHIVE_TABLE_ID
 """
 
 from __future__ import annotations
@@ -274,6 +281,193 @@ def batch_create_records(
         raise_for_feishu_error(response, "Create Feishu records")
 
 
+def list_records(
+    *,
+    token: str,
+    app_token: str,
+    table_id: str,
+) -> list[dict]:
+    url = (
+        f"{FEISHU_API_BASE}/bitable/v1/apps/{app_token}"
+        f"/tables/{table_id}/records"
+    )
+    headers = feishu_headers(token)
+    records: list[dict] = []
+    page_token = ""
+
+    while True:
+        params = {"page_size": 500}
+        if page_token:
+            params["page_token"] = page_token
+
+        response = requests.get(url, headers=headers, params=params, timeout=60)
+        data = raise_for_feishu_error(response, "List Feishu records")
+        page = data.get("data", {})
+        records.extend(page.get("items", []))
+
+        if not page.get("has_more"):
+            return records
+        page_token = page.get("page_token", "")
+        if not page_token:
+            return records
+
+
+def batch_delete_records(
+    *,
+    token: str,
+    app_token: str,
+    table_id: str,
+    record_ids: list[str],
+) -> None:
+    if not record_ids:
+        return
+
+    url = (
+        f"{FEISHU_API_BASE}/bitable/v1/apps/{app_token}"
+        f"/tables/{table_id}/records/batch_delete"
+    )
+    headers = feishu_headers(token)
+
+    for batch in batched(record_ids, 500):
+        response = requests.post(
+            url,
+            headers=headers,
+            json={"records": batch},
+            timeout=60,
+        )
+        raise_for_feishu_error(response, "Delete Feishu records")
+
+
+def normalize_feishu_date(value: object) -> str:
+    if value in (None, ""):
+        return ""
+
+    if isinstance(value, (int, float)):
+        timestamp = int(value) / 1000
+        return datetime.fromtimestamp(timestamp, tz=timezone.utc).strftime("%Y-%m-%d")
+
+    text = str(value).strip()
+    if re.fullmatch(r"\d{13}", text):
+        timestamp = int(text) / 1000
+        return datetime.fromtimestamp(timestamp, tz=timezone.utc).strftime("%Y-%m-%d")
+
+    return text[:10]
+
+
+def existing_records_for_scope(
+    *,
+    token: str,
+    app_token: str,
+    table_id: str,
+    scopes: set[tuple[str, str]],
+) -> list[dict]:
+    if not scopes:
+        return []
+
+    records: list[dict] = []
+    for record in list_records(token=token, app_token=app_token, table_id=table_id):
+        fields = record.get("fields", {})
+        run_date = normalize_feishu_date(fields.get("日期"))
+        platform = str(fields.get("平台", "")).strip()
+
+        if (run_date, platform) in scopes:
+            records.append(record)
+
+    return records
+
+
+def record_ids(records: list[dict]) -> list[str]:
+    return [record["record_id"] for record in records if record.get("record_id")]
+
+
+def record_fields(records: list[dict]) -> list[dict]:
+    return [record.get("fields", {}) for record in records if record.get("fields")]
+
+
+def replace_records_for_scope(
+    *,
+    token: str,
+    app_token: str,
+    offer_table_id: str,
+    run_table_id: str,
+    offer_archive_table_id: str | None,
+    run_archive_table_id: str | None,
+    scopes: set[tuple[str, str]],
+    offer_records: list[dict],
+    run_records: list[dict],
+) -> None:
+    existing_offer_records = existing_records_for_scope(
+        token=token,
+        app_token=app_token,
+        table_id=offer_table_id,
+        scopes=scopes,
+    )
+    existing_run_records = existing_records_for_scope(
+        token=token,
+        app_token=app_token,
+        table_id=run_table_id,
+        scopes=scopes,
+    )
+
+    print(
+        "Existing Feishu records for this date/platform: "
+        f"OfferRecords={len(existing_offer_records)}, "
+        f"DailyRuns={len(existing_run_records)}"
+    )
+
+    if existing_offer_records and not offer_archive_table_id:
+        raise RuntimeError(
+            "FEISHU_OFFER_ARCHIVE_TABLE_ID is required before replacing "
+            "existing OfferRecords."
+        )
+    if existing_run_records and not run_archive_table_id:
+        raise RuntimeError(
+            "FEISHU_RUN_ARCHIVE_TABLE_ID is required before replacing "
+            "existing DailyRuns."
+        )
+
+    if existing_offer_records:
+        batch_create_records(
+            token=token,
+            app_token=app_token,
+            table_id=offer_archive_table_id,
+            fields_list=record_fields(existing_offer_records),
+        )
+    if existing_run_records:
+        batch_create_records(
+            token=token,
+            app_token=app_token,
+            table_id=run_archive_table_id,
+            fields_list=record_fields(existing_run_records),
+        )
+
+    batch_delete_records(
+        token=token,
+        app_token=app_token,
+        table_id=offer_table_id,
+        record_ids=record_ids(existing_offer_records),
+    )
+    batch_delete_records(
+        token=token,
+        app_token=app_token,
+        table_id=run_table_id,
+        record_ids=record_ids(existing_run_records),
+    )
+
+    batch_create_records(
+        token=token,
+        app_token=app_token,
+        table_id=offer_table_id,
+        fields_list=offer_records,
+    )
+    batch_create_records(
+        token=token,
+        app_token=app_token,
+        table_id=run_table_id,
+        fields_list=run_records,
+    )
+
+
 def prepare_payload(run_date: str | None) -> tuple[str, list[dict], list[dict]]:
     synced_at = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M:%S%z")
     seen_dates: list[str] = []
@@ -388,19 +582,24 @@ def main() -> None:
         app_token = get_required_env("FEISHU_BITABLE_APP_TOKEN")
         offer_table_id = get_required_env("FEISHU_OFFER_TABLE_ID")
         run_table_id = get_required_env("FEISHU_RUN_TABLE_ID")
+        offer_archive_table_id = os.getenv("FEISHU_OFFER_ARCHIVE_TABLE_ID")
+        run_archive_table_id = os.getenv("FEISHU_RUN_ARCHIVE_TABLE_ID")
         token = get_tenant_access_token()
+        scopes = {
+            (normalize_feishu_date(item["日期"]), str(item["平台"]).strip())
+            for item in run_records
+        }
 
-        batch_create_records(
+        replace_records_for_scope(
             token=token,
             app_token=app_token,
-            table_id=offer_table_id,
-            fields_list=offer_records,
-        )
-        batch_create_records(
-            token=token,
-            app_token=app_token,
-            table_id=run_table_id,
-            fields_list=run_records,
+            offer_table_id=offer_table_id,
+            run_table_id=run_table_id,
+            offer_archive_table_id=offer_archive_table_id,
+            run_archive_table_id=run_archive_table_id,
+            scopes=scopes,
+            offer_records=offer_records,
+            run_records=run_records,
         )
     except Exception as exc:
         print(f"Feishu Bitable sync skipped: {exc}")
