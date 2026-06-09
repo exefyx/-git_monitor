@@ -511,8 +511,44 @@ def record_ids(records: list[dict]) -> list[str]:
     return [record["record_id"] for record in records if record.get("record_id")]
 
 
-def record_fields(records: list[dict]) -> list[dict]:
-    return [record.get("fields", {}) for record in records if record.get("fields")]
+def field_type_map(fields: list[dict]) -> dict[str, int]:
+    return {field["field_name"]: field["type"] for field in fields}
+
+
+def normalize_archive_value(value: object, field_type: int | None) -> object:
+    if value in (None, ""):
+        return value
+
+    if field_type == 2 and isinstance(value, str):
+        text = value.replace(",", "").strip()
+        if re.fullmatch(r"-?\d+", text):
+            return int(text)
+        if re.fullmatch(r"-?\d+\.\d+", text):
+            return float(text)
+
+    if field_type == 5 and isinstance(value, str):
+        normalized = normalize_feishu_date(value)
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", normalized):
+            return feishu_date_value(normalized)
+
+    return value
+
+
+def record_fields(records: list[dict], field_types: dict[str, int]) -> list[dict]:
+    normalized_records: list[dict] = []
+    for record in records:
+        fields = record.get("fields", {})
+        if not fields:
+            continue
+
+        normalized_records.append(
+            {
+                name: normalize_archive_value(value, field_types.get(name))
+                for name, value in fields.items()
+            }
+        )
+
+    return normalized_records
 
 
 def replace_records_for_scope(
@@ -547,18 +583,32 @@ def replace_records_for_scope(
     )
 
     if existing_offer_records:
+        offer_archive_field_types = field_type_map(
+            list_fields(
+                token=token,
+                app_token=app_token,
+                table_id=offer_archive_table_id,
+            )
+        )
         batch_create_records(
             token=token,
             app_token=app_token,
             table_id=offer_archive_table_id,
-            fields_list=record_fields(existing_offer_records),
+            fields_list=record_fields(existing_offer_records, offer_archive_field_types),
         )
     if existing_run_records:
+        run_archive_field_types = field_type_map(
+            list_fields(
+                token=token,
+                app_token=app_token,
+                table_id=run_archive_table_id,
+            )
+        )
         batch_create_records(
             token=token,
             app_token=app_token,
             table_id=run_archive_table_id,
-            fields_list=record_fields(existing_run_records),
+            fields_list=record_fields(existing_run_records, run_archive_field_types),
         )
 
     batch_delete_records(
