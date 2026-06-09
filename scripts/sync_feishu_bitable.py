@@ -21,8 +21,13 @@ Required environment variables for live sync:
 - FEISHU_BITABLE_APP_TOKEN
 - FEISHU_OFFER_TABLE_ID
 - FEISHU_RUN_TABLE_ID
+
+Optional environment variables:
 - FEISHU_OFFER_ARCHIVE_TABLE_ID
 - FEISHU_RUN_ARCHIVE_TABLE_ID
+
+If the archive table IDs are not provided, the script will use or create
+tables named OfferRecordsHistory and DailyRunsHistory in the same Bitable.
 """
 
 from __future__ import annotations
@@ -45,6 +50,8 @@ FEISHU_API_BASE = os.getenv(
     "https://open.larkenterprise.com/open-apis",
 ).rstrip("/")
 BATCH_SIZE = 1000
+OFFER_ARCHIVE_TABLE_NAME = "OfferRecordsHistory"
+RUN_ARCHIVE_TABLE_NAME = "DailyRunsHistory"
 
 SOURCES = {
     "UNiDAYS": ROOT / "unidays_outputs",
@@ -281,6 +288,130 @@ def batch_create_records(
         raise_for_feishu_error(response, "Create Feishu records")
 
 
+def list_tables(
+    *,
+    token: str,
+    app_token: str,
+) -> list[dict]:
+    url = f"{FEISHU_API_BASE}/bitable/v1/apps/{app_token}/tables"
+    headers = feishu_headers(token)
+    tables: list[dict] = []
+    page_token = ""
+
+    while True:
+        params = {"page_size": 100}
+        if page_token:
+            params["page_token"] = page_token
+
+        response = requests.get(url, headers=headers, params=params, timeout=60)
+        data = raise_for_feishu_error(response, "List Feishu tables")
+        page = data.get("data", {})
+        tables.extend(page.get("items", []))
+
+        if not page.get("has_more"):
+            return tables
+        page_token = page.get("page_token", "")
+        if not page_token:
+            return tables
+
+
+def list_fields(
+    *,
+    token: str,
+    app_token: str,
+    table_id: str,
+) -> list[dict]:
+    url = (
+        f"{FEISHU_API_BASE}/bitable/v1/apps/{app_token}"
+        f"/tables/{table_id}/fields"
+    )
+    headers = feishu_headers(token)
+    fields: list[dict] = []
+    page_token = ""
+
+    while True:
+        params = {"page_size": 100}
+        if page_token:
+            params["page_token"] = page_token
+
+        response = requests.get(url, headers=headers, params=params, timeout=60)
+        data = raise_for_feishu_error(response, "List Feishu fields")
+        page = data.get("data", {})
+        fields.extend(page.get("items", []))
+
+        if not page.get("has_more"):
+            return fields
+        page_token = page.get("page_token", "")
+        if not page_token:
+            return fields
+
+
+def create_table_like(
+    *,
+    token: str,
+    app_token: str,
+    source_table_id: str,
+    table_name: str,
+) -> str:
+    fields = []
+    for field in list_fields(token=token, app_token=app_token, table_id=source_table_id):
+        new_field = {
+            "field_name": field["field_name"],
+            "type": field["type"],
+        }
+        if "property" in field:
+            new_field["property"] = field["property"]
+        fields.append(new_field)
+
+    url = f"{FEISHU_API_BASE}/bitable/v1/apps/{app_token}/tables"
+    payload = {
+        "table": {
+            "name": table_name,
+            "default_view_name": "Grid",
+            "fields": fields,
+        }
+    }
+    response = requests.post(
+        url,
+        headers=feishu_headers(token),
+        json=payload,
+        timeout=60,
+    )
+    data = raise_for_feishu_error(response, f"Create Feishu table {table_name}")
+    result = data.get("data", {})
+    table_id = result.get("table_id") or result.get("table", {}).get("table_id")
+    if not table_id:
+        raise RuntimeError(f"Create Feishu table returned no table_id: {data}")
+    return table_id
+
+
+def resolve_archive_table_id(
+    *,
+    token: str,
+    app_token: str,
+    source_table_id: str,
+    table_name: str,
+    configured_table_id: str | None,
+) -> str:
+    if configured_table_id:
+        return configured_table_id
+
+    for table in list_tables(token=token, app_token=app_token):
+        if table.get("name") == table_name:
+            table_id = table.get("table_id")
+            if table_id:
+                return table_id
+
+    table_id = create_table_like(
+        token=token,
+        app_token=app_token,
+        source_table_id=source_table_id,
+        table_name=table_name,
+    )
+    print(f"Created Feishu archive table: {table_name}")
+    return table_id
+
+
 def list_records(
     *,
     token: str,
@@ -414,17 +545,6 @@ def replace_records_for_scope(
         f"OfferRecords={len(existing_offer_records)}, "
         f"DailyRuns={len(existing_run_records)}"
     )
-
-    if existing_offer_records and not offer_archive_table_id:
-        raise RuntimeError(
-            "FEISHU_OFFER_ARCHIVE_TABLE_ID is required before replacing "
-            "existing OfferRecords."
-        )
-    if existing_run_records and not run_archive_table_id:
-        raise RuntimeError(
-            "FEISHU_RUN_ARCHIVE_TABLE_ID is required before replacing "
-            "existing DailyRuns."
-        )
 
     if existing_offer_records:
         batch_create_records(
@@ -585,6 +705,20 @@ def main() -> None:
         offer_archive_table_id = os.getenv("FEISHU_OFFER_ARCHIVE_TABLE_ID")
         run_archive_table_id = os.getenv("FEISHU_RUN_ARCHIVE_TABLE_ID")
         token = get_tenant_access_token()
+        offer_archive_table_id = resolve_archive_table_id(
+            token=token,
+            app_token=app_token,
+            source_table_id=offer_table_id,
+            table_name=OFFER_ARCHIVE_TABLE_NAME,
+            configured_table_id=offer_archive_table_id,
+        )
+        run_archive_table_id = resolve_archive_table_id(
+            token=token,
+            app_token=app_token,
+            source_table_id=run_table_id,
+            table_name=RUN_ARCHIVE_TABLE_NAME,
+            configured_table_id=run_archive_table_id,
+        )
         scopes = {
             (normalize_feishu_date(item["日期"]), str(item["平台"]).strip())
             for item in run_records
