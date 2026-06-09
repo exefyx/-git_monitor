@@ -4,9 +4,9 @@
 
 1. 页面offer
 - 首页
-  Audible：£0.99/month for the first 3 months Audible
+  loveholidays：Up to £600 off selected long-haul holidays + £50 Student Discount loveholidays
   Gymshark：12% Student Discount
-  Price Items Calvin Klein：10% Student Discount on Full
+  Dore & Rose：Only on 15% Student Discount
   ASOS：10% Student Discount
   FlixBus：20% Student Discount
   spend Deliveroo：Ends in 12 days £15 off £20
@@ -22,14 +22,11 @@
   6 months PureGym：Ends in 12 days Up to 30% off
   adidas：15% Student Discount
   Domino's Pizza：Buy One Get One Free
-  Broadband Packages Virgin Media：Only on Ends tomorrow Free £15 Gift Card with
-  FitFlop：15% Student Discount
-  Aspinal of London：20% Student Discount
-  Bluebella：15% Student Discount
-  Dore & Rose：Only on 15% Student Discount
-  MANSCAPED：15% Student Discount
-  per booking TUI：£50 Student Discount
-  Casetify：15% Off Student Discount
+  Huel：15% Student Discount
+  WHOOP Peak memberships WHOOP：10% Student Discount on
+  TALA：10% Student Discount
+  on Selected Shorts adidas：15% Student Discount
+  loveholidays：Up to £600 off selected long-haul holidays + £50 Student Discount
   on discounted items Acer：Extra 5% Student Discount
   Sephora：Ends in 20 days Up to 25% off in Sephora's Summer Sale
   La Redoute：Ends in 15 days Up to 50% off + Extra 11% off
@@ -39,7 +36,6 @@
   Price Virgin Balloon Flights：Additional £10 Off Per Voucher’s Promotional
   Sitewide Spotlight Oral Care：Ends in 6 days Exclusive Father's Day Offer - 30% off
   Trending Picks Amazon Haul：Ends in 5 days 30% off
-  Huel：15% Student Discount
   Hotels.com：Ends in 2 days 12% Student Discount
   Vans：10% Student Discount
   Oakley：Ends in 5 days Was 20% Student Discount 25% Student Discount
@@ -132,7 +128,7 @@
   关注点：已覆盖 TrainPal 对应产品，需持续跟踪竞品折扣变化。
 - Bus / Coach
   TrainPal：暂无
-  竞品重点：Trip.com：5% Off Bus for new users
+  竞品重点：National Express：Up to 20% Student Discount；National Express：Up to 20% Student Discount on Alton Towers Short Breaks；National Express：Up to 20% Student Discount on LEGOLAND Short Breaks；FlixBus：20% Student Discount；Trip.com：5% Off Bus for new users
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 - Flights
   TrainPal：暂无
@@ -160,13 +156,14 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：Car Hire Avis：Ends in 16 days Up to 20% off；a limited time Avis：Enjoy 15% off car hire (instead of 5%) for；Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；Trip.com：Ends in 21 days 15% off on UK Trains；FlixBus：20% Student Discount；Hostelworld：7% Student Discount；loveholidays：Up to £600 off selected holidays + £50 Student Discount；& Accessories Mainline Menswear：Ends in 12 days 15% Off Full Priced HUGO & BOSS Clothing, Footwear；6 months PureGym：Ends in 12 days Up to 30% off
-• 下线 Offer：FlixBus：20% Student Discount；National Express：Up to 20% Student Discount；National Express：Up to 20% Student Discount on Alton Towers Short Breaks；Car Hire Avis：Ends in 17 days Up to 20% off；TrainPal：Ends today 25% off Eurostar Standard & Plus adult tickets；TrainPal：Ends today 25% off Eurostar Standard & Plus adult tickets；Trip.com：Ends in 22 days 15% off on UK Trains；Bolt：45% Student Discount；FlixBus：15% Student Discount；Railcard：15% off the 16-25 Railcard
+• 新增 Offer：National Express：Up to 20% Student Discount on LEGOLAND Short Breaks；Car Hire Avis：Ends in 16 days Up to 20% off；a limited time Avis：Enjoy 15% off car hire (instead of 5%) for；Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；Trip.com：Ends in 21 days 15% off on UK Trains；FlixBus：20% Student Discount；Hostelworld：7% Student Discount；loveholidays：Up to £600 off selected holidays + £50 Student Discount；& Accessories Mainline Menswear：Ends in 12 days 15% Off Full Priced HUGO & BOSS Clothing, Footwear
+• 下线 Offer：Car Hire Avis：Ends in 17 days Up to 20% off；TrainPal：Ends today 25% off Eurostar Standard & Plus adult tickets；TrainPal：Ends today 25% off Eurostar Standard & Plus adult tickets；Trip.com：Ends in 22 days 15% off on UK Trains；Bolt：45% Student Discount；FlixBus：15% Student Discount；Railcard：15% off the 16-25 Railcard；Trainline：15% off the 16-25 Railcard；& nutrition apps HealthKey：£49.99 Unlimited virtual GP appointments + 2 fitness；Alton Towers Resort：Ends in 22 days Student tickets from £21 for June only
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 
 2.3 竞品offer
 - Trip.com
+  15% off on UK Trains
   Up to £20 OFF Flights
   2% Off UK trains for existing users
   Up to £50 Off Hotels
@@ -180,7 +177,6 @@
   11% Off Hotels in China
   5% Off Bus for new users
   10% off Railcard for existing users
-  15% off on UK Trains
   5% off China Trains for new users
   6% Off Japan Railway for new users
 - Trainline
@@ -198,3 +194,9 @@
   5% Student Discount for Existing Users
 - Klook
   18% Student Discount
+- National Express
+  Up to 20% Student Discount
+  Up to 20% Student Discount on Alton Towers Short Breaks
+  Up to 20% Student Discount on LEGOLAND Short Breaks
+- FlixBus
+  20% Student Discount
