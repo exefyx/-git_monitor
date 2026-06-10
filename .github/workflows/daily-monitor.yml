@@ -36,6 +36,7 @@ jobs:
           python scripts/studentbeans_monitor.py --run
           python scripts/validate_crawl_outputs.py
           python scripts/build_dashboard.py
+          python scripts/build_ios26_preview.py
 
       - name: Commit updated dashboard
         run: |

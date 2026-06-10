@@ -6,6 +6,7 @@ call venv\Scripts\activate
 python .\scripts\unidays_monitor.py --run
 python .\scripts\studentbeans_monitor.py --run
 python .\scripts\build_dashboard.py
+python .\scripts\build_ios26_preview.py
 
 cd /d D:\Users\daphnefan\Desktop\git_monitor
 
