@@ -186,7 +186,7 @@ BRAND_ALLOWED_PATTERNS = {
     ],
     "Omio": [
         r"5%\s*Student Discount for Existing Users",
-        r"10%\s*Student Discount for New Customers",
+        r"(7|10)%\s*Student Discount for New Customers",
     ],
     "Klook": [
         r"18%\s*Student Discount",
