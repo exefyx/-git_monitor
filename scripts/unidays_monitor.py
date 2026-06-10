@@ -215,8 +215,8 @@ PRODUCT_KEYWORDS = {
 
 OFFER_PATTERN = re.compile(
     r"("
-    r"\d+\s*%\s*(off|discount)?|"
-    r"£\s*\d+|"
+    r"\d+(?:\.\d+)?\s*%\s*(off|discount)?|"
+    r"£\s*\d+(?:\.\d+)?|"
     r"\boff\b|"
     r"\bdiscount\b|"
     r"\bsave\b|"
@@ -272,7 +272,6 @@ STOP_HEADINGS = [
     "about ",
     "more from",
     "you may also like",
-    "student discount",
 ]
 
 
@@ -366,7 +365,7 @@ def split_brand_and_offer(
         left = clean_text(left)
         right = clean_text(right)
 
-        if 2 <= len(left) <= 45 and looks_like_offer(right):
+        if 2 <= len(left) <= 45 and not looks_like_offer(left) and looks_like_offer(right):
             brand = left
             offer = right
 
@@ -569,7 +568,7 @@ def find_section(card_top: float, headings: List[Dict[str, object]]) -> str:
 def extract_offer_items(page) -> List[Dict[str, object]]:
     js = """
     () => {
-        const offerRe = /(off|discount|save|£\\s*\\d+|\\d+\\s*%|free|deal|sale|up\\s+to)/i;
+        const offerRe = /(off|discount|save|£\\s*\\d+(?:\\.\\d+)?|\\d+(?:\\.\\d+)?\\s*%|free|deal|sale|up\\s+to)/i;
 
         const clean = (s) => (s || '').replace(/\\s+/g, ' ').trim();
 
