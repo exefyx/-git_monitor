@@ -154,48 +154,47 @@ BRAND_ALIASES = {
 
 BRAND_ALLOWED_PATTERNS = {
     "Trip.com": [
-        r"15%\s*off\s*on\s*UK Trains",
-        r"Up to\s*£20\s*OFF Flights",
-        r"Up to\s*£50\s*Off Hotels",
-        r"2%\s*Off UK trains for existing users",
-        r"£4\s*(UK Train|off).*New User",
-        r"20%\s*off Railcard for new users",
-        r"5%\s*Off Tours and Tickets",
-        r"10%\s*off Railcard for existing users",
-        r"6%\s*Off Disneyland",
-        r"10%\s*Off eSim",
-        r"10%\s*Off Car Rental",
-        r"5%\s*off China Trains for new users",
-        r"11%\s*Off Hotels in China",
-        r"6%\s*Off Japan Railway for new users",
-        r"5%\s*Off UK trains for new users",
-        r"5%\s*Off Bus for new users",
+        r"\d+(?:\.\d+)?%\s*off\s*on\s*UK Trains",
+        r"Up to\s*£\d+(?:\.\d+)?\s*OFF Flights",
+        r"Up to\s*£\d+(?:\.\d+)?\s*Off Hotels",
+        r"\d+(?:\.\d+)?%\s*Off UK trains for existing users",
+        r"£\d+(?:\.\d+)?\s*(UK Train|off).*New User",
+        r"\d+(?:\.\d+)?%\s*off Railcard for new users",
+        r"\d+(?:\.\d+)?%\s*Off Tours and Tickets",
+        r"\d+(?:\.\d+)?%\s*off Railcard for existing users",
+        r"\d+(?:\.\d+)?%\s*Off Disneyland",
+        r"\d+(?:\.\d+)?%\s*Off eSim",
+        r"\d+(?:\.\d+)?%\s*Off Car Rental",
+        r"\d+(?:\.\d+)?%\s*off China Trains for new users",
+        r"\d+(?:\.\d+)?%\s*Off Hotels in China",
+        r"\d+(?:\.\d+)?%\s*Off Japan Railway for new users",
+        r"\d+(?:\.\d+)?%\s*Off UK trains for new users",
+        r"\d+(?:\.\d+)?%\s*Off Bus for new users",
     ],
     "Trainline": [
-        r"15%\s*off the 16-25 Railcard",
-        r"15%\s*off the 26-30 Railcard",
-        r"15%\s*off the 16-17 Saver",
+        r"\d+(?:\.\d+)?%\s*off the 16-25 Railcard",
+        r"\d+(?:\.\d+)?%\s*off the 26-30 Railcard",
+        r"\d+(?:\.\d+)?%\s*off the 16-17 Saver",
     ],
     "TrainPal": [
-        r"Up to\s*10%\s*off train fares",
-        r"5%\s*Off Trains for New Customer.*2%\s*Off for Existing Customer",
-        r"Student Exclusive:\s*23%\s*OFF Railcard",
-        r"£4\s*off for New Customers.*2%\s*off for Existing Customers.*UK Train Tickets",
-        r"23%\s*Off UK Railcard for New Customer.*10%\s*Off for Existing Customer",
-        r"20%\s*Off UK Railcard for New Customer.*10%\s*Off for Existing Customer",
+        r"Up to\s*\d+(?:\.\d+)?%\s*off train fares",
+        r"\d+(?:\.\d+)?%\s*Off Trains for New Customer.*\d+(?:\.\d+)?%\s*Off for Existing Customer",
+        r"Student Exclusive:\s*\d+(?:\.\d+)?%\s*OFF Railcard",
+        r"£\d+(?:\.\d+)?\s*off for New Customers.*\d+(?:\.\d+)?%\s*off for Existing Customers.*UK Train Tickets",
+        r"\d+(?:\.\d+)?%\s*Off UK Railcard for New Customer.*\d+(?:\.\d+)?%\s*Off for Existing Customer",
     ],
     "Omio": [
-        r"5%\s*Student Discount for Existing Users",
-        r"(7|10)%\s*Student Discount for New Customers",
+        r"\d+(?:\.\d+)?%\s*Student Discount for Existing Users",
+        r"\d+(?:\.\d+)?%\s*Student Discount for New Customers",
     ],
     "Klook": [
-        r"18%\s*Student Discount",
+        r"\d+(?:\.\d+)?%\s*Student Discount",
     ],
     "National Express": [
-        r"Up to\s*20%\s*Student Discount",
+        r"Up to\s*\d+(?:\.\d+)?%\s*Student Discount",
     ],
     "FlixBus": [
-        r"20%\s*Student Discount",
+        r"\d+(?:\.\d+)?%\s*Student Discount",
     ],
 }
 
@@ -1087,6 +1086,17 @@ def extract_brand_offers_from_body(
         for x in body_text.splitlines()
         if clean_text(x)
     ]
+
+    for i, line in enumerate(lines):
+        if re.search(r"\bAvailable Student Discounts?\b", line, flags=re.IGNORECASE):
+            start = i + 1
+            end = len(lines)
+            for j in range(start, len(lines)):
+                if normal_key(lines[j]) in {"similar discounts", f"why we love {normal_key(page_name)}"}:
+                    end = j
+                    break
+            lines = lines[start:end]
+            break
 
     rows = []
     seen = set()
