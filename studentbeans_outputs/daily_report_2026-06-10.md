@@ -7,7 +7,7 @@
   Amazon：Your fave shows w/ 6 months FREE Discover deals
   Audible：£0.99/month for the first 3 months Audible
   Standard with Ads Disney+：Disney+ for £3.99/month for 4 months on
-  Aspinal of London：20% Student Discount
+  adidas：15% Student Discount
   ASOS：10% Student Discount
   PrettyLittleThing：At least 20% off everything + Extra 12% Student Discount
   FlixBus：20% Student Discount
@@ -19,18 +19,17 @@
   Sephora：15% Student Discount
   6 months PureGym：Ends in 11 days Up to 30% off
   National Express：Up to 20% Student Discount
-  even more brands LOOKFANTASTIC：Ends today 25% off
-  adidas：15% Student Discount
   TrainPal：Up to 10% off train fares
   ODEON：Only on 20% Student Discount
-  Casetify：15% Off Student Discount
-  Audible：£0.99/month for the first 3 months
-  Broadband Packages Virgin Media：Only on Ends today Free £15 Gift Card with
+  Gymshark：12% Student Discount
   Bluebella：15% Student Discount
-  Price Items Calvin Klein：10% Student Discount on Full
-  Dore & Rose：Only on 15% Student Discount
-  musicMagpie：10% Student Discount
+  Aspinal of London：20% Student Discount
   The Body Shop：10% Student Discount
+  MANSCAPED：15% Student Discount
+  Broadband Packages Virgin Media：Only on Ends today Free £15 Gift Card with
+  Price Items Calvin Klein：10% Student Discount on Full
+  FitFlop：15% Student Discount
+  musicMagpie：10% Student Discount
   Lube Lovehoney：Ends today Wet Wednesdays - Extra 25% Student Discount + Free
   Compact Blenders Ninja Kitchen：Ends in 6 days £10 off on selected
   1000s of Styles ASOS：Ends today 20% off
@@ -63,7 +62,6 @@
   Madame Tussauds：Student Tickets from £15
   Gravity：15% Student Discount
   Drayton Manor：5% Student Discount
-  Gymshark：12% Student Discount
   Boots：10% Student Discount
   New Look：10% Student Discount
   Dryrobe：15% Student Discount
@@ -72,6 +70,7 @@
   Hollister：10% Student Discount
   Coach：10% Student Discount
   on Classic crocs Crocs：20% Student Discount
+  everything River Island：10% off
   Foot Locker：10% Student Discount
   New Balance：Extra 10% Student Discount on Sale
   Footasylum：10% Student Discount
@@ -108,13 +107,14 @@
   Trainline：15% off the 26-30 Railcard
   Railcard：15% off the 16-25 Railcard
   Railcard：15% off the 26-30 Railcard
-  Flibco：10% Student Discount
-  Trainline：15% off the 16-17 Saver
   Trip.com：2% Off UK trains for existing users
+  Trainline：15% off the 16-17 Saver
+  Flibco：10% Student Discount
   Klook：18% Student Discount
-  Car Hire Avis：Ends in 15 days Up to 20% off
+  Avis：Ends in 15 days Save up to 20% in the Early Summer Sale
   Uber：£10 off your First Uber for Teens Ride
-  a limited time Avis：Enjoy 15% off car hire (instead of 5%) for
+  Trip.com：20% off Railcard for new users
+  Railcard：20% off Railcard for new users
 
 2. 竞品offer监控
 
@@ -161,8 +161,8 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：Car Hire Avis：Ends in 15 days Up to 20% off；Trip.com：Ends in 20 days 15% off on UK Trains；Uber：£5 off your First Train Ride with Uber；Expedia：Up to 35% off & Extra 10% Student Discount；Hotels.com：Ends tomorrow 12% Student Discount；Railcard：15% off the 16-25 Railcard；Trainline：15% off the 16-25 Railcard；& Accessories Mainline Menswear：Ends in 11 days 15% Off Full Priced HUGO & BOSS Clothing, Footwear；1000s of Styles ASOS：Ends today 20% off；6 months PureGym：Ends in 11 days Up to 30% off
-• 下线 Offer：National Express：Up to 20% Student Discount on LEGOLAND Short Breaks；Car Hire Avis：Ends in 16 days Up to 20% off；Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；Trip.com：Ends in 21 days 15% off on UK Trains；Expedia：10% off Hotels；Veygo：15% Student Discount；loveholidays：Up to £600 off selected holidays + £50 Student Discount；& Accessories Mainline Menswear：Ends in 12 days 15% Off Full Priced HUGO & BOSS Clothing, Footwear；6 months PureGym：Ends in 12 days Up to 30% off
+• 新增 Offer：Avis：Ends in 15 days Save up to 20% in the Early Summer Sale；Railcard：20% off Railcard for new users；Trip.com：20% off Railcard for new users；Trip.com：Ends in 20 days 15% off on UK Trains；Uber：£5 off your First Train Ride with Uber；Expedia：Up to 35% off & Extra 10% Student Discount；Hotels.com：Ends tomorrow 12% Student Discount；Railcard：15% off the 16-25 Railcard；Trainline：15% off the 16-25 Railcard；& Accessories Mainline Menswear：Ends in 11 days 15% Off Full Priced HUGO & BOSS Clothing, Footwear
+• 下线 Offer：National Express：Up to 20% Student Discount on LEGOLAND Short Breaks；Car Hire Avis：Ends in 16 days Up to 20% off；a limited time Avis：Enjoy 15% off car hire (instead of 5%) for；Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；Trip.com：Ends in 21 days 15% off on UK Trains；Expedia：10% off Hotels；Veygo：15% Student Discount；loveholidays：Up to £600 off selected holidays + £50 Student Discount；& Accessories Mainline Menswear：Ends in 12 days 15% Off Full Priced HUGO & BOSS Clothing, Footwear
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 

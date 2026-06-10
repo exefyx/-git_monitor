@@ -9,14 +9,12 @@
   Trip.com：New to Trip.com? Get 20% off Railcards 🚆 Save on your Railcard and unlock cheaper train travel across the UK. Get now
   Trip.com：New to Trip.com? Get 20% off Railcards 🚆
   Trip.com：Save on your Railcard and unlock cheaper train travel across the UK.
-  Every Playoffs moment：ad-free with Premium
+  Join 80：000+ students on Swapfiets & get €25 off your first bike subscription.
   Amazon：4 months FREE Offer until 27/06. Terms apply. Get now
   Amazon：4 months FREE
-  Wowcher：15% off Wowcher spa days & retreats 🧖🫧 15% off Wowcher spa days & retreats 🧖🫧 Get now
-  Wowcher：15% off Wowcher spa days & retreats 🧖🫧
-  Wowcher：15% off tech, gadgets, and other electronics 🖥️ Whether you're studying, gaming or working, upgrade your setup for less. Get now
-  Wowcher：15% off tech, gadgets, and other electronics 🖥️
-  Halfords：WIN a £100 Festival Camping Package! ⛺
+  Omio：Bus Travel Just Got 5% Cheaper 🚎 Book your next ride with Omio and save 5% on buses. Get now
+  Omio：Bus Travel Just Got 5% Cheaper 🚎
+  Omio：Book your next ride with Omio and save 5% on buses.
   GO Outdoors：10% Student Discount
   Jet2holidays：£50 Off All Holidays
   Holiday Extras：Up to 40% Off Airport Parking
@@ -28,11 +26,11 @@
   Trainline：15% Off 16-17 Saver Railcard
   Uber Rides：£10 Off your first ride with Uber
   Wowcher：15% Off Student Discount
-  Wowcher：15% Off Student Discount Exclusive
   Sea Life：Animal Crossing at SEA LIFE Manchester tickets from £14
+  Wowcher：15% Off Student Discount Exclusive
   Alton Towers Resort：Waterpark Entry Tickets for £15
-  Alton Towers Resort：Waterpark Entry Tickets for £15 4 days
   Cineworld：2 Tickets for £13
+  Alton Towers Resort：Waterpark Entry Tickets for £15 4 days
   Klook：20% off vietnam tours
   Thorpe Park：Student Tickets from £24
   Klook：20% off vietnam tours 20 days
@@ -65,7 +63,7 @@
   TrainPal：Up to 30% off Eurostar
   Klook：20% off vietnam tours 20 days
   TrainPal：15% Off Trains For New Customers (£5 cap) 20 days
-  TrainPal：Up to 30% off Eurostar 19 hours
+  TrainPal：Up to 30% off Eurostar 16 hours
   OMIO：7% Off Travel for New Customers
   Omio：7% Off Travel for New Customers Exclusive
   P&O Ferries：Day Trips to France from £60
@@ -85,7 +83,7 @@
 
 2.1 分产品监控情况
 - UK & Europe Train Tickets
-  TrainPal：Up to 30% off Eurostar；15% Off Trains For New Customers (£5 cap)；£4 Off UK Train Tickets for New Customers；Up to 5% off train tickets for the UK and the EU
+  TrainPal：Up to 30% off Eurostar；£4 Off UK Train Tickets for New Customers；15% Off Trains For New Customers (£5 cap)；Up to 5% off train tickets for the UK and the EU
   竞品重点：Trip.com：15% Off Trains For New Customers；Trip.com：5% off UK trains for new users；Omio：5% Off Trains；Trip.com：£4 Off your first UK train ticket In-App；Trip.com：2% Off UK trains for existing users
   关注点：已覆盖 TrainPal 对应产品，需持续跟踪竞品折扣变化。
 - Japan Train / Japan Railway
@@ -94,7 +92,7 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 - Railcard
   TrainPal：20% Off UK Railcards
-  竞品重点：Trip.com：20% Off Railcards for new users；Trainline：15% Off 26-30 Railcard；Trainline：15% Off 16-25 Railcard；Trainline：15% Off 16-17 Saver Railcard；Trip.com：10% off Railcard for existing users
+  竞品重点：Trip.com：20% Off Railcards for new users；Trainline：15% Off 16-17 Saver Railcard；Trainline：15% Off 16-25 Railcard；Trainline：15% Off 26-30 Railcard；Trip.com：10% off Railcard for existing users
   关注点：已覆盖 TrainPal 对应产品，需持续跟踪竞品折扣变化。
 - Bus / Coach
   TrainPal：暂无
@@ -126,7 +124,7 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：Klook：20% off vietnam tours；Klook：20% off vietnam tours 20 days；TrainPal：15% Off Trains For New Customers (£5 cap) 20 days；TrainPal：Up to 30% off Eurostar 19 hours；Trip.com：15% Off Trains For New Customers 20 days；Alton Towers Resort：Waterpark Entry Tickets for £15 4 days；Amazon：4 months FREE；Amazon：4 months FREE Offer until 27/06. Terms apply. Get now；Amazon Audible：30-day free trial；Audible：30-day free trial
+• 新增 Offer：Klook：20% off vietnam tours；Klook：20% off vietnam tours 20 days；TrainPal：15% Off Trains For New Customers (£5 cap) 20 days；TrainPal：Up to 30% off Eurostar 16 hours；Trip.com：15% Off Trains For New Customers 20 days；Alton Towers Resort：Waterpark Entry Tickets for £15 4 days；Amazon：4 months FREE；Amazon：4 months FREE Offer until 27/06. Terms apply. Get now；Amazon Audible：30-day free trial；Audible：30-day free trial
 • 下线 Offer：Klook：20% off vietnam tours 21 days；TrainPal：15% Off Trains For New Customers (£5 cap) 21 days；TrainPal：Up to 30% off Eurostar 38 hours；Trip.com：15% Off Trains For New Customers 21 days；Alton Towers Resort：Alton Towers tickets from £21 🎢；Alton Towers Resort：Alton Towers tickets from £21 🎢 Lock in discounted tickets now before prices go back up. Get now；Alton Towers Resort：Waterpark Entry Tickets for £15 5 days；Amazon：30 Day Free Trial；Amazon：Music Unlimited 30 Day Free Trial；Amazon：Music Unlimited 30 Day Free Trial Boosted
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
@@ -149,15 +147,15 @@
   20% Off Railcards for new users
   £4 Off your first UK train ticket In-App
 - Trainline
-  15% Off 26-30 Railcard
-  15% Off 16-25 Railcard
   15% Off 16-17 Saver Railcard
+  15% Off 16-25 Railcard
+  15% Off 26-30 Railcard
 - TrainPal
   Up to 30% off Eurostar
-  15% Off Trains For New Customers (£5 cap)
   £4 Off UK Train Tickets for New Customers
-  20% Off UK Railcards
+  15% Off Trains For New Customers (£5 cap)
   Up to 5% off train tickets for the UK and the EU
+  20% Off UK Railcards
 - FlixBus
   20% Discount on the FlixBus App
 - Omio

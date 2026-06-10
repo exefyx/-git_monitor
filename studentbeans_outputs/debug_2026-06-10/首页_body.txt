@@ -28,21 +28,9 @@ The best student discounts from your favourite shops
 Your new favourite student discount website with deals you won't find anywhere else
 
 Student deals of the day
-15% Student Discount
-
-FitFlop
-
-Free £15 Gift Card with Broadband Packages
-
-Virgin Media
-
 20% Student Discount
 
 ODEON
-
-£0.99/month for the first 3 months
-
-Audible
 
 15% Student Discount
 
@@ -51,6 +39,18 @@ adidas
 20% Student Discount
 
 Aspinal of London
+
+10% Student Discount
+
+musicMagpie
+
+10% Student Discount
+
+The Body Shop
+
+£0.99/month for the first 3 months
+
+Audible
 
 WIN for Father's Day
 Enter Now
@@ -71,15 +71,15 @@ Online
 
 Entertainment
 
-20% Student Discount
+15% Student Discount
 
-Aspinal of London
+adidas
 
 For students only
 
 Online
 
-Fashion
+Activewear
 
 Sponsored
 
@@ -219,27 +219,6 @@ Instore
 
 Bars & Pubs
 
-Ends today
-25% off even more brands
-
-LOOKFANTASTIC
-
-For students only
-
-Online
-
-Beauty
-
-15% Student Discount
-
-adidas
-
-For students only
-
-Online
-
-Activewear
-
 Up to 10% off train fares
 
 TrainPal
@@ -274,29 +253,37 @@ Online
 
 Cinema
 
+Free Popcorn Snack Box
+
+KFC
+
+For students only
+
+Instore
+
+Takeaway & Fast Food
+
+12% Student Discount
+
+Gymshark
+
+For students only
+
+Online
+
+Fashion
+
 Featured discounts
 The discounts you won’t want to miss
-15% Off Student Discount
+15% Student Discount
 
-Casetify
-
-For students only
-
-Online
-
-Tech & Mobile
-
-Sponsored
-
-£0.99/month for the first 3 months
-
-Audible
+Bluebella
 
 For students only
 
 Online
 
-Entertainment
+Lingerie & Underwear
 
 Sponsored
 
@@ -309,6 +296,30 @@ For students only
 Online
 
 Fashion
+
+Sponsored
+
+10% Student Discount
+
+The Body Shop
+
+For students only
+
+Online
+
+Beauty
+
+Sponsored
+
+15% Student Discount
+
+MANSCAPED
+
+For students only
+
+Online
+
+Health & Fitness
 
 Sponsored
 
@@ -343,13 +354,13 @@ Sponsored
 
 15% Student Discount
 
-Bluebella
+adidas
 
 For students only
 
 Online
 
-Lingerie & Underwear
+Activewear
 
 Sponsored
 
@@ -365,11 +376,9 @@ Luxury Fashion
 
 Sponsored
 
-Only on
-
 15% Student Discount
 
-Dore & Rose
+FitFlop
 
 For students only
 
@@ -391,18 +400,6 @@ Tech & Mobile
 
 Sponsored
 
-10% Student Discount
-
-The Body Shop
-
-For students only
-
-Online
-
-Beauty
-
-Sponsored
-
 New today
 Find the latest and greatest drops every day
 Ends today
@@ -418,13 +415,13 @@ Adult
 
 15% Student Discount
 
-Bluebella
+adidas
 
 For students only
 
 Online
 
-Lingerie & Underwear
+Activewear
 
 Sponsored
 
@@ -601,17 +598,6 @@ For students only
 Online
 
 Fashion
-
-Ends today
-25% off even more brands
-
-LOOKFANTASTIC
-
-For students only
-
-Online
-
-Beauty
 
 Ends in 4 days
 30% off Trending Picks
@@ -883,17 +869,6 @@ Online
 
 Beauty
 
-Ends today
-25% off even more brands
-
-LOOKFANTASTIC
-
-For students only
-
-Online
-
-Beauty
-
 15% Student Discount Online
 
 SHEIN
@@ -1039,6 +1014,16 @@ Fashion
 Urban Outfitters
 
 For anyone to use
+
+Online
+
+Fashion
+
+10% off everything
+
+River Island
+
+For students only
 
 Online
 
