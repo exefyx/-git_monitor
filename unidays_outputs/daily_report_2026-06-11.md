@@ -7,16 +7,18 @@
   Download on the App Store：Get the free app!
 - Travel & Entertainment
   TrainPal：15% off trains for new TrainPal users 🤯 Get 15% off if you're a new TrainPal customer and save a maximum of £7 on your next train. Get now
-  Wowcher：15% off Wowcher spa days & retreats 🧖🫧 15% off Wowcher spa days & retreats 🧖🫧 Get now
-  Wowcher：15% off Wowcher travel deals 🏝️ Get 15% off selected bookings with your UNiDAYS discount Get now
-  TrainPal：New to TrainPal? Get 15% off trains for new users 🚆 Grab 15% off if you're a new customer and save on your next train. Get now
+  Emirates：Up to 10% off economy and business class with Emirates ✈️ Save 10% in Economy or 5% in Premium Economy or Business on your next booking. Get now
+  Omio：Save 5% on Flights with Omio ✈️ Get there for less – book your flight now and save 5% with Omio. Get now
   TrainPal：15% off trains for new TrainPal users 🤯
-  Wowcher：15% off Wowcher spa days & retreats 🧖🫧
-  Wowcher：15% off Wowcher travel deals 🏝️
-  TrainPal：New to TrainPal? Get 15% off trains for new users 🚆
+  Emirates：Up to 10% off economy and business class with Emirates ✈️
+  Omio：Save 5% on Flights with Omio ✈️
   TrainPal：Get 15% off if you're a new TrainPal customer and save a maximum of £7 on your next train.
-  Wowcher：Get 15% off selected bookings with your UNiDAYS discount
-  TrainPal：Grab 15% off if you're a new customer and save on your next train.
+  Omio：Get there for less – book your flight now and save 5% with Omio.
+  Emirates：Save 10% in Economy or 5% in Premium Economy or Business on your next booking.
+  Amazon：4 months FREE Offer until 27/06. Terms apply. Get now
+  Amazon：4 months FREE
+  Wowcher：15% off Wowcher spa days & retreats 🧖🫧 15% off Wowcher spa days & retreats 🧖🫧 Get now
+  Wowcher：15% off Wowcher spa days & retreats 🧖🫧
   Jet2holidays：£50 Off All Holidays
   GO Outdoors：10% Student Discount
   Alton Towers Resort：Up to 10% off short breaks at Alton Towers!
@@ -42,7 +44,6 @@
   Apple Music：Get 1 month free
   Apple Music：Only £5.99/month & free access to TV
   Amazon：Music Unlimited 4 months FREE
-  Amazon：4 months FREE
   Amazon Audible：30-day free trial
   Deezer：1 month free, then £5.99/month
   Channel 4：Your Free Month Trial Of Channel 4+
@@ -83,7 +84,7 @@
 
 2.1 分产品监控情况
 - UK & Europe Train Tickets
-  TrainPal：Up to 5% off train tickets for the UK and the EU；£4 Off UK Train Tickets for New Customers；15% Off Trains For New Customers (£5 cap)；Up to 30% off Eurostar
+  TrainPal：15% Off Trains For New Customers (£5 cap)；15% Off Trains For New Customers (£7 cap)；Up to 5% off train tickets for the UK and the EU；£4 Off UK Train Tickets for New Customers
   竞品重点：Trip.com：15% Off Trains For New Customers；Trip.com：5% off UK trains for new users；Omio：5% Off Trains；Trip.com：£4 Off your first UK train ticket In-App；Trip.com：2% Off UK trains for existing users
   关注点：已覆盖 TrainPal 对应产品，需持续跟踪竞品折扣变化。
 - Japan Train / Japan Railway
@@ -92,7 +93,7 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 - Railcard
   TrainPal：20% Off UK Railcards
-  竞品重点：Trip.com：20% Off Railcards for new users；Trainline：15% Off 16-17 Saver Railcard；Trainline：15% Off 26-30 Railcard；Trainline：15% Off 16-25 Railcard；Trip.com：10% off Railcard for existing users
+  竞品重点：Trip.com：20% Off Railcards for new users；Trainline：15% Off 26-30 Railcard；Trainline：15% Off 16-17 Saver Railcard；Trainline：15% Off 16-25 Railcard；Trip.com：10% off Railcard for existing users
   关注点：已覆盖 TrainPal 对应产品，需持续跟踪竞品折扣变化。
 - Bus / Coach
   TrainPal：暂无
@@ -124,46 +125,46 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：Klook：20% off vietnam tours 19 days；TrainPal：15% Off Trains For New Customers (£5 cap) 19 days；Trip.com：15% Off Trains For New Customers 19 days；Klook：20% off vietnam tours 19 days；Thorpe Park：Student Tickets from £24 19 days；TrainPal：15% off trains for new TrainPal users 🤯；TrainPal：15% off trains for new TrainPal users 🤯 Get 15% off if you're a new TrainPal customer and save a maximum of £7 on your next train. Get now；TrainPal：Get 15% off if you're a new TrainPal customer and save a maximum of £7 on your next train.；TrainPal：Grab 15% off if you're a new customer and save on your next train.；TrainPal：New to TrainPal? Get 15% off trains for new users 🚆
-• 下线 Offer：Klook：20% off vietnam tours 20 days；TrainPal：15% Off Trains For New Customers (£5 cap) 20 days；TrainPal：Up to 30% off Eurostar 15 hours；Trip.com：15% Off Trains For New Customers 20 days；Alton Towers Resort：🎟️ Student days out sorted: Alton Towers tickets from just £24!；Alton Towers Resort：🎟️ Student days out sorted: Alton Towers tickets from just £24! Unmissable fun at a student price. Book now and experience the thrills! Get now；Chessington World of Adventures Resort：From £24: Get student tickets to Chessington World of Adventures 🦒；Chessington World of Adventures Resort：From £24: Get student tickets to Chessington World of Adventures 🦒 Round up your mates and enjoy a wild day out for less. Get now；Every Playoffs moment：ad-free with Premium；Klook：20% off vietnam tours 20 days
+• 新增 Offer：TrainPal：15% Off Trains For New Customers (£7 cap)；Klook：20% off vietnam tours 19 days；TrainPal：15% Off Trains For New Customers (£5 cap) 19 days；Trip.com：15% Off Trains For New Customers 19 days；Amazon：4 months FREE Offer until 27/06. Terms apply. Get now；Emirates：Save 10% in Economy or 5% in Premium Economy or Business on your next booking.；Emirates：Up to 10% off economy and business class with Emirates ✈️；Emirates：Up to 10% off economy and business class with Emirates ✈️ Save 10% in Economy or 5% in Premium Economy or Business on your next booking. Get now；Klook：20% off vietnam tours 19 days；Omio：Get there for less – book your flight now and save 5% with Omio.
+• 下线 Offer：TrainPal：Up to 30% off Eurostar；Klook：20% off vietnam tours 20 days；TrainPal：15% Off Trains For New Customers (£5 cap) 20 days；TrainPal：Up to 30% off Eurostar 15 hours；Trip.com：15% Off Trains For New Customers 20 days；Alton Towers Resort：🎟️ Student days out sorted: Alton Towers tickets from just £24!；Alton Towers Resort：🎟️ Student days out sorted: Alton Towers tickets from just £24! Unmissable fun at a student price. Book now and experience the thrills! Get now；Chessington World of Adventures Resort：From £24: Get student tickets to Chessington World of Adventures 🦒；Chessington World of Adventures Resort：From £24: Get student tickets to Chessington World of Adventures 🦒 Round up your mates and enjoy a wild day out for less. Get now；Every Playoffs moment：ad-free with Premium
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 
 2.3 竞品offer
 - Trip.com
+  11% Off hotels in China
+  15% Off Trains For New Customers
+  6% off Japan Railway for new users
+  10% Off Car Rental
+  10% off Railcard for existing users
   5% Off coaches for new users
   5% off UK trains for new users
   2% Off UK trains for existing users
-  10% Off Car Rental
-  11% Off hotels in China
-  15% Off Trains For New Customers
-  10% off Railcard for existing users
-  6% off Japan Railway for new users
-  5% Off Tours and Tickets
   6% Off Selected Tours & Tickets
+  5% Off Tours and Tickets
+  10% Off eSIM
   Up to £50 Off Hotels
+  £4 Off your first UK train ticket In-App
   Up to £20 Off Flights
   20% Off Railcards for new users
-  10% Off eSIM
-  £4 Off your first UK train ticket In-App
 - Trainline
-  15% Off 16-17 Saver Railcard
   15% Off 26-30 Railcard
+  15% Off 16-17 Saver Railcard
   15% Off 16-25 Railcard
 - TrainPal
+  15% Off Trains For New Customers (£5 cap)
+  15% Off Trains For New Customers (£7 cap)
   Up to 5% off train tickets for the UK and the EU
   20% Off UK Railcards
   £4 Off UK Train Tickets for New Customers
-  15% Off Trains For New Customers (£5 cap)
-  Up to 30% off Eurostar
 - FlixBus
   20% Discount on the FlixBus App
 - Omio
-  5% Off Buses
   7% Off Travel for New Customers
   5% Off Flights
-  5% Off Trains
+  5% Off Buses
   5% Student Travel Discount
+  5% Off Trains
 - National Express
   Up to 20% Off Coach Bookings
 - Klook

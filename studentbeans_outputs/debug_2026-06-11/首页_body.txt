@@ -28,9 +28,9 @@ The best student discounts from your favourite shops
 Your new favourite student discount website with deals you won't find anywhere else
 
 Student deals of the day
-Disney+ for £3.99/month for 4 months on Standard with Ads
+20% Student Discount
 
-Disney+
+ODEON
 
 15% Student Discount
 
@@ -38,15 +38,15 @@ Dore & Rose
 
 15% Student Discount
 
+adidas
+
+15% Student Discount
+
 MANSCAPED
 
-20% Student Discount
+Disney+ for £3.99/month for 4 months on Standard with Ads
 
-ODEON
-
-20% Student Discount
-
-Aspinal of London
+Disney+
 
 15% Student Discount
 
@@ -71,15 +71,17 @@ Online
 
 Entertainment
 
-£0.99/month for the first 3 months
+Only on
 
-Audible
+20% Student Discount
+
+ODEON
 
 For students only
 
 Online
 
-Entertainment
+Cinema
 
 Sponsored
 
@@ -239,18 +241,6 @@ Online
 
 Travel
 
-Only on
-
-20% Student Discount
-
-ODEON
-
-For students only
-
-Online
-
-Cinema
-
 Free Popcorn Snack Box
 
 KFC
@@ -261,30 +251,30 @@ Instore
 
 Takeaway & Fast Food
 
-Ends today
-Flash Offer: 25% off selected + Extra 6% off Treat of The Week
+Only on
 
-LOOKFANTASTIC
+10% Student Discount*
+
+Superdrug
 
 For students only
 
-Online
+Instore
 
 Beauty
 
-Featured discounts
-The discounts you won’t want to miss
-10% Student Discount
+£10 Student Discount on your first ride
 
-musicMagpie
+Uber
 
 For students only
 
 Online
 
-Tech & Mobile
+Travel
 
-Sponsored
+Featured discounts
+The discounts you won’t want to miss
 
 Only on
 
@@ -297,6 +287,30 @@ For students only
 Online
 
 Cinema
+
+Sponsored
+
+15% Student Discount
+
+adidas
+
+For students only
+
+Online
+
+Activewear
+
+Sponsored
+
+15% Student Discount
+
+FitFlop
+
+For students only
+
+Online
+
+Fashion
 
 Sponsored
 
@@ -312,47 +326,21 @@ Lingerie & Underwear
 
 Sponsored
 
-Disney+ for £3.99/month for 4 months on Standard with Ads
+10% Student Discount
 
-Disney+
-
-For students only
-
-Online
-
-Entertainment
-
-Sponsored
-
-15% Student Discount
-
-MANSCAPED
+The Body Shop
 
 For students only
 
 Online
 
-Health & Fitness
+Beauty
 
 Sponsored
 
 20% Student Discount
 
 Aspinal of London
-
-For students only
-
-Online
-
-Fashion
-
-Sponsored
-
-Only on
-
-15% Student Discount
-
-Dore & Rose
 
 For students only
 
@@ -374,27 +362,29 @@ Entertainment
 
 Sponsored
 
+10% Student Discount
+
+musicMagpie
+
+For students only
+
+Online
+
+Tech & Mobile
+
+Sponsored
+
+Only on
+
 15% Student Discount
 
-FitFlop
+Dore & Rose
 
 For students only
 
 Online
 
 Fashion
-
-Sponsored
-
-10% Student Discount
-
-The Body Shop
-
-For students only
-
-Online
-
-Beauty
 
 Sponsored
 
@@ -411,15 +401,17 @@ Online
 
 Internet Broadband
 
+Only on
+
 15% Student Discount
 
-adidas
+Dore & Rose
 
 For students only
 
 Online
 
-Activewear
+Fashion
 
 Sponsored
 
@@ -452,17 +444,6 @@ Ends in 12 days
 Up to £80 on selected Stylers
 
 Shark
-
-For students only
-
-Online
-
-Beauty
-
-Ends today
-Flash Offer: 25% off selected + Extra 6% off Treat of The Week
-
-LOOKFANTASTIC
 
 For students only
 
@@ -1092,7 +1073,6 @@ Online
 
 Beauty
 
-Ends today
 Flash Offer: 25% off selected + Extra 6% off Treat of The Week
 
 LOOKFANTASTIC

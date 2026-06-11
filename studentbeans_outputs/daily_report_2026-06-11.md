@@ -6,7 +6,7 @@
 - 首页
   Amazon：Your fave shows w/ 6 months FREE Discover deals
   Standard with Ads Disney+：Disney+ for £3.99/month for 4 months on
-  Audible：£0.99/month for the first 3 months
+  ODEON：Only on 20% Student Discount
   ASOS：10% Student Discount
   PrettyLittleThing：At least 20% off everything + Extra 12% Student Discount
   FlixBus：20% Student Discount
@@ -20,15 +20,14 @@
   6 months PureGym：Ends in 10 days Up to 30% off
   adidas：15% Student Discount
   TrainPal：Up to 10% off train fares
-  ODEON：Only on 20% Student Discount
-  of The Week LOOKFANTASTIC：Ends today Flash Offer: 25% off selected + Extra 6% off Treat
-  musicMagpie：10% Student Discount
-  Bluebella：15% Student Discount
-  MANSCAPED：15% Student Discount
-  Aspinal of London：20% Student Discount
-  Dore & Rose：Only on 15% Student Discount
+  Uber：£10 Student Discount on your first ride
   FitFlop：15% Student Discount
+  Bluebella：15% Student Discount
   The Body Shop：10% Student Discount
+  Aspinal of London：20% Student Discount
+  Audible：£0.99/month for the first 3 months
+  musicMagpie：10% Student Discount
+  Dore & Rose：Only on 15% Student Discount
   O2 SIM Virgin Media：Ends in 20 days £60.99 M500 Sport HD + Netflix +
   Princess Polly：Ends in 3 days Was 15% Student Discount 25% Student Discount
   on selected Stylers Shark：Ends in 12 days Up to £80
@@ -72,6 +71,7 @@
   Madame Tussauds：Student Tickets from £15
   Gravity：15% Student Discount
   Gymshark：12% Student Discount
+  of The Week LOOKFANTASTIC：Flash Offer: 25% off selected + Extra 6% off Treat
   Boots：10% Student Discount
   New Look：10% Student Discount
   Dryrobe：15% Student Discount
@@ -95,31 +95,31 @@
 - Trains
   TrainPal：Up to 10% off train fares
   Trainline：15% off the 16-25 Railcard
-  TrainPal：Student Exclusive: 23% OFF Railcard
-  Railcard：15% off the 16-25 Railcard
-  Railcard：Student Exclusive: 23% OFF Railcard
   TrainPal：5% Off Trains for New Customer & 2% Off for Existing Customer
-  Trainline：15% off the 26-30 Railcard
+  Railcard：15% off the 16-25 Railcard
+  TrainPal：Student Exclusive: 23% OFF Railcard
   Trip.com：Ends in 19 days 15% off on UK Trains
+  Trainline：15% off the 26-30 Railcard
+  Railcard：Student Exclusive: 23% OFF Railcard
   Railcard：15% off the 26-30 Railcard
-  Trainline：15% off the 16-17 Saver
   Trip.com：2% Off UK trains for existing users
-  TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard
-  Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard
+  Trainline：15% off the 16-17 Saver
   Klook：18% Student Discount
+  Uber：£5 off your First Train Ride with Uber
 - Coaches
   National Express：Up to 20% Student Discount
   Trainline：15% off the 16-25 Railcard
   Trainline：15% off the 26-30 Railcard
   Railcard：15% off the 16-25 Railcard
   Railcard：15% off the 26-30 Railcard
-  Flibco：10% Student Discount
-  Trainline：15% off the 16-17 Saver
   Trip.com：2% Off UK trains for existing users
+  Trainline：15% off the 16-17 Saver
+  Flibco：10% Student Discount
   Klook：18% Student Discount
-  Car Hire Avis：Ends in 14 days Up to 20% off
+  Avis：Ends in 14 days Save up to 20% in the Early Summer Sale
   Uber：£10 off your First Uber for Teens Ride
-  a limited time Avis：Enjoy 15% off car hire (instead of 5%) for
+  Trip.com：20% off Railcard for new users
+  Railcard：20% off Railcard for new users
 
 2. 竞品offer监控
 
@@ -166,8 +166,8 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：FlixBus：20% Student Discount；National Express：Up to 20% Student Discount；Trainline：15% off the 16-17 Saver；Trainline：15% off the 16-25 Railcard；Trainline：15% off the 26-30 Railcard；Car Hire Avis：Ends in 14 days Up to 20% off；a limited time Avis：Enjoy 15% off car hire (instead of 5%) for；Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；Trip.com：Ends in 19 days 15% off on UK Trains
-• 下线 Offer：Avis：Ends in 15 days Save up to 20% in the Early Summer Sale；Railcard：20% off Railcard for new users；Trip.com：20% off Railcard for new users；Trip.com：Ends in 20 days 15% off on UK Trains；Uber：£5 off your First Train Ride with Uber；Hotels.com：Ends tomorrow 12% Student Discount；& Accessories Mainline Menswear：Ends in 11 days 15% Off Full Priced HUGO & BOSS Clothing, Footwear；1000s of Styles ASOS：Ends today 20% off；6 months PureGym：Ends in 11 days Up to 30% off；Alton Towers Resort：Ends in 20 days Student tickets from £21 for June only
+• 新增 Offer：FlixBus：20% Student Discount；National Express：Up to 20% Student Discount；Trainline：15% off the 16-17 Saver；Trainline：15% off the 16-25 Railcard；Trainline：15% off the 26-30 Railcard；Avis：Ends in 14 days Save up to 20% in the Early Summer Sale；Trip.com：Ends in 19 days 15% off on UK Trains；Hotels.com：Ends today 12% Student Discount；6 months PureGym：Ends in 10 days Up to 30% off；Alton Towers Resort：Ends in 19 days Student tickets from £21 for June only
+• 下线 Offer：Avis：Ends in 15 days Save up to 20% in the Early Summer Sale；Trip.com：Ends in 20 days 15% off on UK Trains；Hotels.com：Ends tomorrow 12% Student Discount；& Accessories Mainline Menswear：Ends in 11 days 15% Off Full Priced HUGO & BOSS Clothing, Footwear；1000s of Styles ASOS：Ends today 20% off；6 months PureGym：Ends in 11 days Up to 30% off；Alton Towers Resort：Ends in 20 days Student tickets from £21 for June only；Broadband Packages Virgin Media：Only on Ends today Free £15 Gift Card with；Casetify：15% Off Student Discount；Chessington World of Adventures：Ends in 20 days Student tickets from £21 for June only
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 
