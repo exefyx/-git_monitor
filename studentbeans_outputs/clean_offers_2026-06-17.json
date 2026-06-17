@@ -13,9 +13,9 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Your faves w/ 6 months FREE",
-    "brand": "Audible",
-    "offer": "£0.99/month for the first 3 months Audible",
-    "product_type": "Other"
+    "brand": "Viator",
+    "offer": "12% Student Discount Viator, A Tripadvisor Company",
+    "product_type": "Tours & Tickets"
   },
   {
     "date": "2026-06-17",
@@ -31,8 +31,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Don’t miss these trending student deals",
-    "brand": "period Gousto",
-    "offer": "55% Student Discount on your first box 30% off next 3 boxes + 10% off for the rest of the 12 month discount",
+    "brand": "COS",
+    "offer": "Ends in 6 days Was 15% Student Discount 20% Student Discount",
     "product_type": "Other"
   },
   {
@@ -103,15 +103,6 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Don’t miss these trending student deals",
-    "brand": "Selected LOOKFANTASTIC",
-    "offer": "Ends today 22% Student Discount off",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-17",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "Don’t miss these trending student deals",
     "brand": "Online SHEIN",
     "offer": "15% Student Discount",
     "product_type": "Other"
@@ -174,26 +165,17 @@
     "date": "2026-06-17",
     "source_type": "页面",
     "page": "首页",
-    "section": "The discounts you won’t want to miss",
-    "brand": "Cutter & Squidge",
-    "offer": "Only on 15% Student Discount",
-    "product_type": "Other"
+    "section": "Don’t miss these trending student deals",
+    "brand": "Alton Towers Resort",
+    "offer": "Ends in 13 days Student tickets from £21 for June only",
+    "product_type": "Tours & Tickets"
   },
   {
     "date": "2026-06-17",
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "on Apparel On",
-    "offer": "Up to 40% off sale + Extra 10% Student Discount",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-17",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
-    "brand": "musicMagpie",
+    "brand": "The Body Shop",
     "offer": "10% Student Discount",
     "product_type": "Other"
   },
@@ -202,8 +184,26 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "Audible",
-    "offer": "Ends in 28 days £0.99/month for the first 3 months",
+    "brand": "period Gousto",
+    "offer": "55% Student Discount on your first box 30% off next 3 boxes + 10% off for the rest of the 12 month discount",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-17",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "The discounts you won’t want to miss",
+    "brand": "Gazelles & Sambas adidas",
+    "offer": "15% Student Discount on",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-17",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "The discounts you won’t want to miss",
+    "brand": "Cutter & Squidge",
+    "offer": "Only on 15% Student Discount",
     "product_type": "Other"
   },
   {
@@ -220,15 +220,6 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "The Body Shop",
-    "offer": "10% Student Discount",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-17",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
     "brand": "Farmeci",
     "offer": "Only on 10% Student Discount",
     "product_type": "Other"
@@ -238,8 +229,17 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "ExpressVPN",
-    "offer": "Up to 75% off the Pro Package + 4 months Free",
+    "brand": "Audible",
+    "offer": "Ends in 28 days £0.99/month for the first 3 months",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-17",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "The discounts you won’t want to miss",
+    "brand": "on Apparel On",
+    "offer": "Up to 40% off sale + Extra 10% Student Discount",
     "product_type": "Other"
   },
   {
@@ -255,18 +255,9 @@
     "date": "2026-06-17",
     "source_type": "页面",
     "page": "首页",
-    "section": "The discounts you won’t want to miss",
-    "brand": "Prime for Young Adults",
-    "offer": "Ends in 5 days Amazon Prime Day is coming: 6 months free for students",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-17",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "Up to 75% off the Pro Package + 4 months Free",
-    "brand": "Amazon Prime",
-    "offer": "Day is coming: 6 months free for students",
+    "section": "Find the latest and greatest drops every day",
+    "brand": "selected LOOKFANTASTIC",
+    "offer": "Ends tomorrow FLASH : 25% off",
     "product_type": "Other"
   },
   {
@@ -274,17 +265,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Find the latest and greatest drops every day",
-    "brand": "COS",
-    "offer": "Ends in 6 days Was 15% Student Discount 20% Student Discount",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-17",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "Find the latest and greatest drops every day",
-    "brand": "Casetify",
-    "offer": "15% Off Student Discount",
+    "brand": "sitewide Dyson",
+    "offer": "Ends in 4 days Extra 10% Student Discount",
     "product_type": "Other"
   },
   {
@@ -373,6 +355,15 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Find the latest and greatest drops every day",
+    "brand": "is now open ARKET",
+    "offer": "Up to 50% off SALE",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-17",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "Find the latest and greatest drops every day",
     "brand": "on Dolce&Gabbana Sunglass Hut",
     "offer": "Ends in 5 days Was 20% Student Discount on Dolce&Gabbana 25% Student Discount",
     "product_type": "Other"
@@ -403,24 +394,6 @@
     "brand": "TrainPal",
     "offer": "Ends tomorrow Up to £10 off with 2+ Train Ticket on TrainPal App",
     "product_type": "UK & Europe Train Tickets"
-  },
-  {
-    "date": "2026-06-17",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "Find the latest and greatest drops every day",
-    "brand": "Nobody's Child John Lewis",
-    "offer": "Ends in 6 days 30% off",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-17",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "Find the latest and greatest drops every day",
-    "brand": "Xiaomi 17T Series Xiaomi",
-    "offer": "Ends in 13 days 12% off",
-    "product_type": "Other"
   },
   {
     "date": "2026-06-17",
@@ -472,15 +445,6 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Gifts he'll rate & prices you’ll love.",
-    "brand": "Alton Towers Resort",
-    "offer": "Ends in 13 days Student tickets from £21 for June only",
-    "product_type": "Tours & Tickets"
-  },
-  {
-    "date": "2026-06-17",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "Gifts he'll rate & prices you’ll love.",
     "brand": "schuh",
     "offer": "10% Student Discount",
     "product_type": "Other"
@@ -510,6 +474,15 @@
     "section": "Gifts he'll rate & prices you’ll love.",
     "brand": "Boots",
     "offer": "10% Student Discount",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-17",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "Buy a new iPad Pro with education savings",
+    "brand": "Amazon Prime",
+    "offer": "Day is coming: 6 months free for students",
     "product_type": "Other"
   },
   {
@@ -904,9 +877,9 @@
     "source_type": "页面",
     "page": "Trains",
     "section": "Student Exclusive: 23% OFF Railcard",
-    "brand": "Trip.com",
-    "offer": "Ends in 13 days 15% off on UK Trains",
-    "product_type": "UK & Europe Train Tickets"
+    "brand": "Trainline",
+    "offer": "15% off the 26-30 Railcard",
+    "product_type": "Railcard"
   },
   {
     "date": "2026-06-17",
@@ -914,7 +887,7 @@
     "page": "Trains",
     "section": "Student Exclusive: 23% OFF Railcard",
     "brand": "Trainline",
-    "offer": "15% off the 26-30 Railcard",
+    "offer": "15% off the 16-17 Saver",
     "product_type": "Railcard"
   },
   {
@@ -930,25 +903,16 @@
     "date": "2026-06-17",
     "source_type": "页面",
     "page": "Trains",
-    "section": "15% off on UK Trains",
-    "brand": "Trainline",
-    "offer": "15% off the 16-17 Saver",
-    "product_type": "Railcard"
-  },
-  {
-    "date": "2026-06-17",
-    "source_type": "页面",
-    "page": "Trains",
-    "section": "15% off on UK Trains",
+    "section": "15% off the 16-17 Saver",
     "brand": "Trip.com",
-    "offer": "2% Off UK trains for existing users",
+    "offer": "Ends in 13 days 15% off on UK Trains",
     "product_type": "UK & Europe Train Tickets"
   },
   {
     "date": "2026-06-17",
     "source_type": "页面",
     "page": "Trains",
-    "section": "15% off on UK Trains",
+    "section": "15% off the 16-17 Saver",
     "brand": "Uber",
     "offer": "£5 off your First Train Ride with Uber",
     "product_type": "UK & Europe Train Tickets"
@@ -957,7 +921,25 @@
     "date": "2026-06-17",
     "source_type": "页面",
     "page": "Trains",
-    "section": "£5 off your First Train Ride with Uber",
+    "section": "15% off the 16-17 Saver",
+    "brand": "TrainPal",
+    "offer": "23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard",
+    "product_type": "Railcard"
+  },
+  {
+    "date": "2026-06-17",
+    "source_type": "页面",
+    "page": "Trains",
+    "section": "15% off the 16-17 Saver",
+    "brand": "Railcard",
+    "offer": "23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard",
+    "product_type": "Railcard"
+  },
+  {
+    "date": "2026-06-17",
+    "source_type": "页面",
+    "page": "Trains",
+    "section": "15% off on UK Trains",
     "brand": "Klook",
     "offer": "18% Student Discount",
     "product_type": "Tours & Tickets"
@@ -1030,15 +1012,6 @@
     "source_type": "页面",
     "page": "Coaches",
     "section": "15% off the 26-30 Railcard",
-    "brand": "Trip.com",
-    "offer": "2% Off UK trains for existing users",
-    "product_type": "UK & Europe Train Tickets"
-  },
-  {
-    "date": "2026-06-17",
-    "source_type": "页面",
-    "page": "Coaches",
-    "section": "2% Off UK trains for existing users",
     "brand": "Klook",
     "offer": "18% Student Discount",
     "product_type": "Tours & Tickets"
@@ -1047,7 +1020,16 @@
     "date": "2026-06-17",
     "source_type": "页面",
     "page": "Coaches",
-    "section": "2% Off UK trains for existing users",
+    "section": "18% Student Discount",
+    "brand": "Trip.com",
+    "offer": "2% Off UK trains for existing users",
+    "product_type": "UK & Europe Train Tickets"
+  },
+  {
+    "date": "2026-06-17",
+    "source_type": "页面",
+    "page": "Coaches",
+    "section": "18% Student Discount",
     "brand": "Uber",
     "offer": "£10 off your First Uber for Teens Ride",
     "product_type": "Other"
@@ -1056,7 +1038,7 @@
     "date": "2026-06-17",
     "source_type": "页面",
     "page": "Coaches",
-    "section": "2% Off UK trains for existing users",
+    "section": "18% Student Discount",
     "brand": "a limited time Avis",
     "offer": "Enjoy 15% off car hire (instead of 5%) for",
     "product_type": "Car Rental"
@@ -1066,9 +1048,18 @@
     "source_type": "页面",
     "page": "Coaches",
     "section": "Enjoy 15% off car hire (instead of 5%) for a limited time",
-    "brand": "with Parking Purple Parking",
-    "offer": "14% off Airport Hotels",
-    "product_type": "Hotels / Accommodation"
+    "brand": "Trip.com",
+    "offer": "20% off Railcard for new users",
+    "product_type": "Railcard"
+  },
+  {
+    "date": "2026-06-17",
+    "source_type": "页面",
+    "page": "Coaches",
+    "section": "Enjoy 15% off car hire (instead of 5%) for a limited time",
+    "brand": "Railcard",
+    "offer": "20% off Railcard for new users",
+    "product_type": "Railcard"
   },
   {
     "date": "2026-06-17",
