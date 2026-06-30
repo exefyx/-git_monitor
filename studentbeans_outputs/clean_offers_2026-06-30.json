@@ -3,24 +3,6 @@
     "date": "2026-06-30",
     "source_type": "页面",
     "page": "首页",
-    "section": "20% Student Discount",
-    "brand": "Omio",
-    "offer": "10% Student Discount for New Customers Omio",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-30",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "Download the Student Beans app",
-    "brand": "Audible",
-    "offer": "£0.99/month for the first 3 months Audible",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-30",
-    "source_type": "页面",
-    "page": "首页",
     "section": "Don’t miss these trending student deals",
     "brand": "Spotlight Oral Care",
     "offer": "Only on 25% Student Discount",
@@ -31,9 +13,9 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Don’t miss these trending student deals",
-    "brand": "Voucher O2",
-    "offer": "Ends in 4 days 100GB/£12 12M SIMO + £20",
-    "product_type": "eSIM / SIM"
+    "brand": "exclusive EE Home Broadband",
+    "offer": "Only on Broadband from £27.99 a month -",
+    "product_type": "Other"
   },
   {
     "date": "2026-06-30",
@@ -193,15 +175,6 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "3 months BetterHelp",
-    "offer": "30% off",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-30",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
     "brand": "fashion Harvey Nichols",
     "offer": "Ends in 13 days 20% off",
     "product_type": "Other"
@@ -211,8 +184,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "Shokz",
-    "offer": "Ends today OpenDots ONE Now £149 + Extra 20% Off",
+    "brand": "VOXI Mobile",
+    "offer": "£10 for 80GB + Unlimited Data for Social Media & First month FREE",
     "product_type": "Other"
   },
   {
@@ -220,8 +193,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "exclusive EE Home Broadband",
-    "offer": "Only on Broadband from £27.99 a month -",
+    "brand": "3 months BetterHelp",
+    "offer": "30% off",
     "product_type": "Other"
   },
   {
@@ -229,8 +202,17 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "Audible",
-    "offer": "Ends in 15 days £0.99/month for the first 3 months",
+    "brand": "Austen & Blake",
+    "offer": "20% Student Discount",
+    "product_type": "Other"
+  },
+  {
+    "date": "2026-06-30",
+    "source_type": "页面",
+    "page": "首页",
+    "section": "The discounts you won’t want to miss",
+    "brand": "The Body Shop",
+    "offer": "10% Student Discount",
     "product_type": "Other"
   },
   {
@@ -256,8 +238,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "Under Armour",
-    "offer": "Ends in 5 days Up to 50% off + Extra 20% Student Discount",
+    "brand": "adidas",
+    "offer": "Ends in 20 days Up to 30% off + Extra 10% Student Discount",
     "product_type": "Other"
   },
   {
@@ -265,17 +247,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "The discounts you won’t want to miss",
-    "brand": "Austen & Blake",
-    "offer": "20% Student Discount",
-    "product_type": "Other"
-  },
-  {
-    "date": "2026-06-30",
-    "source_type": "页面",
-    "page": "首页",
-    "section": "The discounts you won’t want to miss",
-    "brand": "selected Windows Laptops Currys",
-    "offer": "Ends today £100 off on",
+    "brand": "Omio",
+    "offer": "Ends in 8 days Was 7% Student Discount for New Customers 10% Student Discount for New Customers",
     "product_type": "Other"
   },
   {
@@ -292,8 +265,8 @@
     "source_type": "页面",
     "page": "首页",
     "section": "Find the latest and greatest drops every day",
-    "brand": "Omio",
-    "offer": "Ends in 8 days Was 7% Student Discount for New Customers 10% Student Discount for New Customers",
+    "brand": "Crocs",
+    "offer": "Up to 50% off + Extra 10% Student Discount",
     "product_type": "Other"
   },
   {
@@ -1012,18 +985,18 @@
     "source_type": "页面",
     "page": "Trains",
     "section": "15% off on UK Trains",
-    "brand": "Trip.com",
-    "offer": "2% Off UK trains for existing users",
-    "product_type": "UK & Europe Train Tickets"
+    "brand": "Trainline",
+    "offer": "15% off the 16-17 Saver",
+    "product_type": "Railcard"
   },
   {
     "date": "2026-06-30",
     "source_type": "页面",
     "page": "Trains",
     "section": "15% off on UK Trains",
-    "brand": "Trainline",
-    "offer": "15% off the 16-17 Saver",
-    "product_type": "Railcard"
+    "brand": "Trip.com",
+    "offer": "2% Off UK trains for existing users",
+    "product_type": "UK & Europe Train Tickets"
   },
   {
     "date": "2026-06-30",
@@ -1229,6 +1202,15 @@
     "page": "Trip.com",
     "section": "",
     "brand": "Trip.com",
+    "offer": "6% Off Disneyland, Universal Studios, Sagrada Familia",
+    "product_type": "Tours & Tickets"
+  },
+  {
+    "date": "2026-06-30",
+    "source_type": "品牌页",
+    "page": "Trip.com",
+    "section": "",
+    "brand": "Trip.com",
     "offer": "5% Off UK trains for new users",
     "product_type": "UK & Europe Train Tickets"
   },
@@ -1249,15 +1231,6 @@
     "brand": "Trip.com",
     "offer": "£4 UK Train for New User",
     "product_type": "UK & Europe Train Tickets"
-  },
-  {
-    "date": "2026-06-30",
-    "source_type": "品牌页",
-    "page": "Trip.com",
-    "section": "",
-    "brand": "Trip.com",
-    "offer": "6% Off Disneyland, Universal Studios, Sagrada Familia",
-    "product_type": "Tours & Tickets"
   },
   {
     "date": "2026-06-30",

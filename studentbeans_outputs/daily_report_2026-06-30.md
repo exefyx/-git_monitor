@@ -4,10 +4,8 @@
 
 1. 页面offer
 - 首页
-  Omio：10% Student Discount for New Customers Omio
-  Audible：£0.99/month for the first 3 months Audible
   Spotlight Oral Care：Only on 25% Student Discount
-  Voucher O2：Ends in 4 days 100GB/£12 12M SIMO + £20
+  exclusive EE Home Broadband：Only on Broadband from £27.99 a month -
   ASOS：Up to 60% off + Extra 10% Student Discount
   Gymshark：Was 12% Student Discount Up to 50% off sitewide + extra 22% Student Discount
   MOV Deliveroo：Ends in 19 days £15 off £20
@@ -25,18 +23,17 @@
   + Beauty Bag Sephora：15% Student Discount
   TrainPal：Up to 10% off train fares
   Domino's Pizza：Buy One Get One Free
-  3 months BetterHelp：30% off
   fashion Harvey Nichols：Ends in 13 days 20% off
-  Shokz：Ends today OpenDots ONE Now £149 + Extra 20% Off
-  exclusive EE Home Broadband：Only on Broadband from £27.99 a month -
-  Audible：Ends in 15 days £0.99/month for the first 3 months
+  VOXI Mobile：£10 for 80GB + Unlimited Data for Social Media & First month FREE
+  3 months BetterHelp：30% off
+  Austen & Blake：20% Student Discount
+  The Body Shop：10% Student Discount
   Hostelworld：7% Student Discount
   Sexual Health Treatment Medexpress：30% off your first order on Medexpress
-  Under Armour：Ends in 5 days Up to 50% off + Extra 20% Student Discount
-  Austen & Blake：20% Student Discount
-  selected Windows Laptops Currys：Ends today £100 off on
-  Urban Outfitters：Ends today Extra 20% off Summer Sale
+  adidas：Ends in 20 days Up to 30% off + Extra 10% Student Discount
   Omio：Ends in 8 days Was 7% Student Discount for New Customers 10% Student Discount for New Customers
+  Urban Outfitters：Ends today Extra 20% off Summer Sale
+  Crocs：Up to 50% off + Extra 10% Student Discount
   Disney+：3 months FREE on a year of Disney+ Standard just £89.99 & stream ad-free
   LOOKFANTASTIC：Ends in 4 days Up to 30% off selected + Extra 7% off
   Harvey Nichols：10% Student Discount
@@ -118,8 +115,8 @@
   Trip.com：Ends today 15% off on UK Trains
   Trainline：15% off the 26-30 Railcard
   Railcard：15% off the 26-30 Railcard
-  Trip.com：2% Off UK trains for existing users
   Trainline：15% off the 16-17 Saver
+  Trip.com：2% Off UK trains for existing users
   TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard
   Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard
   Klook：18% Student Discount
@@ -183,8 +180,8 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；Trip.com：Ends today 15% off on UK Trains；loveholidays：Up to £600 off selected holidays + £50 Student Discount；+ Beauty Bag Sephora：15% Student Discount；- London THE CUBE：Only on 20% Student Discount at THE CUBE；3 months BetterHelp：30% off；After-Party Epsom Downs Racecourse：50% Student Discount on Summer Afternoon Racing with Ellie Sax；Audible：Ends in 15 days £0.99/month for the first 3 months；Audible：£0.99/month for the first 3 months Audible
-• 下线 Offer：Trip.com：Ends tomorrow 15% off on UK Trains；Trip.com：£4 UK Train for New User；Veygo：Ends in 13 days 20% Student Discount；Alton Towers Resort：Ends tomorrow Student tickets from £21 for June only；Chessington World of Adventures：Ends in 28 days Twice the Fun from £26 - visit two theme parks for the price of one；Chessington World of Adventures：Ends tomorrow Student tickets from £21 for June only；Crocs：Up to 50% off + Extra 10% Student Discount；FreePhase Single Fuel EDF：£25 Gift Card -；Full Price Ego：Ends tomorrow 30% off；Full-size Gifts Charlotte Tilbury：Ends in 21 days Up to 50% Off Iconic Beauty Kits + Free
+• 新增 Offer：Railcard：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；TrainPal：23% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard；Trip.com：Ends today 15% off on UK Trains；loveholidays：Up to £600 off selected holidays + £50 Student Discount；+ Beauty Bag Sephora：15% Student Discount；- London THE CUBE：Only on 20% Student Discount at THE CUBE；3 months BetterHelp：30% off；After-Party Epsom Downs Racecourse：50% Student Discount on Summer Afternoon Racing with Ellie Sax；Austen & Blake：20% Student Discount；Disney+：3 months FREE on a year of Disney+ Standard just £89.99 & stream ad-free
+• 下线 Offer：Trip.com：Ends tomorrow 15% off on UK Trains；Trip.com：£4 UK Train for New User；Veygo：Ends in 13 days 20% Student Discount；Alton Towers Resort：Ends tomorrow Student tickets from £21 for June only；Chessington World of Adventures：Ends in 28 days Twice the Fun from £26 - visit two theme parks for the price of one；Chessington World of Adventures：Ends tomorrow Student tickets from £21 for June only；FreePhase Single Fuel EDF：£25 Gift Card -；Full Price Ego：Ends tomorrow 30% off；Full-size Gifts Charlotte Tilbury：Ends in 21 days Up to 50% Off Iconic Beauty Kits + Free；Gymshark：Ends today Was 12% Student Discount Up to 50% off sitewide + extra 22% Student Discount
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 
@@ -196,10 +193,10 @@
   2% Off UK trains for existing users
   20% off Railcard for new users
   5% Off Tours and Tickets
+  6% Off Disneyland, Universal Studios, Sagrada Familia
   5% Off UK trains for new users
   10% Off eSim
   £4 UK Train for New User
-  6% Off Disneyland, Universal Studios, Sagrada Familia
   £8 off for New Users on Railcards
   10% off Railcard for existing users
   10% Off Car Rental
