@@ -5,8 +5,9 @@
 1. 页面offer
 - 首页
   Amazon：World Cup Fever, & The Odyssey Discover deals Win 1 of 2 £50 ODEON gift cards Enter now Download the Student Beans app Discover More
+  Hotels.com：10% Student Discount Hotels.com
   ASOS：Up to 60% off + Extra 10% Student Discount
-  ODEON：Only on 20% Student Discount
+  Braun：£15 off all products including sale
   Superdrug：Only on 10% Student Discount
   PrettyLittleThing：33% Student Discount
   FlixBus：20% Student Discount
@@ -17,23 +18,22 @@
   National Express：Up to 20% Student Discount
   Sephora：15% Student Discount
   adidas：15% Student Discount
+  ODEON：Only on 20% Student Discount
   total basket Popeyes：20% off
   boohoo：Up to 60% off summer styles + Extra 20% Student Discount
   Pizzas Papa Johns：Was 35% Student Discount off Pizzas 50% Student Discount off
-  Online SHEIN：15% Student Discount
+  Ray-Ban：20% Student Discount
+  Topshop：Extra 5% Student Discount on sale
+  Fused：£75 cashback
+  Euro Car Parts：6% Student Discount
+  Thrivin：Big Summer Sale: Up to 80% off the entire store + 12% Student Discount
   Aspinal of London：20% Student Discount
   Event Pokémon Night Out：30% off Pokémon Night Out Live Music
-  Braun：£15 off all products including sale
-  Thrivin：Big Summer Sale: Up to 80% off the entire store + 12% Student Discount
-  full price items ECCO：Only on 15% off on
-  musicMagpie：10% Student Discount
   Hotels.com：10% Student Discount
-  Audible：Ends in 2 days £0.99/month for the first 3 months
-  Fused：£75 cashback
   Viator, A Tripadvisor Company：Ends in 13 days 12% Student Discount
   final feast snacks Deliveroo：Ends in 6 days Over 50% off
   selected LOOKFANTASTIC：Ends tomorrow 25% off
-  Styles ASOS：Ends today Up to 30% off 1000s Sale
+  Styles ASOS：Up to 30% off 1000s Sale
   April 2027) Virgin Media：M125 student broadband from £26.99 a month (£30 from
   The Fragrance Shop：Ends in 3 days Up to 30% Off* Gift Sets + Extra 15% Student Discount
   every Dryrobe® Advance Dryrobe：Free travel bag worth £35 with
@@ -68,7 +68,6 @@
   Domino's Pizza：Pizza From Only £10
   shipping Amazon Haul：10% off orders over £30 + Free
   Goals：20% Student Discount
-  Ray-Ban：20% Student Discount
   BIRKENSTOCK：10% Student Discount
   on Swimwear Boux Avenue：20% Student Discount
   Havaianas：15% Student Discount
@@ -92,12 +91,13 @@
   Veygo：15% Student Discount
   Expedia：Up to 35% off & Extra 10% Student Discount
   Jet2holidays：£50 Student Discount
-  Veygo：20% Student Discount
   Hostelworld：7% Student Discount
+  Trainline：15% off the 16-25 Railcard
+  Railcard：15% off the 16-25 Railcard
 - Trains
   TrainPal：Up to 10% off train fares
   Trainline：15% off the 16-25 Railcard
-  Trip.com：20% off UK train tickets
+  Trip.com：15% off on UK Trains
   Railcard：15% off the 16-25 Railcard
   TrainPal：20% Off UK Railcard for New Customer & 10% Off for Existing Customer UK Railcard
   Trainline：15% off the 26-30 Railcard
@@ -165,8 +165,8 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：Trip.com：15% off on UK Trains；Avis：Ends tomorrow Up to 20% in our Early Summer Sale；a limited time Avis：Ends in 18 days Enjoy 15% off car hire (instead of 5%) for；Klook：18% Student Discount；Trip.com：20% off UK train tickets；Bolt：45% Student Discount；Veygo：15% Student Discount；Veygo：20% Student Discount；& Accessories Mainline Menswear：Ends in 13 days 10% off All BOSS & HUGO Clothing, Footwear；Amazon：World Cup Fever, & The Odyssey Discover deals Win 1 of 2 £50 ODEON gift cards Enter now Download the Student Beans app Discover More
-• 下线 Offer：Railcard：10% off Railcard for existing users；Trip.com：10% off Railcard for existing users；with Parking Purple Parking：14% off Airport Hotels；Trip.com：2% Off UK trains for existing users；Trip.com：Ends today 20% off UK train tickets；Hotels.com：10% Student Discount；Railcard：15% off the 16-25 Railcard；TrainPal：£4 off for New Customers & 2% off for Existing Customers on UK Train Tickets；Trainline：15% off the 16-25 Railcard；& Accessories Mainline Menswear：Ends in 14 days 10% off All BOSS & HUGO Clothing, Footwear
+• 新增 Offer：Trip.com：15% off on UK Trains；Avis：Ends tomorrow Up to 20% in our Early Summer Sale；a limited time Avis：Ends in 18 days Enjoy 15% off car hire (instead of 5%) for；Klook：18% Student Discount；Trip.com：15% off on UK Trains；Bolt：45% Student Discount；Veygo：15% Student Discount；& Accessories Mainline Menswear：Ends in 13 days 10% off All BOSS & HUGO Clothing, Footwear；Amazon：World Cup Fever, & The Odyssey Discover deals Win 1 of 2 £50 ODEON gift cards Enter now Download the Student Beans app Discover More；Braun：£15 off all products including sale
+• 下线 Offer：Railcard：10% off Railcard for existing users；Trip.com：10% off Railcard for existing users；with Parking Purple Parking：14% off Airport Hotels；Trip.com：2% Off UK trains for existing users；Trip.com：Ends today 20% off UK train tickets；Hotels.com：10% Student Discount；TrainPal：£4 off for New Customers & 2% off for Existing Customers on UK Train Tickets；& Accessories Mainline Menswear：Ends in 14 days 10% off All BOSS & HUGO Clothing, Footwear；3 months BetterHelp：30% off；Audible：3 Months Audible for FREE
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 

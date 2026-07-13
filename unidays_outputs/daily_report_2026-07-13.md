@@ -4,34 +4,32 @@
 
 1. 页面offer
 - Travel & Entertainment
-  TrainPal：Summer Savings: 15% off trains for new customers 🚆 Travel for less this summer and get 15% off train travel if you're a new TrainPal customer ☀️🚝 Get now
-  Macdonald Hotel & Resorts：20% off stays with Macdonald Hotel & Resorts 🌿 From relaxing spa breaks in Bath to vibrant Manchester city stays and Lake District escapes. Get now
+  Hostelworld：Get 7% off the World's Best Hostels ☀️🌍 From 16,500 hostels in 180 countries. Book with Hostelworld and experience the best of travel. Get now
   Trip.com：New to Trip.com? Save 5% on UK trains now. Save on your first UK train booking with Trip.com. Get now
-  TrainPal：Summer Savings: 15% off trains for new customers 🚆
-  Macdonald Hotel & Resorts：20% off stays with Macdonald Hotel & Resorts 🌿
+  Hostelworld：Get 7% off the World's Best Hostels ☀️🌍
   Trip.com：New to Trip.com? Save 5% on UK trains now.
   From watch parties to bike rides：save 7% on cycling, motoring and outdoor essentials.
   Trip.com：Save on your first UK train booking with Trip.com.
-  TrainPal：Travel for less this summer and get 15% off train travel if you're a new TrainPal customer ☀️🚝
-  Trip.com：15% Off Trains For New Trip.com Customers 🚆 The Trip.com Summer Sale is here! Travel for less this summer and get 15% off as a new user. Get now
-  Trip.com：15% Off Trains For New Trip.com Customers 🚆
-  Trip.com：The Trip.com Summer Sale is here! Travel for less this summer and get 15% off as a new user.
   Expedia：Save up to 35% + Extra 12% Off Hotel Bookings
-  GO Outdoors：10% Student Discount
+  Holiday Extras：Up to 40% Off Airport Parking
+  Opodo：Save up to £100s on flights, hotels & car rental
+  Alton Towers Resort：Up to 10% off short breaks at Alton Towers!
   Hotels.com：Save up to 35% + Extra 10% off
-  Klook：Up to 50% Off with Stay+
-  Holafly：Unlimited global data + 12% off Holafly’s 12-Month eSIM Plans
-  Budget Rent a Car：Score up to 10% off Budget USA & Canada summer '26 car hire
-  Halfords：Save up to £30.99 on Electric and Hybrid car servicing
-  Europcar：Save up to 20% on Italy Car Rentals
-  Virgin Atlantic：Up to £60 Off Flights
   Go City：5% Off New York Pass
+  Halfords：Save up to £30.99 on Electric and Hybrid car servicing
+  Virgin Atlantic：£30 Off Selected Manchester Routes
+  Virgin Atlantic：£30 Off Selected Manchester Routes 14 days
+  Budget Rent a Car：Score up to 10% off Budget USA & Canada summer '26 car hire
+  Klook：Up to 50% Off with Stay+
+  Qatar Airways：Fly to Formula 1® & save up to 12%*
+  Qatar Airways：Fly to Formula 1® & save up to 12%* Exclusive
   Virgin Experience Days：20% Off Gifts for Couples
-  Blackpool Tower Eye：Student Tickets from £14
-  Cineworld：2 Tickets for £13
-  Merlin Annual Pass：Ultimate annual passport from £99
+  Team Sport：15% Discount
   Warwick Castle：Up to 20% Off short breaks at Warwick Castle!
+  Blackpool Tower Eye：Student Tickets from £14
+  Merlin Annual Pass：Ultimate annual passport from £99
   Cineworld：25% Off Unlimited Card
+  Cineworld：2 Tickets for £13
   Love to Visit：Extra 5% Off
   Manchester City Football Club：Manchester City Stadium Tours From £18
   Apple Music：Get 1 month free
@@ -52,12 +50,14 @@
   Uber Rides：£10 Off your first ride with Uber
   Uber Rides：£5 Off your first UberXL trip
   Uber Rides：£5 Off on First Train Ticket with Uber
+  Virgin Atlantic：£30 Off Selected Manchester Routes
   Budget Rent a Car：Score up to 10% off Budget USA & Canada summer '26 car hire
   Trip.com：15% Off Trains For New Customers
-  Trip.com：Up to 25% Off Trains For New Customers
+  Virgin Atlantic：£30 Off Selected Manchester Routes 14 days
   Europcar：Save up to 20% on Italy Car Rentals
   Klook：Up to 50% Off with Stay+
   TrainPal：Up to £10 off when you buy 2+ train tickets
+  TrainPal：Up to £10 off when you buy 2+ train tickets 6 days
   TrainPal：15% off trains for new customers
   P&O Ferries：Amsterdam Mini Cruise from £75pp
   RAC：Up to 40% Off RAC Breakdown Cover!*
@@ -77,8 +77,8 @@
 
 2.1 分产品监控情况
 - UK & Europe Train Tickets
-  TrainPal：15% off trains for new customers；Up to £10 off when you buy 2+ train tickets；£4 Off UK Train Tickets for New Customers；Up to 5% off train tickets for the UK and the EU
-  竞品重点：Trip.com：Up to 25% Off Trains For New Customers；Trip.com：15% Off Trains For New Customers；Trip.com：5% off UK trains for new users；Omio：5% Off Trains；Trip.com：2% Off UK trains for existing users
+  TrainPal：Up to 5% off train tickets for the UK and the EU；Up to £10 off when you buy 2+ train tickets；£4 Off UK Train Tickets for New Customers；15% off trains for new customers
+  竞品重点：Trip.com：15% Off Trains For New Customers；Trip.com：5% off UK trains for new users；Omio：5% Off Trains；Trip.com：2% Off UK trains for existing users
   关注点：已覆盖 TrainPal 对应产品，需持续跟踪竞品折扣变化。
 - Japan Train / Japan Railway
   TrainPal：暂无
@@ -86,7 +86,7 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 - Railcard
   TrainPal：23% Off UK Railcards
-  竞品重点：Trainline：15% Off 16-17 Saver Railcard；Trainline：15% Off 26-30 Railcard；Trainline：15% Off 16-25 Railcard；Trip.com：10% off Railcard for existing users；Trip.com：£8 Off Railcards for New Users
+  竞品重点：Trainline：15% Off 16-17 Saver Railcard；Trainline：15% Off 16-25 Railcard；Trainline：15% Off 26-30 Railcard；Trip.com：10% off Railcard for existing users；Trip.com：£8 Off Railcards for New Users
   关注点：已覆盖 TrainPal 对应产品，需持续跟踪竞品折扣变化。
 - Bus / Coach
   TrainPal：暂无
@@ -118,42 +118,41 @@
   关注点：TrainPal 暂无对应产品 offer，需关注竞品覆盖情况。
 
 2.2 今日 vs 昨日对比
-• 新增 Offer：TrainPal：15% off trains for new customers 20 days；Trip.com：£8 Off Railcards for New Users 18 days；From watch parties to bike rides：save 7% on cycling, motoring and outdoor essentials.；Go City：5% Off New York Pass；Halfords：Save up to £30.99 on Electric and Hybrid car servicing；Holafly：Unlimited global data + 12% off Holafly’s 12-Month eSIM Plans；Hotels.com：Save up to 35% + Extra 10% off；Macdonald Hotel & Resorts：20% off stays with Macdonald Hotel & Resorts 🌿；Macdonald Hotel & Resorts：20% off stays with Macdonald Hotel & Resorts 🌿 From relaxing spa breaks in Bath to vibrant Manchester city stays and Lake District escapes. Get now；Merlin Annual Pass：Ultimate annual passport from £99
-• 下线 Offer：TrainPal：15% off trains for new customers 21 days；TrainPal：Up to £10 off when you buy 2+ train tickets 18 hours；Trip.com：Up to 25% Off Trains For New Customers 17 hours；Trip.com：£8 Off Railcards for New Users 19 days；Amazon：30 Day Free Trial；Amazon：Music Unlimited 30 Day Free Trial；Amazon Music Unlimited：30 Day Free Trial；Jet2holidays：£50 Off All Holidays；Join 80：000+ students on Swapfiets & get €25 off your first bike subscription.；National Express：Up to 20% Off Coach Bookings
+• 新增 Offer：TrainPal：15% off trains for new customers 20 days；TrainPal：Up to £10 off when you buy 2+ train tickets 6 days；Trip.com：£8 Off Railcards for New Users 18 days；Virgin Atlantic：£30 Off Selected Manchester Routes；Virgin Atlantic：£30 Off Selected Manchester Routes 14 days；Alton Towers Resort：Up to 10% off short breaks at Alton Towers!；From watch parties to bike rides：save 7% on cycling, motoring and outdoor essentials.；Go City：5% Off New York Pass；Halfords：Save up to £30.99 on Electric and Hybrid car servicing；Holiday Extras：Up to 40% Off Airport Parking
+• 下线 Offer：Trip.com：Up to 25% Off Trains For New Customers；TrainPal：15% off trains for new customers 21 days；TrainPal：Up to £10 off when you buy 2+ train tickets 18 hours；Trip.com：Up to 25% Off Trains For New Customers；Trip.com：Up to 25% Off Trains For New Customers 17 hours；Trip.com：£8 Off Railcards for New Users 19 days；Amazon：30 Day Free Trial；Amazon：Music Unlimited 30 Day Free Trial；Amazon Music Unlimited：30 Day Free Trial；Europcar：Save up to 20% on Italy Car Rentals
 • 折扣力度提升：需结合具体文案复核
 • 折扣力度下降：需结合具体文案复核
 
 2.3 竞品offer
 - Trip.com
-  Up to 25% Off Trains For New Customers
   15% Off Trains For New Customers
-  2% Off UK trains for existing users
-  6% off Japan Railway for new users
-  6% Off Selected Tours & Tickets
-  5% Off coaches for new users
-  10% Off Car Rental
-  10% off Railcard for existing users
   £8 Off Railcards for New Users
+  6% off Japan Railway for new users
+  10% Off Car Rental
+  5% Off coaches for new users
+  10% off Railcard for existing users
   5% off UK trains for new users
-  5% Off Tours and Tickets
-  Up to £50 Off Hotels
-  Up to £20 Off Flights
+  6% Off Selected Tours & Tickets
   10% Off eSIM
+  Up to £50 Off Hotels
+  5% Off Tours and Tickets
+  2% Off UK trains for existing users
+  Up to £20 Off Flights
 - Trainline
   15% Off 16-17 Saver Railcard
-  15% Off 26-30 Railcard
   15% Off 16-25 Railcard
+  15% Off 26-30 Railcard
 - TrainPal
-  15% off trains for new customers
+  Up to 5% off train tickets for the UK and the EU
   Up to £10 off when you buy 2+ train tickets
   23% Off UK Railcards
   £4 Off UK Train Tickets for New Customers
-  Up to 5% off train tickets for the UK and the EU
+  15% off trains for new customers
 - FlixBus
   20% Discount on the FlixBus App
 - Omio
-  5% Off Buses
   7% Off Travel for New Customers
+  5% Off Buses
   5% Off Trains
   5% Off Flights
   5% Student Travel Discount

@@ -30,23 +30,23 @@ Your new favourite student discount website with deals you won't find anywhere e
 Student deals of the day
 20% Student Discount
 
-ODEON
-
-6% Student Discount
-
-Euro Car Parts
-
-10% Student Discount
-
-musicMagpie
+Ray-Ban
 
 20% Student Discount
 
-Ray-Ban
+Aspinal of London
 
-30% off Pokémon Night Out Live Music Event
+10% Student Discount
 
-Pokémon Night Out
+Hotels.com
+
+20% Student Discount
+
+ODEON
+
+10% Student Discount
+
+Michael Kors
 
 Big Summer Sale: Up to 80% off the entire store + 12% Student Discount
 
@@ -71,17 +71,15 @@ Online
 
 Fashion
 
-Only on
+£15 off all products including sale
 
-20% Student Discount
-
-ODEON
+Braun
 
 For students only
 
 Online
 
-Cinema
+Beauty
 
 Sponsored
 
@@ -212,6 +210,18 @@ Activewear
 
 Only on
 
+20% Student Discount
+
+ODEON
+
+For students only
+
+Online
+
+Cinema
+
+Only on
+
 10% Student Discount whenever you shop in-store
 
 Southern Co-op
@@ -267,18 +277,19 @@ Online
 
 Entertainment
 
-15% Student Discount Online
+Featured discounts
+The discounts you won’t want to miss
+20% Student Discount
 
-SHEIN
+Ray-Ban
 
 For students only
 
 Online
 
-Fashion
+Accessories
 
-Featured discounts
-The discounts you won’t want to miss
+Sponsored
 
 Only on
 
@@ -291,6 +302,66 @@ For students only
 Online
 
 Cinema
+
+Sponsored
+
+Extra 5% Student Discount on sale
+
+Topshop
+
+For students only
+
+Online
+
+Womens Fashion
+
+Sponsored
+
+£75 cashback
+
+Fused
+
+For students only
+
+Online
+
+Internet Broadband
+
+Sponsored
+
+6% Student Discount
+
+Euro Car Parts
+
+For students only
+
+Online
+
+Home & Utilities
+
+Sponsored
+
+Big Summer Sale: Up to 80% off the entire store + 12% Student Discount
+
+Thrivin
+
+For students only
+
+Online
+
+Fashion
+
+Sponsored
+
+£15 off all products including sale
+
+Braun
+
+For students only
+
+Online
+
+Beauty
 
 Sponsored
 
@@ -318,56 +389,6 @@ Entertainment
 
 Sponsored
 
-£15 off all products including sale
-
-Braun
-
-For students only
-
-Online
-
-Beauty
-
-Sponsored
-
-Big Summer Sale: Up to 80% off the entire store + 12% Student Discount
-
-Thrivin
-
-For students only
-
-Online
-
-Fashion
-
-Sponsored
-
-Only on
-
-15% off on full price items
-
-ECCO
-
-For students only
-
-Online
-
-Fashion
-
-Sponsored
-
-10% Student Discount
-
-musicMagpie
-
-For students only
-
-Online
-
-Tech & Mobile
-
-Sponsored
-
 10% Student Discount
 
 Hotels.com
@@ -377,31 +398,6 @@ For students only
 Online
 
 Holidays
-
-Sponsored
-
-Ends in 2 days
-£0.99/month for the first 3 months
-
-Audible
-
-For students only
-
-Online
-
-Entertainment
-
-Sponsored
-
-£75 cashback
-
-Fused
-
-For students only
-
-Online
-
-Internet Broadband
 
 Sponsored
 
@@ -418,15 +414,15 @@ Online
 
 Travel
 
-Big Summer Sale: Up to 80% off the entire store + 12% Student Discount
+6% Student Discount
 
-Thrivin
+Euro Car Parts
 
 For students only
 
 Online
 
-Fashion
+Home & Utilities
 
 Sponsored
 
@@ -452,7 +448,6 @@ Online
 
 Beauty
 
-Ends today
 Up to 30% off 1000s Sale Styles
 
 ASOS
